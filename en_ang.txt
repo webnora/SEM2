@@ -1,0 +1,3290 @@
+6th {adj} (abbreviation of sixth, see also: sixth) :: 6., 6ta
+AKA {adv} (also known as) :: ōþre naman
+Aaron's rod {n} :: candelwyrt {f}, feltwyrt {f}
+Adelaide {prop} (female given name) :: Æþelhaid
+Adolph {prop} (male given name) :: Æthelwulf
+Africa {prop} (continent south of Europe) :: Affrica {f}
+Albert {prop} (male given name) :: Æþelbeorht
+Alexandria {prop} (city in Egypt) :: Alexandria
+Anglish {prop} (variety of English) :: Anglisċ
+Anglo- {prefix} (prefix: relating to England, English, or the English) :: Angel-
+April {prop} (fourth month of the Gregorian calendar) :: ēastermōnaþ {m}
+Apulia {prop} (region of Italy) :: Puilla {f}
+Arab {adj} (of or pertaining to Arabs and their nations) :: Arabisċ
+Arab {n} (Semitic person) :: Arabisċ
+Arabia {prop} (a peninsula between the Red Sea and the Persian Gulf;) :: Arabia {f}
+Arabian {adj} (related to Arabia) :: Arabisċ
+Arabian {n} (person) :: Arabisċ
+Arabic {adj} (of, from, or pertaining to Arab countries or cultural behaviour) :: Arabisċ
+Arabic {prop} (language) :: Arabisċ {n}
+Archibald {prop} (male given name) :: Eorcenbald {m}
+Aries {prop} (constellation) :: Ramm {m}
+Aries {prop} (astrological sign) :: Ramm {m}
+Aries {n} (Someone with an Aries star sign) :: Ramm {m}
+Asia {prop} (the continent of Asia) :: Asia
+Atlantic Ocean {prop} (the ocean lying between the Americas to the west and Europe and Africa to the east) :: Westsǣ {m}
+August {prop} (eighth month of the Gregorian calendar) :: wēodmōnaþ {m}
+Baltic Sea {prop} (a sea) :: Ostsǣ {m}
+Bartholomew {prop} (the Apostle) :: Barþolomeus
+Bartholomew {prop} (male given name) :: Barþolomeus
+Bath {prop} (City in England) :: Baðanceaster
+Bavaria {prop} (state) :: Bægwaraland, Bægeraland
+Belgium {prop} (country in Europe) :: Belgice
+Big Dipper {prop} (bright circumpolar asterism of the northern sky) :: carles wǣn
+Bornholm {prop} (Danish island in the Baltic Sea) :: Burgenda land {n}
+Bosphorus {prop} (a strait that passes through Istanbul) :: Bosporos
+British {prop} (history: ancient inhabitants of the southern part of Britain) :: Bryttas, Bryttwealas, Bryttwalas
+British {adj} (history: of the ancient inhabitants of the southern part of Britain) :: Bryttisc Brytwylisc
+Briton {n} (inhabitant of Great Britain) :: Bryt {m}, Brytas {m-p}, Bryttas {m}, Britons of Wales Bryttwealas {m-p}, Bryttwalas {m-p}
+Brussels {prop} (capital of Belgium) :: Brysel
+Cain {prop} (son of Adam and Eve) :: Cāin
+Cancer {prop} (constellation) :: Crabba {m}
+Cancer {prop} (astrological sign) :: Crabba {m}
+Cancer {n} (Someone with a Cancer star sign) :: Crabba {m}
+Canterbury {prop} (cathedral city in England) :: Cantwara burg {f}
+Caspian Sea {prop} (landlocked sea) :: Caspia
+Chester {prop} (city in England) :: Ceaster, Legacæstir
+Christ {prop} (title for Jesus of Nazareth) :: Crist {m}
+Christian {n} (member of the Christian religion) :: cristen
+Christian {adj} (of, like or relating to Christianity or Christians) :: cristen
+Christianity {prop} (monotheistic religion) :: cristendom {m}
+Christmas {prop} (Christian holiday) :: Cristes mæsse {f}
+Colchester {prop} (town in England) :: Colneċeaster {f}
+Copenhagen {prop} (capital of Denmark) :: Ċēapmanna hæfen {f}
+Cornwall {prop} (county of England) :: Cornweal {m}
+Creator {prop} (God) :: Sċieppend {m}
+Danish {adj} (of Denmark) :: denisc
+Danube {prop} (river of Europe that flows to the Black Sea) :: Dōnua
+December {prop} (twelfth month of the Gregorian calendar) :: ǣrra ġēola {m}
+Denmark {prop} (country in Northern Europe) :: Denemearc {f}
+Derby {n} (city in England) :: Deoraby
+Donald {prop} (male given name) :: Dufenal {m}
+Dover {prop} (port in Kent, England) :: Dofras
+Earth {prop} (third planet of the Solar System) :: eorþe {f}
+Easter {n} (Christian holiday) :: ēastre
+Edinburgh {prop} (capital of Scotland) :: Edinburg
+Egypt {prop} (country in North Africa) :: Ægypt
+Eider {prop} (Eider River) :: fīfeldōr {n}
+Elbe {prop} (European river) :: Ælf ēa {f}
+Elgar {prop} (male given name) :: Æþelgar
+England {prop} (region of Great Britain) :: Engla land {n}
+English {adj} (of or pertaining to the English language) :: Englisċ, Ænglisċ
+English {prop} (the English language) :: Englisċ
+Ephesus {prop} (ancient city) :: Ephese {m}
+Estonia {prop} (country) :: Estland
+Ethiopian {n} (person) :: Sigelhearwa
+Eucharist {n} (sacrament) :: hūsl {n}
+Europe {prop} (continent) :: Europa {m}
+Exeter {prop} (city) :: Exanċeaster {n}
+February {prop} (second month of the Roman, Julian, and Gregorian calendars) :: solmonaþ {m}
+Finland {prop} (Nordic country) :: Finna land {n}
+Finn {n} (person from Finland) :: Finn {m}
+Florence {prop} (city in Tuscany, Italy) :: Florentia {f}
+France {prop} (country) :: Francland {n}, Francena rīċe {n}, Francrīċe {n}
+French {n} (people of France, collectively) :: Francan {m-p}
+French {n} (principal language of France and other related countries) :: Frenċisċ {n}
+French {adj} (of or relating to France) :: Frenċisċ
+French {adj} (of or relating to the French people) :: Frenċisċ
+French {adj} (of or relating to the French language) :: Frenċisċ
+Freya {prop} (Norse goddess of love) :: Frēo
+Friday {n} (day of the week) :: frigedæg {m}, Fríandæg {m}
+Ganges {prop} (the river) :: Gandis
+Gemini {prop} (constellation) :: Ġetwisan {m-p}
+Gemini {prop} (astrological sign) :: Ġetwisan {m-p}
+Gemini {n} (Someone with a Gemini star sign) :: ġetwisa {m}
+Geneva {prop} (city) :: Genf
+Germany {prop} (country in Central Europe) :: Germania {f}
+Ghent {prop} (capital city of the province of East Flanders, Belgium) :: Gænt
+Gloucester {prop} (city) :: Gleawceastre
+God {prop} :: god {m}, dryhten {m}
+Good Friday {prop} (The Friday before Easter Sunday, the commemoration of the day on which Christ was crucified) :: Langa-Friġedæġ {m}
+Goth {n} (member of the East Germanic tribe) :: Gota {m}
+Gothic {prop} (extinct Germanic language) :: Gotisc
+Greek {n} (language of the Greek people) :: Crēcisċ {n}
+Greek {adj} (of the Greek language, people or country) :: Crēcisċ
+Greenland {prop} (a large self-governing island in North America) :: Grēneland
+Halloween {prop} (October 31st) :: ealra hālġena mæsseǣfen {m}
+Hampshire {prop} (county in the south of England) :: Hāmtūnscīr
+Hebrew {adj} (pertaining to the people) :: Ebrēisċ
+Hebrew {adj} (pertaining to the language) :: Ebrēisċ
+Hebrew {n} (person) :: Ebrēisċ {m}
+Hebrew {n} (language, see also: Biblical Hebrew) :: Ebrēisċ {n}
+Henry {prop} (given name) :: Heanrig
+Holy Spirit {prop} (Christian: aspect of the Holy Trinity) :: Hāliġ Gāst {m}
+Humbert {prop} (male given name) :: Hunbeorht
+I {pron} (personal pronoun) :: ic
+I don't know {phrase} (I don’t know) :: iċ nāt
+I love you {phrase} (affirmation of affection or deep caring) :: iċ lufiġe þē
+I love you {phrase} (affirmation of romantic feeling) :: iċ lufiġe þē
+I want to know {phrase} (I want to know) :: iċ wille witan
+Iceland {prop} (country in Europe) :: Īsland
+Icelandic {n} (language) :: Īslendisc
+India {prop} (the country) :: Indea
+Ipswich {prop} (town) :: Gippeswic
+Ireland {prop} (island) :: Īrland {n}
+Isle of Man {prop} (island) :: Manīeġ
+Istanbul {prop} (largest city of Turkey and last capital of Ottoman Empire) :: Constantinopolis
+Italy {prop} (European country) :: Italia {f}
+January {prop} (first month of the Gregorian calendar) :: æfterra ġēola {m}
+Jesus {prop} (the Christian Messiah) :: Hǣlend {m}
+Jew {n} (person of the Jewish faith) :: Iūdēisċ
+Jew {n} (a person with a Jewish cultural or ancestral connection) :: Iūdēisċ
+Jewish {adj} (of or relating to a Jew or Jews, their ethnicity, religion or culture) :: Iūdēisċ
+July {prop} (seventh month of the Gregorian calendar) :: se æfterra līþa {m}
+June {prop} (sixth month of the Gregorian calendar) :: se ǣrra līþa {m}
+Kent {prop} (the English maritime county) :: Cent {f}
+Kiev {prop} (Ukrainian city) :: Cænugeard
+Lincoln {prop} (a city, a surname) :: Lindcoln
+Lombard {n} (member of a Germanic people) :: Longbeard
+Lombardy {prop} (region in northern Italy) :: Langbeardnaland
+London {prop} (in the United Kingdom) :: Lunden
+Lord {prop} (God) :: dryhten {m}
+Lord {prop} (Jesus) :: dryhten {m}
+Lord's Prayer {prop} (the prayer taught by Jesus Christ to his disciples) :: Fæder ūre
+Lucifer {prop} (figure mentioned in Isaiah 14:12) :: lēohtberend {m}
+Lucifer {prop} (Venus, the morning star) :: ēarendel {m}
+Man {prop} (genus Homo) :: mann
+March {prop} (third month of the Gregorian calendar) :: hreþmōnaþ {m}
+May {prop} (fifth month of the Gregorian calendar) :: þrimilce
+Mediterranean Sea {prop} (the sea between Europe and Africa) :: Wendelsǣ {f}
+Mercia {prop} (one of the Anglo-Saxon kingdoms of England) :: Mierċe  {m-p}
+Methuselah {prop} (Biblical character) :: Mathusal {m}
+Meuse {prop} (river) :: Mǣs
+Midgard {prop} (the abode of humans, between heaven and hell) :: middanġeard
+Milan {prop} (city and capital) :: Mæġelan
+Milky Way {prop} (light in night sky) :: Īringes weġ {m}
+Mjollnir {prop} (the hammer of Thor, Thor's hammer Mjollnir) :: Þunres Hamor {m}, *Meolden {m}
+Monday {n} (day of the week) :: mōnandæġ {m}
+Moon {prop} (sole natural satellite of the Earth) :: mōna {m}
+New Year's Day {n} (holiday occurring on January 1st) :: ġēares dæġ {m}
+Norman {n} (a person from Normandy) :: Norðmandisca {m}
+North Sea {prop} (a marginal sea of the Atlantic Ocean between Britain, Scandinavia and Germany, the Netherlands, Belgium and France) :: Norþsǣ {f}
+Norway {prop} (Scandinavian country) :: Norþweġ {m}
+Nottingham {prop} (city) :: Snotingahām
+November {prop} (eleventh month of the Gregorian calendar) :: blōtmōnaþ {m}
+October {prop} (tenth month of the Gregorian calendar) :: winterfylleþ
+Odin {prop} (in Norse mythology, the supreme god) :: Wōden
+Odysseus {prop} (son of Laertes; Greek leader during the Trojan War) :: Aulixes {m}
+Odyssey {prop} (epic poem describing the journey of Odysseus) :: Odissia
+Old French {prop} (French language from 9th to the early 14th century) :: Frencisc sprǣc
+Old Saxon {n} (the Old Saxon language) :: Seaxisc
+Orion {prop} (constellation) :: eoforþring {n}
+Orwell {prop} (surname) :: Orwell
+Oxford {prop} (city) :: Oxnaford
+Oxford {prop} (university) :: Eormengyld Oxnafordes
+Pacific Ocean {prop} (the world's largest body of water) :: Sericus Gārsecg {m}
+Palm Sunday {n} (Sunday before Easter) :: Palmsunnandæġ {m}
+Paradise {prop} (Heaven) :: hēofon {m}, neorxnawang {m}, paradīs {m}
+Paradise {prop} (the Garden of Eden) :: neorxnawang {m}, paradīs {m}
+Persia {prop} (region of ancient Iran) :: Persa
+Pict {n} (member of an ancient people of northern and central Scotland) :: Pihti
+Plymouth {prop} (a city in Devon, England) :: Sūþtun
+Prince of Darkness {prop} (Satan; the Devil) :: þȳstra ealdor {m}
+Reynold {prop} (male given name) :: Rægnald
+Rhine {prop} (river that flows through Europe) :: Rīn {m} {f}
+Roman {adj} (of or from Rome) :: Rōmānisċ
+Roman {adj} (of or from the Roman Empire) :: Rōmānisċ
+Roman {n} (a native or resident of Rome) :: Rōmānisċ
+Roman {n} (a native or inhabitant of the Roman Empire) :: Rōmānisċ
+Roman Empire {prop} (ancient Latin empire) :: Rōmāna rīċe {n}
+Rome {prop} (city) :: Rōm {f}
+Russia {prop} (country in Asia and Europe) :: Russland
+Sabbath {n} (Jewish Saturday) :: sabat {m}
+Sagittarius {prop} (constellation) :: Sċytta {m}
+Sagittarius {prop} (astrological sign) :: Sċytta {m}
+Sagittarius {n} (Someone with a Sagittarius star sign) :: Sċytta {m}
+Salisbury {prop} (city in England) :: Searoburg
+Saturday {n} (day of the week) :: sæternesdæġ {m}
+Scania {prop} (region of Sweden occupying the southernmost tip of the Scandinavian peninsula) :: Sċedenīġ {f}, Sċedeland {n}, Sconeġ
+Scotland {prop} (country in northwest Europe to the north of England) :: Scotland {n}
+Scots {n} (Lowland Scots language) :: Niðerscyttisc
+September {prop} (ninth month of the Gregorian calendar) :: hærfestmōnaþ {m}, hāliġmōnaþ {m}
+Severn {prop} (the river) :: Sæfern {f}
+Shrewsbury {prop} (town in Shropshire, England) :: Sċrobbesburh
+Sicilian {adj} (relating to Sicily or its inhabitants) :: Sicilisċ
+Sicily {prop} (island) :: Sicilia
+Somerset {prop} (county in England) :: Sumorsǣte
+Spain {prop} (country in Europe) :: Ispania {f}
+Spanish {adj} (of or pertaining to Spain) :: Ispānisċ
+Spanish {n} (Romance language of Spain and the Americas) :: Spēonisċ {n}
+Sun {prop} (star) :: Sunne
+Sunday {n} (day of the week) :: sunnandæġ {m}
+Sweden {prop} (Scandinavian country) :: Swēoland {n}, Swēorīċe {n}
+Taurus {prop} (constellation) :: Fearr {m}
+Taurus {prop} (astrological sign) :: Fearr {m}
+Taurus {n} (Someone with a Taurus star sign) :: Fearr {m}
+Thames {prop} (river through London) :: Temes
+Thing {n} (public assembly) :: þing
+Thursday {n} (day of the week) :: þunresdæġ {m}
+Troy {prop} (an ancient city) :: Trōia {f}
+Tuesday {n} (day of the week) :: Tīwesdæg
+Turkey {prop} (country at intersection of Europe and Asia) :: Tyrcland
+Vandals {prop} (Germanic tribe) :: Wendlas
+Venerable {adj} :: hār
+Viking {n} (One of the Scandinavian seafaring warriors) :: wicing {m}
+Vistula {prop} (Polish river) :: Wīsle {f}
+Vé {prop} (Norse mythological figure) :: wēoh
+Wales {prop} (a constituent nation of the UK) :: Wealas
+Warwick {prop} (county town of Warwickshire) :: Wǣringwīċ {f}
+Wednesday {n} (day of the week) :: wōdnesdæġ {m}
+Wend {n} (member of a Slavic people from the borders of Germany and Poland) :: Winedas {m}
+Wolverhampton {prop} (city) :: Heantun
+Worcester {prop} (city in England) :: Wiogoraċeastre
+York {prop} (city in North Yorkshire) :: Eoforwīċ {n} {f}
+Yorkshire {prop} (former large county) :: Eoferwicscīr {n}
+a friend in need is a friend indeed {proverb} (someone who helps you in your time of need is a real friend) :: æt þearfe man sceal freonda cunnian
+abandon {v} (to give up control of, surrender) :: ofġiefan
+abide {v} :: ābīdan 
+ablative {adj} (applied to one of the cases of the noun in other language) :: ætbreġdendlīċ
+about {prep} (on every side of) :: ymb
+about {prep} (concerning) :: be
+about {adv} (nearly, approximately) :: hūhwega, nēah
+about {adv} (near; in the vicinity) :: nēah
+about {adv} (to a reversed order, or opposite direction) :: wiþersīnes
+abroad {adv} (in foreign countries) :: ūtanlandes
+absence {n} (state of being away) :: æfweardnes {f}
+absent {adj} (being away from a place) :: æfweard
+abstinence {n} (the act or practice of abstaining) :: sȳfernes {f}
+abstinence {n} (specifically, abstinence from alcohol) :: sȳfernes {f}
+abyss {n} (hell, bottomless pit) :: neowolnes {f}, æfgrynde {n}
+abyss {n} (bottomless or unfathomed depth) :: neowolnes {f}, æfgrynde {n}
+accept {v} (to receive with consent) :: onfón
+accept {v} (to admit to a place or a group) :: underfón
+accept {v} (to agree to) :: cēosan, þafian
+accept {v} (to endure patiently) :: þolian, þafian
+accept {v} (to receive officially) :: underfón
+accept {v} (to receive something willingly) :: underfón
+acceptance {n} (act of accepting) :: underfeng {m}
+acceptance {n} (state of being accepted) :: underfeng {m}
+access {n} (way or means of approaching) :: tōgang {m}, ingang {m}
+access {n} (act of approaching or entering) :: tōgang {m}
+access {n} (right or ability of approaching or entering) :: tōgang {m}
+accomplish {v} (to finish successfully) :: fremman
+accusative {adj} (related to accusative case) :: wrēġendlīċ
+accusative {n} (accusative case) :: wregendlic casus
+acidic {adj} (chemistry: having pH less than 7) :: āfor
+acorn {n} (fruit of the oak tree) :: ǣcern {n}
+acre {n} (unit of surface area) :: æcer {m}
+act {v} (to do something) :: ādrēogan
+adjectival {adj} (functioning as an adjective) :: tōġeīecendlīċ
+adjective {n} ((grammar) a word that modifies a noun or describes a noun’s referent) :: tōġeīecendlīċ
+adopt {v} (to take by choice into relationship, as, child, heir, friend, citizen) :: ġewȳsċan
+adoption {n} (act of adopting, or state of being adopted) :: ġewȳsċing {f}, ġewȳsċednes {f}
+adoptive {adj} (related through adoption) :: ġewȳsċendlīċ
+adorn {v} (to make more beautiful and attractive; to decorate) :: ġefrætwian
+adultery {n} (sexual intercourse by a married person with someone other than their spouse) :: ǣwbryċe {m}, unrihthǣmed {m}
+advance {v} (to move forwards, to approach) :: wadan
+adverb {n} (lexical category) :: bīword {n}
+advise {v} (to give advice to; to offer an opinion; to counsel; to warn) :: rædan
+advisor {n} :: rǣdbora {m}, wita {m}
+aerial {adj} (taking place in the air) :: lyften
+again {adv} (another time) :: aġēn
+against {prep} (in opposition to) :: aġēn
+age {n} (whole duration of a being) :: ieldu {f}
+ago {adv} (past; gone by; since) :: for [used before the time]
+air {n} (mixture of gases making up the atmosphere of the Earth) :: lyft {f}
+alas {interj} (exclamation of sorrow, etc.) :: ēalā
+alder {n} (any tree or shrub of the genus Alnus) :: alor {m}
+ale {n} (beer produced by warm fermentation) :: ealu, bēor
+alienate {v} (to estrange) :: āfremdan
+alienation {n} (the act of alienating) :: āfremdung
+alive {adj} (having life) :: cwic
+all day {adv} (the entire day) :: ealne dæġ
+all night {adv} (entire night) :: ealle niht
+all told {adv} (with all included, counted or summed) :: forþġerīmed
+allow {v} (to grant, give, admit, accord, afford, or yield; to let one have) :: ālīefan
+all-powerful {adj} (Omnipotent) :: ælmihtiġ
+almighty {adj} (unlimited in might) :: ælmihtiġ
+almond {n} (nut) :: amigdal {m}
+alphabet {n} (an ordered set of letters used in a language) :: stæfrof
+also {adv} (in addition; besides; as well; further; too) :: ēac
+altar {n} (flat-topped structure used for religious rites) :: weofod {n}
+alter {v} (to change the form or structure of) :: wendan
+although {conj} (but) :: ac
+always {adv} (at all times) :: ā
+amercement {n} (A non-statutory monetary penalty) :: æfwyrdla {m}
+among {prep} (mingling or intermixing) :: mid, betweox
+anchor {n} (tool to moor a vessel into sea bottom) :: ancor {m}
+ancient {adj} :: eald, gamol
+and {conj} (used to connect two similar words, phrases, et cetera) :: and
+and so forth {phrase} (indicating a list continues similarly) :: and swā forþ
+anew {adv} (again) :: aġēn
+angel {n} (messenger from a deity) :: engel {m}
+angel {n} (in Christian angelology, the lowest order of angels) :: engel {m}
+anger {n} (A strong feeling of displeasure, hostility or antagonism towards someone or something) :: torn {n}
+animal {adj} (of animals) :: dēoren
+animal {n} (organism) :: dēor {n}, nīeten {n}
+animal {n} (organism other than man) :: dēor {n}, nīeten {n}
+ankle {n} (joint between foot and leg) :: anclēow {m}
+annihilate {v} (to reduce to nothing, to destroy, to eradicate) :: adilgian
+announce {v} (give public notice) :: wēman, ābēodan
+announce {v} :: bēodan, ābēodan
+annoy {v} (to disturb or irritate) :: ābelġan
+answer {n} (response) :: andswaru {f}, andwyrde {n}
+answer {v} (to make a reply or response to) :: andswarian, andwyrdan, æftercweþan
+answer {v} :: oncweþan
+ant {n} (insect) :: ǣmette {f}
+anthill {n} (home of ants and termites) :: ǣmethyll {m}
+anus {n} (lower opening of the digestive tract) :: earsþȳrel, setl, utgang, earsgang
+anxiety {n} (concern) :: caru {f}
+anxious {adj} (full of anxiety) :: ċeariġ
+anxious {adj} (accompanied with anxiety; worrying) :: ċeariġ
+any {determiner} (at least one (kind)) :: ǣniġ
+any {determiner} (no matter what kind) :: ǣniġ
+anyone {pron} (anybody) :: ǣniġ mann, ǣniġ, hwā, man
+anywhere {adv} (in or at any location) :: āhwǣr
+anywhere {adv} (to any location) :: āhwider
+ape {n} (animal) :: apa {m}
+apostate {n} (person who renounces a religion or faith) :: apostata {m}
+appear {v} (To come or be in sight; to be in view; to become visible) :: ætīewan
+appear {v} (To become visible to the apprehension of the mind) :: ætīewan
+apple {n} (fruit) :: æppel {m}
+apple tree {n} (tree that bears apples) :: apuldor {m}, æppeltrēow {n}
+appropriate {v} (To take to oneself in exclusion of others) :: āgnian
+appropriate {v} (Law: To annex) :: āgnettan
+approximately {adv} (imprecise but close to in quantity or amount) :: hūhwega
+aqueduct {n} (an artificial channel conveying water) :: wætergelæt
+aqueduct {n} (a structure carrying water) :: wætergelæt
+archangel {n} (angel who leads other angels) :: hēahenġel {m}
+archbishop {n} (senior bishop) :: ærcebiscop {m}
+archer {n} (one who shoots an arrow from a bow or a bolt from a crossbow) :: sċytta {m}
+are {v} (third-person plural simple present indicative form of be) :: sind
+area {n} (figuratively, any extent, scope or range) :: stede {m}
+argue {v} :: sacan
+aristocracy {n} (the nobility or the hereditary ruling class) :: æþelu {f} {n}
+aristocratic {adj} (of or pertaining to an aristocracy) :: æþele
+arithmetic {n} (mathematics of numbers, etc.) :: rimcræft, ġerīmcræft
+arm {v} (to supply with armour or weapons) :: ġewǣpnian
+arm {n} (upper appendage from shoulder to wrist) :: earm {m}, arm {m}
+armed {adj} (equipped, especially with a weapon) :: ġewǣpnod
+armoury {n} (place where arms are kept, an arsenal) :: wǣpnhūs {n}
+armpit {n} (cavity beneath the junction of the arm and shoulder) :: ocusta {m}, oxn {f}
+army {n} (military force concerned mainly with ground operations) :: here {m}, fierd {f}
+army {n} :: here, fyrd, duguþ
+around {prep} (defining a circle or closed curve containing) :: ymbe
+arrange {v} (to put in order) :: ġelōgian
+arrive {v} (to reach) :: ancuman
+arrow {n} (projectile) :: strǣl {m}
+art {n} (human effort) :: cræft {m}
+art {n} (conscious production or arrangement) :: cræft {m}
+art {n} (skillful creative activity) :: cræft {m}
+artery {n} (blood vessel from the heart) :: ǣdre {f}
+artificial {adj} (man-made) :: cræftlīċ
+artificial {adj} (false, misleading) :: cræftlīċ
+as {adv} (to such an extent or degree) :: swā
+as {conj} (in the same way that) :: swā
+as {conj} (varying through time to the same proportion that) :: swā...swā...
+as {conj} (considering that, because) :: þæs, swā
+as {prep} (Introducing a basis of comparison) :: swā
+as {prep} (In the role of) :: tō
+as if {conj} (as though) :: swelċe
+as if {conj} (in mimicry of) :: swelċe
+as though {conj} (as to suggest that) :: swelċe
+as usual {adv} (as is usually the case) :: swā ġewunelīċ
+ascend {v} (to fly, to soar) :: stīgan
+ash {n} (solid remains of a fire) :: æsce {f}
+ash tree {n} (Fraxinus tree) :: æsċ {m}
+ask {v} (request an answer) :: friġnan, āscian
+ask {v} (make a request) :: biddan
+asparagus {n} (asparagus plant, Asparagus officinalis) :: eorþnafola {m}
+asparagus {n} (asparagus shoots (food)) :: eorþnafola {m}
+aspen {n} (tree of genus Populus sect. Populus) :: æspe
+ass {n} (buttocks) :: ears {m}
+assembly {n} (congregation of people) :: samnung {f}
+asshole {n} (anus) :: earsþyrel {n}
+asthma {n} (chronic respiratory disease) :: angbrēost {n}
+astronomy {n} (study of the physical universe beyond the Earth's atmosphere) :: tungolcræft {?}
+at least {prep} (at a lower limit) :: hūru
+at least {prep} (anyway) :: hūru
+at night {adv} (during the night) :: on niht, nihtes
+at times {prep} (on occasion, sometimes) :: hwilum
+atheism {n} (rejection of belief that any deities exist (with or without a belief that no deities exist)) :: gelēaflēasnes
+atone {v} (to make reparation, compensation, or amends, for an offence or a crime) :: ġebētan
+attack {n} (attempt to cause damage or injury) :: onrǣs {m}
+attack {n} (offense of a battle) :: onrǣs {m}
+attack {v} (to apply violent force) :: rǣsan
+attempt {v} (to try) :: onġinnan
+audible {adj} (able to be heard) :: ġehīerendlīċ
+aunt {n} (a parent’s sister or sister-in-law) :: módrige {f} [mother's sister], faþu {f} [father's sister]
+authority {n} (power to enforce rules or give orders) :: ealdordōm {m}
+autumn {n} (season) :: hærfest {m}
+avarice {n} (excessive or inordinate desire of gain) :: ġitsung {f}
+average {adj} (constituting or relating to the average) :: medeme
+average {adj} (neither very good nor very bad) :: medeme
+average {adj} (typical) :: medeme
+avoid {v} (to keep away from) :: forbugan
+await {v} :: ābīdan
+aware {adj} (having knowledge of something) :: ġewær, ġecnǣwe
+awl {n} (pointed instrument) :: æl {m} {f}
+baa {v} (to make the cry of sheep) :: blǣtan
+bachelor {n} (unmarried man) :: hagosteald {m}
+back {n} (the rear of body) :: hryċġ {m}
+backbone {n} (series of vertebrae that encloses the spinal cord) :: hryċġbān {n}
+bacon {n} (cut of meat) :: spiċ {n}
+bacon {n} (thin slice of pork) :: spiċ {n}
+bad {adj} (unfavorable; negative) :: yfel
+badger {n} (mammal) :: brocc {m}
+badly {adv} (in a bad manner) :: yfele
+baggy {adj} (of clothing, very loose-fitting) :: pohhed
+bake {v} (to cook in an oven) :: bacan
+bake {v} :: bacan
+bakehouse {n} (bakehouse) :: bæchūs {n}
+baker {n} (person who bakes and sells bread, etc) :: bæcere {m}
+bakery {n} (a shop in which bread and such is baked and sold) :: bæchūs {n}, bæcern {n}
+bald {adj} (having no hair) :: calu, hnot
+ball {n} (solid or hollow sphere) :: clīwen {n}
+ball {n} (quantity of string, thread, etc., wound into a spherical shape) :: clīwen {n}
+bank {n} (edge of river or lake) :: banca
+banner {n} (flag) :: fana {m}
+banner {n} (large sign) :: cumbol {n}
+banner {n} (large piece of cloth with a slogan or emblem carried in a demonstration or other procession) :: cumbol {n}
+baptism {n} (Christian sacrament) :: fulwiht {n}
+baptize {v} (To perform the Christian sacrament of baptism) :: fulwian
+baptized {adj} (who has been baptized) :: gefulwad
+bare {adj} (naked, uncovered) :: bær
+barefoot {adj} (wearing nothing on the feet) :: bærfōt
+barely {adv} (almost not at all) :: unēaþe
+bark {v} (to make a loud noise (dogs)) :: beorcan
+bark {n} (short, loud, explosive utterance) :: ġebeorc {n}
+bark {n} (exterior covering of a tree) :: rind {f}
+barley {n} (Hordeum vulgare or its grains) :: bere {m}
+baron {n} (male ruler of a barony) :: þegn {m}
+bat {n} (small flying mammal) :: hrēaðemūs {f}
+bathhouse {n} (a building with baths for communal use) :: bæþhūs {n}
+battle {n} (general action, fight, or encounter; a combat) :: ġefeoht {n}, wīġ {n}
+battle {n} :: gūþ, wīġ
+battlefield {n} (field of a land battle) :: campstede {m}
+bay {n} (body of water) :: wīc {f}
+be {v} (occupy a place) :: bēon, wesan
+be {v} (used to indicate that the subject and object are the same) :: wesan
+be {v} :: bēon, wesan
+be called {v} (to have a specific name) :: hātan
+be silent {v} (refrain from speaking) :: swīgian
+beach {n} (sandy shore) :: strand {n}
+beach {v} (run something aground on a beach) :: [transitive] āsettan, [intransitive] āsittan
+bear {v} (to carry) :: beran, ætberan [away]
+bear {n} (large mammal of family Ursidae) :: bera {m}
+beard {n} (facial hair) :: beard {m}
+beat {v} :: hnossian 
+beautiful {adj} (possessing charm and attractive) :: fæġer
+beauty {n} (quality of pleasing appearance) :: fægernes {f}
+because {adv} (on account) :: for
+because {conj} (by or for the cause that; on this account that; for the reason that) :: for þon þe
+because of {prep} (on account of, by reason of, for the purpose of) :: for
+become {v} (to begin to be) :: weorþan
+bed {n} (piece of furniture) :: bedd {n}, leġer {n}
+bed {n} (prepared spot to spend the night in) :: eorþrest {f}
+bed {n} (the bottom of a lake or other body of water) :: grund {m}
+bed {n} (garden plot) :: bedd {?}
+bedfellow {n} (one with whom one shares a bed) :: ġebedda {m}, healsġebedda {m} {f}
+bedsheet {n} (a sheet, a piece of cloth cut and finished as bedlinen) :: sċīete {f}
+bedtime {n} (time when one goes to bed to sleep) :: bedtīd {f}
+bee {n} (insect) :: bēo {f}
+beech {n} (tree of genus Fagus) :: bēċe {f}, bōc {f}, bōctrēow {n}
+beehive {n} (home of bees) :: hȳf {f}
+beehive {n} (man-made structure in which bees are kept for their honey) :: hȳf {f}
+beehive {n} :: hȳf {f}
+beekeeper {n} (someone who keeps bees) :: bēoċeorl {m}, bēocere {m}
+beer {n} (alcoholic drink made of malt) :: ealu {n}, bēor {n}
+befall {v} (happen to) :: āgangan
+before {prep} (earlier than) :: ǣr
+before {adv} :: ǣr
+beget {v} :: cennan
+begin {v} (to start, to initiate or take the first step into something.) :: onġinnan, [rare] beginnan
+beginning {n} (that which begins or originates something) :: frymþu {f}
+behead {v} (to remove the head) :: beheafdian, heafdian
+behind {prep} :: æftar
+belch {v} (expel gas from the stomach through the mouth) :: rocettan
+belief {n} (mental acceptance of a claim as truth) :: ġelēafa {m}
+belief {n} (something believed) :: ġelēafa {m}
+belief {n} (the quality or state of believing) :: ġelēafa {m}
+belief {n} (religious faith) :: ġelēafa {m}
+belief {n} (religious or moral convictions) :: ġelēafa {m}
+believe {v} (to accept that someone is telling the truth (object: person)) :: ġelīefan
+believe {v} (to accept as true) :: ġelīefan
+believe {v} (to consider likely) :: ġelīefan
+believe {v} (to have religious faith; to believe in a greater truth) :: ġelīefan
+bell {n} (percussive instrument) :: belle {f}
+belly {n} (abdomen) :: wamb {f}
+belt {n} (band worn around the waist) :: gyrdel {m}, belt {m}
+bench {n} (long seat) :: benċ {f}
+benefactor {n} (on who gives gifts or help) :: wel-doend
+benevolence {n} (disposition to do good) :: welwillendnes {f}
+benevolent {adj} (having a disposition to do good) :: welwillende
+benevolently {adv} (in a benevolent manner) :: welwillendlīċe
+benighted {adj} :: þīestre
+bent {n} :: ġēap 
+better {adj} (comparative of the adjectives good or well) :: betera
+better {adv} (comparative form of the adverb well) :: bet
+between {prep} (in the position or interval that separates two things) :: betweonan, betweonum, betweox
+betwixt {prep} (between, specifically between two things) :: betwēox
+big {adj} (of a great size, see also: large) :: miċel
+bile {n} (secretion produced by the liver) :: ġealla {m}
+billy goat {n} (male goat) :: bucca {m}, hæfer {m}
+bind {v} (transitive to tie or fasten tightly together, with a cord, band, ligature, chain, etc.) :: bindan
+binomial nomenclature {n} (The scientific system of naming each species of organism with a Latinized name in two parts) :: twinemniendlic nama
+bipedal {adj} (having two feet or two legs) :: twifēte
+bird {n} (animal) :: fugol {m}
+birth {n} (process of childbearing; beginning of life) :: ġebyrd {f}, cenning {f}
+birth {n} (instance of childbirth) :: ġebyrd {f}, cenning {f}
+birth {n} (beginning or start; a point of origin) :: ġebyrd {f}
+birth {n} (circumstances of one's background) :: ġebyrd {f}
+birthday {n} (anniversary) :: ġebyrddæġ {m}
+birthplace {n} (location where a person is born) :: cenningstōw {f}
+bishop {n} (church official, supervisor of priests and congregations) :: biscop {m}
+bishop {n} (chess piece) :: biscop {m}
+bison {n} (wild ox, Bison bonasus) :: ūr {m}
+bite {v} (to cut off a piece by clamping the teeth) :: bitan
+bitter {adj} (having an acrid taste) :: āfor
+bittern {n} (bird of the subfamily Botaurinae) :: rāredumle {f}
+black {adj} (absorbing all light) :: blæc, sweart
+blackbird {n} (Turdus merula: blackbird) :: ōsle {f}
+blacken {v} (make black) :: sweartian
+blacksmith {n} (iron forger, see also: smith) :: īsernsmiþ {m}
+blanket {n} (fabric) :: hwītel {m}
+bleak {n} (small European river fish) :: blǣġe {f}
+bleat {n} (cry of a sheep or a goat) :: blǣt {m}, *blǣtung
+bleat {v} (to make the cry of a sheep or goat) :: blǣtan
+blind {adj} (unable to see) :: blind
+blind {v} (make temporarily or permanently blind) :: blendan
+blink {v} (to close and reopen both eyes quickly) :: wincian
+bliss {n} (perfect happiness) :: ēad {n}
+blood {n} (vital liquid flowing in animal bodies) :: blōd {n}
+blood sausage {n} (type of sausage) :: blōdmearh
+blood vessel {n} (component of the circulatory system that carries blood) :: ǣdre {f}
+bloodthirsty {adj} (thirsty for blood) :: blōdiġ, blōdrēow
+bloody {adj} :: drēoriġ
+blossom {n} (flowers on trees) :: blōstma {m}
+blossom {v} (have or open into blossoms) :: blōstmian
+blow {n} (act of striking or hitting) :: sleġe {m}
+blow one's nose {v} (to expel mucus from nose) :: snȳtan
+blue {n} (colour) :: blāw
+boar {n} :: bār {m}, eofor {m}
+board {n} (long, wide and thin piece of wood or other material) :: bord {n}
+board {n} (side of a ship) :: bord {n}
+boast {n} (brag) :: ġielp {m}
+boast {v} (to brag; to talk loudly in praise of oneself) :: ġielpan
+boat {n} (water craft) :: bāt {m}, scip {n}, naca {m}
+body {n} (physical structure of a human or animal) :: līchama {m}
+body {n} (corpse) :: līċ {n}
+boil {v} (heat (a liquid) until it begins to turn into a gas) :: seoþan
+bone {n} (material) :: bān {n}
+bone {n} (component of a skeleton) :: bān {n}
+book {n} (collection of sheets of paper bound together containing printed or written material) :: bōc {f}
+book {n} (major division of a published work, larger than a chapter) :: bōc {f}
+border {n} (the line or frontier area separating regions) :: ġemǣre {n}
+both {determiner} (each of two; one and the other) :: bēġen
+both {conj} (both...and...) :: ġe... ġe...
+bottle {n} (container) :: flasce {f}, pinne {f}, ampelle {f}
+bow {n} (weapon used for shooting arrows) :: boga {m}
+box {n} (cuboid space; container) :: ċist {f}, box {m}
+box tree {n} (tree of the genus Buxus) :: box {m}, boxtrēow {n}
+boxer {n} (participant in a boxing match) :: bēatere {m}
+boy {n} (young male) :: cniht {m}
+brag {v} (to boast) :: ġielpan
+brain {n} (organ) :: bræġn {n}
+branch {n} (woody part of a tree arising from the trunk) :: bōg {m}, twīġ {n}
+branch {n} :: bōg {n}
+bread {n} (baked dough made from cereals) :: hlāf {m}
+break {v} (intransitive: to separate into (to end up in) two or more pieces) :: brecan
+break {v} (transitive: to separate into (to cause to end up in) two or more pieces) :: ofbrecan
+breakfast {n} (first meal of the day) :: morgenmete, underngereord, undernmete {m} [any morning meal]
+breath {n} (act or process of breathing) :: æþm, oroþ {n}
+breath {n} (single act of breathing in and out) :: oroþ {n}
+breath {n} (air expelled from the lungs) :: æþm {m}, oroþ {n}
+breathe {v} (to draw air in and out) :: orþian
+breathing {n} (act of respiration) :: ǣþm {m}
+brew {v} (make tea or coffee) :: brēowan
+brick {n} (hardened block used for building) :: tiġele {f}
+brick {n} (a building material) :: tiġele {f}
+bride {n} (woman in the context of her own wedding) :: brȳd {f}
+bridegroom {n} (bridegroom, groom) :: brȳdguma {m}
+bridge {n} (construction or natural feature that spans a divide) :: brycg {f}
+bright {adj} (visually dazzling, luminous, radiant) :: beorht
+brine {n} :: brȳne {f}
+bring {v} (to transport toward somebody/somewhere) :: bringan, ætberan
+bring forth {v} (to produce, bear as fruit) :: ācennan, forþbringan, forþberan
+broom {n} (domestic utensil) :: besma {m}
+broom {n} (Fabaceae shrub) :: brōm {m}
+brothel {n} (house of prostitution) :: forliġerhūs {n}, scandhūs {n}
+brother {n} (male sibling) :: brōþor {m}
+brother {n} (male having parents in common) :: brōþor {m}
+brother-in-law {n} (one's husband's brother) :: tācor {m}
+brother-in-law {n} :: āþum {m} [sister’s husband]
+brown {n} (colour) :: brun
+brown {adj} (having a brown colour) :: brūn, eorp
+brushwood {n} (fallen branches and twigs) :: spēc
+buck {n} (male deer, goat, etc.) :: bucca {m}, bucc {m}
+bucket {n} (container) :: wæter-stoppa {m}
+build {v} ((transitive) to form by combining materials or parts) :: āhebban
+building {n} (act or process of building) :: (ġe)bytlung, (ġe)timbrung, timber
+building {n} (closed structure with walls and a roof) :: (ġe)bytlung, (ġe)timbrung, bū, reċed {n}, timber {n}, ærn {n}, hof {n}, timbrung {f}
+bull {n} (uncastrated adult male bovine) :: fearr {m}
+bumblebee {n} (genus of bee) :: dora {m}
+burbot {n} (a freshwater fish: Lota lota) :: ǣlepūta {m}
+burglary {n} (the crime of breaking into) :: hūsbryċe {m}
+burn {n} (physical injury) :: birnan
+burn {v} (to cause to be consumed by fire) :: bærnan, onǣlan
+burn {v} (to be consumed by fire) :: birnan
+burn up {v} (destroy by burning) :: onǣlan
+but {conj} (rather) :: ac, ah [Anglian]
+but {conj} (although) :: ac, ah [Anglian]
+but {conj} (except) :: būtan
+but {conj} (solely, only, merely (obsolete)) :: būtan
+butter {n} (soft foodstuff made from milk) :: butere {f}
+butterfly {n} (insect) :: fīfealde {f}, buterflēoge {f}
+buy {v} (to obtain something with money) :: bycgan, ceapian
+buzzard {n} (bird of the genus Buteo) :: tysċa {m}
+by {prep} (near, or next to) :: be
+by {prep} (indicates the agent of a passive verb) :: fram
+by {prep} (indicates creator of a work) :: of
+bystander {n} (a person who, although present at some event, does not take part in it; an observer or spectator) :: ymbstandend {m}, ætstandend {m}
+cabbage {n} (plant) :: cawel {m}
+cadaver {n} (a dead body) :: līċ {n}
+calendar {n} (means to determine the date) :: gerīmbōc {f}
+calf {n} (young cow or bull) :: ċealf {n}
+calf {n} (anatomy: back of the leg below the knee) :: spearlira {m}
+call {n} (social visit) :: sēcness , sōcn {f}, nēosung {f}
+call {n} (beckoning or summoning) :: cīgung {f}, oncīgung {f}
+call {v} (to name or refer to) :: āhātan
+callous {adj} (emotionally hardened) :: unfēlende, ungefēle
+callous {adj} (having calluses) :: wearriht
+callus {n} (hardened part of the skin) :: wearr {m}
+camel {n} (beast of burden) :: olfend {m}
+camp {n} (base) :: fierd {f}
+can {v} (to be able) :: magan [be able to], cunnan [know how to]
+can {v} (may) :: magan
+candle {n} (a light source) :: candel {f}
+canonical {adj} (present in a canon, religious or otherwise) :: gesettendlīc
+canonical {adj} (according to recognised or orthodox rules) :: gesettendlīc
+canonical {adj} ((religion) in conformity with canon law) :: gesettendlīc
+capital city {n} (city designated as seat of government) :: hēafodburg {f}
+captive {n} (a person who has been captured) :: hæft
+care {n} :: ċearu {f}
+care {v} (to be concerned about) :: rēċan
+care {v} :: carian
+careful {adj} (cautious) :: carful
+cargo {n} (freight carried by a ship) :: hlæst {n}
+carnage {n} (death and destruction) :: wæl
+carpenter {n} (carpentry person) :: trēowwyrhta {m}
+carrot {n} (Daucus carota ssp. sativus) :: mōre {f}
+carry {v} (to transport by lifting) :: beran, ferian, ætberan
+carry out {v} (To execute, perform) :: æfnan
+cart {n} :: crœt
+cartilage {n} (dense connective tissue) :: gristel {m}
+carve {v} (to cut) :: ċeorfan, snīþan
+castle {n} (fortified building) :: castell {m}, burg {f}
+cat {n} (domestic species) :: catt {m}
+cattle {n} (domesticated bovine animals) :: feoh
+cauldron {n} (large bowl-shaped pot) :: ċietel {m}, ālfæt {n}
+cause {n} (source or reason of an event or action) :: intinga {m}
+cavalryman {n} (a soldier in the cavalry) :: ridda {m}
+cave {n} (large, naturally occurring cavity formed underground) :: sċræf {n}
+central {adj} (being in the centre) :: middel
+century {n} (100 years) :: ældu {f}
+chain {n} (series of interconnected rings or links) :: racentēag {f}
+chair {n} (furniture) :: stōl {m}
+chancellor {n} (senior secretary or official with administrative or legal duties, sometimes in charge of some area of government) :: canceler
+change {v} (to become something different) :: wendan
+change {v} (to make something into something different) :: wendan
+change {v} (to replace) :: wendan
+channel {n} (physical confine of a river or slough) :: ǣdre {f}
+chaos {n} (in classical cosmogony) :: dwolma {m}
+chaos {n} (state of disorder) :: dwolma {m}
+chapter {n} (section in a book) :: capitol {m}, hēafodweard {f}
+character {n} (being in a story) :: hād {m}
+character {n} (symbol for a sound or a word) :: bocstæf {m}
+chatter {v} (talk idly) :: ġeorran
+cheap {adj} (low and/or reduced in price) :: undīere
+cheap {adj} (of poor quality) :: undīere
+cheap {adj} (of little worth) :: undīere
+cheese {n} (dairy product) :: ċīese {m}
+cheese {n} (countable: any particular variety of cheese) :: ċīese {m}
+cherry {n} (fruit) :: ciris, cirse {f}
+chervil {n} (spice) :: cerfille {f}
+chest {n} (strong box) :: ċest {f}
+chest {n} (treasury) :: arabe, arabe
+chest {n} (thorax) :: brēost {n}
+chick {n} (young bird) :: bridd {m}
+chicken {n} (bird) :: ċȳcen {n}, cicen {n}
+child {n} (a female or male child, a daughter or son) :: ċild {n}, bearn {n}
+child {n} (a minor) :: ċild
+childbirth {n} (act of giving birth) :: tēam {m}, earfoþe {n}
+chin {n} (bottom of a face) :: ċinn {n}; Middle English: chin
+chisel {n} (tool consisting of a slim oblong block of metal) :: heardhēawa
+chisel {v} (to use a chisel) :: hēawan
+chisel {v} (to work something with a chisel) :: hēawan
+choir {n} (singing group) :: chor {m}
+choose {v} (to pick) :: ceosan
+chronicler {n} (person who writes a chronicle) :: tīdwrītere {m}
+church {n} (house of worship) :: ċiriċe {f}
+churn {n} (vessel for churning) :: ċyrin {f}, ċeren {f}
+cider {n} (alcoholic beverage) :: æppelwīn {n}
+cilantro {n} (leaves of the coriander plant) :: celendre {f}
+circle {n} (geometry: set of points that are equally distant from a center) :: trendel {m}, circul {m}
+circum- {prefix} (prefix meaning "around") :: ymb-
+circumcise {v} (to remove the foreskin from the penis) :: ymbsnīþan
+circumcision {n} (removal of foreskin from penis) :: ymbsnidennes {f}
+circumnavigate {v} (to sail completely around something) :: ymblīþan
+circumstance {n} (that which attends, or relates to, or in some way affects, a fact or event) :: ymbstandennes {f}
+citizenship {n} (state of being a citizen) :: burgræden {f}
+city {n} (large settlement) :: burg {f}, burh {f}, ċeaster {f}
+civil war {n} (war between factions within a single country) :: ingefeoht {n}
+clavicle {n} (collar bone) :: wiþobān {n}
+claw {n} (curved horny nail) :: clawu {f}
+claw {n} :: clawu, clea
+clay {n} (mineral substance) :: clǣġ {m}
+clean {adj} (not dirty) :: clǣne
+clean {v} ((transitive) to remove dirt from a place or object) :: clǣnsian
+cleanse {v} (clean, purify) :: clǣnsian, fǣlsian
+cliff {n} (a (near) vertical rock face) :: clif {n}
+climb {v} (to ascend, to go up) :: stīgan
+climb {v} (to mount, to move upwards on) :: climban, stīgan
+clock {n} (instrument to measure or keep track of time) :: dægmǣl {n}
+close {adj} (at a little distance) :: nēah, ġehende
+clothes {n} (apparel) :: clāþas {m-p}
+clothing {n} (clothes) :: clāþas {m-p}, sċrūd {n}, hræġl {n}, wǣd {f}
+cloud {n} (visible mass of water droplets suspended in the air) :: wolcn {n}
+cloud {n} (mass of dust, steam or smoke) :: wolcn {n}
+coast {n} (edge of land meeting ocean, sea, gulf, bay) :: rima {m}
+coin {n} ((currency) a piece of currency) :: mynet {n}, sċeatt {m}
+cold {adj} (having a low temperature) :: ċeald
+cold {n} (illness) :: ġeposu {f}, ġeposu {n-p}
+collaborate {v} (to work together on a piece of work) :: efenwyrċan
+collaboration {n} (act of collaborating) :: efenwyrċung {f}
+collapse {v} (to fall down suddenly; to cave in) :: hrēosan
+collapse {v} (to cease to function due to a sudden breakdown) :: hrēosan
+collapse {v} :: drēosan
+color {n} (spectral composition of visible light) :: blēo {n}, hīw {n}, dēah {f}
+color {n} (particular set of the visible spectrum) :: blēo {n}
+color {v} (give something color) :: blēo {n}
+comb {n} (toothed implement for grooming the hair) :: camb {m}
+comb {v} (to groom the hair with a toothed implement) :: cemban
+combat {n} (a battle; a fight) :: gūþ {f}, gefeoht {n}, camp {m}
+come {v} (to move nearer) :: cuman
+come across {v} (find, usually by accident) :: oferfaran
+come out {v} (to be discovered, be revealed) :: āgān
+come to pass {v} (to happen, to occur) :: āgangan, weorþan
+command {n} (order) :: bebod {n}, hǣs {f}
+command {v} (to order) :: bebēodan, hātan
+common {adj} (mutual) :: gemǣne
+common {adj} (usual) :: ġewunelīċ
+common {adj} (found in large numbers or in a large quantity) :: ġewunelīċ
+common {adj} (ordinary) :: ġewunelīċ
+common noun {n} (noun that denotes any member or all members of a class) :: ġemǣnelīċ nama {m}
+community {n} (group sharing a common understanding) :: ġemǣnsċipe {f}
+companion {n} (someone with whom one spends time or keeps company) :: ġesīþ, ġefēra
+comparable {adj} (able to be compared) :: wiþmetendlīċ
+comparative {adj} :: wiþmetenlic, wiþmetendlic
+comparative {n} (grammatical construction) :: wiþmetendlīċ
+compare {v} (to assess the similarities between two things or between one thing and another) :: wiþmetan
+comparison {n} (act of comparing or the state of being compared) :: wiþmetennes {f}
+comparison {n} (evaluation of the similarities and differences of two (or more) things) :: wiþmetennes {f}
+compel {v} :: bǣdan
+complaint {n} (grievance, problem, difficulty, or concern; the act of complaining) :: inca {m}, ceorung {f}, cwīþung {f}
+compline {n} (last of the canonical hours) :: nihtsang {m}
+computer {n} (person) :: rīmere
+comrade {n} :: ġesīþ, ġefēra
+conceal {v} (to hide something) :: mīþan
+confess {v} (to admit to the truth) :: andettan
+conflagration {n} (a large, ferocious, and destructive fire) :: ǣled {m}
+congregation {n} (large gathering of people) :: samnung {f}
+connive {v} (to pretend to be ignorant of something in order to escape blame) :: ieldan [West Saxon]
+conscience {n} (moral sense) :: inġehyġd {n}, inġeþōht {m}
+consider {v} (assign some quality to) :: tellan, healdan
+constellation {n} (formation of stars perceived as figure) :: tungol {n}
+constrain {v} (to force; to compel; to oblige) :: bǣdan
+content {n} (that which is contained) :: innung {f}
+contents {n} (that which is contained) :: innung {f}
+continue {v} (transitive: proceed) :: þurhwunian
+contra {prep} (against, contrary or opposed to) :: aġēn
+contradict {v} (deny the truth of (a statement or statements)) :: wiþcweþan
+contradict {v} (deny the truth of statements made by (a person)) :: wiþcweþan
+contradict {v} (to be contrary to) :: wiþcweþan
+contradiction {n} (act of contradicting) :: wiþcwedennes {f}
+contradiction {n} (statement that contradicts itself) :: wiþcwedennes {f}
+contradiction {n} (the logical incompatibility of opposing elements) :: wiþcwedennes {f}
+cook {n} (a person who prepares food) :: cōc {m}
+cook {v} (to prepare (food) for eating) :: sēoþan
+cooking pot {n} (any cooking vessel) :: ālfæt {n}
+cooperate {v} (to work together) :: efenwyrċan
+cooperation {n} (act of cooperating or being cooperative) :: efenwyrċung {f}
+copse {n} (thicket of small trees or shrubs) :: sceaga
+copulate {v} (to engage in sexual intercourse) :: hǣman
+cord {n} (length of twisted strands) :: sīma {m}
+corduroy road {n} (road paved with logs) :: bēamweġ {m}
+coronate {v} (to crown a sovereign) :: bēagian, ġecorōnian, wuldorbēagian
+corpse {n} (dead body) :: līċ {n}
+correct {adj} (free from error) :: riht
+correct {v} (To make something wrong become right) :: ġerihtan
+cough {v} (push air from the lungs) :: hwōsan
+cough {n} (expulsion of air from the lungs) :: hwōsta {m}
+cough {n} (condition) :: hwōsta {m}
+council {n} (committee that leads or governs) :: samnung {f}, ġemōt {n}, gaderung {f}
+counselor {n} (professional who counsels people) :: rǣdbora {m}, wita {m}
+counselor {n} (attorney) :: ǣwita {m}
+count {v} (to enumerate or determine number) :: tellan
+count {n} (ruler of a county (male)) :: eorl {m}
+country {n} (region of land) :: land {n}
+country {n} (nation state) :: land {n}
+country {n} (the country, rural area, as opposed to the town or city) :: land {n}
+cousin {n} (nephew or niece of a parent) :: swēor {m}
+cover {v} (to conceal or protect) :: þeċċan
+covet {v} (to wish for with eagerness) :: wilnian
+cow {n} (female domesticated ox or other bovine) :: cū {f}
+cow {n} (any domestic bovine regardless of sex or age) :: cū {f}
+coward {n} (a person who lacks courage) :: bleaþ, earg
+cowardly {adj} (showing cowardice) :: earg
+coworker {n} (somebody with whom one works) :: efenwyrhta {m}
+crab {n} (crustacean) :: crabba {m}, cancer {m}
+craggy {adj} (characterized by rugged etc. features) :: sċylfiġ
+crane {n} (bird) :: cran {m}
+crawl {v} (to move along the ground) :: crēopan
+cream {n} (oily part of milk) :: rēam {m}
+create {v} :: sċieppan
+creation {n} (something created such as an invention or artwork) :: ġesceaft
+creation {n} (act of creation) :: ġesceaft
+creation {n} ((Biblical) all which exists) :: ġesceaft
+creature {n} (living being) :: ġesceaft
+crime {n} (specific act committed in violation of the law) :: morþ {n}, firen  {f}
+crooked {adj} (having one or more bends or angles) :: ġēap
+crosier {n} (staff of a bishop or abbot) :: hæcce {f}
+cross {n} (wooden post with a perpendicular beam, used for crucifixion) :: rōd {f}
+cross {n} (definite: the cross on which Christ was crucified) :: rōd {f}
+crosseyed {adj} (having both eyes oriented inward, especially involuntarily) :: sċēolīeġe
+cross-eyed {adj} (having both eyes oriented inward) :: sċēolīeġe
+crossroads {n} (intersection) :: ġelǣte {n}, ġelǣtu {n-p}
+crow {n} (any bird of the genus Corvus) :: crāwe {f}
+crowd {n} :: ġemang, þrēat {m}
+crown {n} (royal headdress) :: cynehelm {m}, wuldorbēag {m}
+crown {n} (topmost part of the head) :: hnoll {m}, sċēada {m}
+crucify {v} (to execute a person by nailing to a crucifix) :: rōdfæstnian, āhōn
+cruel {adj} (that intentionally causes pain and suffering) :: wælhrēow
+cruelly {adv} (in a cruel manner) :: wælhrēowlīċe
+cruelty {n} (indifference to suffering) :: wælhrēownes {f}
+crumb {n} (small piece of biscuit, cake, etc) :: cruma {m}
+crust {n} (any solid, hard surface layer) :: rind {f}
+crust {n} (outer layer of bread) :: rind {f}
+crutch {n} (device to assist in motion as a cane) :: cryċċ {f}
+cry out {v} (to shout in a loud voice due to pain, fear, or unhappiness) :: clipian
+cuckoo {n} (the bird) :: ġēac {m}
+cucumber {n} (edible fruit) :: eorþæppel {m}
+cunning {adj} :: ġēap
+cunning folk {n} (professional or semi-professional practitioner of magic) :: wicca {m}, wicce {f}, dry {m}
+cure {n} (method, device or medication that restores good health) :: bōt
+curiosity {n} (inquisitiveness; the tendency to ask questions, investigate, or explore) :: fyrwet {n}
+curse {v} (to place a curse upon) :: yfelcweþan
+curtain {n} (piece of cloth covering a window) :: wāgrift {n}
+custom {n} (long-established practice) :: ǣ {f}
+cut {adj} (having been cut) :: gesniden
+cut down {v} (bring down a tree) :: fellan [Anglian], fiellan [West Saxon], āhēawan
+cut up {v} (to cut into smaller pieces) :: āhēawan
+daisy {n} (Bellis perennis) :: dæġes ēage {n}
+daisy {n} (commonly used term for related flowers) :: dæġes ēage {n}
+daisy {n} :: dæġes ēaġe {n}
+damage {n} (abstract measure of something not being intact; harm) :: æfwerdelsa {m}, æfwerdla {m}, hearm {m}, æfwyrdla {m}
+damage {v} (to make something less intact or even destroy it; to harm or cause destruction) :: derian, gesargian, sliþan
+damp {v} :: dampen
+dance {n} (movements to music) :: frīcian
+dance {v} (move rhythmically to music) :: frīcian, sealtian
+dancer {n} (person who dances) :: hlēapere {m}, hoppere {m}, tumbere {m}
+dancer {n} (a female person who dances) :: hlēapestre {f}
+dandelion {n} (plant, wild flower of the genus Taraxacum) :: ǣġwyrt {f}
+danger {n} (exposure to likely harm) :: fǣr {m}, gefǣr {n}
+danger {n} :: fǣr {m}
+dangerous {adj} (full of danger) :: frēcne
+dark {adj} (having an absolute or relative lack of light) :: deorc, nifol
+darken {v} (to become darker (less bright)) :: nīpan
+date {n} (fruit of the date palm) :: fingeræppel {n}
+date {n} (point of time at which a transaction or event takes place) :: tælmearc {f}, datārum {m}
+dative {adj} (grammar: noting the case of noun which expresses indirect object) :: forġiefendlīċ
+dative case {n} (case used to express direction towards an indirect object) :: forġiefendlīċ fiell
+daughter {n} (female offspring) :: dohtor, ċild
+daughter-in-law {n} (wife of one's child) :: snoru {f}
+dawn {v} (to begin to brighten with daylight) :: dagian
+dawn {n} (morning twilight period) :: dægrēd
+dawn {n} (rising of the sun) :: dagung {f}
+dawn {n} (time) :: dagung {f}
+day {n} (period of 24 hours) :: dæġ
+day {n} :: dæġ {m}, dōgor {n}
+day before yesterday {n} (day before yesterday - translation entry) :: ǣrġiestrandæġ {m}
+day before yesterday {adv} (on the day before yesterday - translation entry) :: ǣrġiestrandæġ
+daybreak {n} (dawn) :: dagung {f}
+deaf {adj} (unable to hear) :: dēaf
+deal {v} :: dǣlan 
+dear {adj} (loved; lovable) :: lēof, dīere
+dear {adj} (precious to or greatly valued by someone) :: dīere
+dear {adj} :: swǣs 
+death {n} (cessation of life) :: dēaþ {m}
+deathblow {n} (strike or blow) :: dēaþsleġe {m}
+debt {n} (action, state of mind, or object one has an obligation to perform for another) :: scyld {f}
+decision {n} :: dōm
+decline {n} (sloping downward) :: æfdȳne {m}
+decline {v} (move downwards) :: drēosan
+decrease {n} (amount of decrease) :: æfwela {m} [of wealth]
+deer {n} (animal of the family Cervidae) :: heorot {m}
+defend {v} (ward off attacks against) :: bewerian
+defense {n} (action of protecting from attack) :: bewerung {f}
+defense {n} (government policy or structure) :: utwaru {f}, wiþermal {n}
+defile {v} (to make impure or dirty) :: bædan
+delay {v} (put off until a later time) :: ieldan, gælan, lettan
+delight {n} (joy, pleasure) :: wynn {f}
+deliver {v} (to bring or transport something to its destination) :: āgan
+delivery {n} (act of giving birth) :: tēam
+demon {n} :: þyrs
+demonic {adj} (Pertaining to evil spirits) :: dēofollīċ
+denial {n} (refusal to comply with a request) :: wiþersæc
+denial {n} (assertion of untruth) :: wiþersæc
+density {n} (physics: amount of matter contained by a given volume) :: þicnes {f}
+deny {v} (to assert that something is not true) :: wiþsacan
+depart {v} (to leave) :: lēoran, wendan, fēran, scacan, ġewītan
+depart {v} (to die) :: lēoran, wendan, faran
+depend {v} (be contingent or conditioned) :: hangian
+deprive {v} (take something away; deny someone of something) :: bedælan
+deride {v} (to harshly mock; ridicule) :: āhliehhan
+descent {n} (instance of descending) :: æfdæl {n}
+descent {n} (sloping passage or incline) :: æfdȳne {m}
+desert {n} (barren area) :: wēsten
+desire {n} (something wished for) :: lust
+desire {n} (strong attraction) :: lust
+desire {n} (feeling of desire) :: lust
+despise {v} (to regard with contempt or scorn) :: ǣwan
+detach {v} (to take apart or take off) :: ālīesan
+devil {n} (a creature of hell) :: deofol {n}
+devise {v} (use the intellect to plan or design) :: āhyċġan
+devour {v} (to eat greedily) :: fretan
+dew {n} (moisture in the air that settles on plants, etc) :: dēaw {f}
+diaphragm {n} (anatomy: sheet of muscle separating thorax from abdomen) :: midhriðre {n}, midhrif {m}
+die {v} (to stop living) :: sweltan
+die {n} (polyhedron used in games of chance) :: tesol {m}, tæfl {f}
+different {adj} (not the same) :: ungelic
+difficult {adj} (hard, not easy) :: earfoþe
+dig {v} (to move hard-packed earth out of the way) :: delfan
+digestion {n} (process in gastrointestinal tract) :: meltung {f}
+dill {n} (herb of the species Anethum graveolens) :: dile {m}
+dinner {n} (main meal of the day) :: middægþenung {f}
+dirigible {n} (a self-propelled airship that can be steered) :: lyftscip {n}
+dirty {adj} (covered with or containing dirt) :: fūl, unclǣne, adeliht
+dirty {adj} (that makes one dirty) :: fūl
+disappoint {v} (to displease by underperforming etc.) :: āþwītan, trucian
+disarm {v} (to deprive of arms) :: bewǣpnian
+disciple {n} (person who learns from another) :: ġingra {m}, discipul {m}
+disciple {n} (active follower or adherent) :: leorningcniht {m}
+discover {v} (expose something previously covered) :: āfindan
+disease {n} (an abnormal condition of the body causing discomfort or dysfunction) :: coþu {f}, ādl {f}, ælfsogoþa {m}
+diseased {adj} (Affected with of suffering from disease) :: ādliġ
+dishonour {n} (shame or disgrace) :: ǣwisċ {f}
+disobedience {n} (refusal to obey) :: unġehīersumnes {f}
+disobedient {adj} (not obedient) :: unġehīersum
+dissuade {v} (convince not to try or do) :: belēan
+distress {v} (cause strain or anxiety) :: ābelgan
+distribute {v} :: dǣlan 
+distribution {n} :: brytnung {f}
+divide {v} (split into two or more parts) :: tōdǣlan
+do {v} (in questions) :: Not used in Old English
+do {v} (in negations) :: Not used in Old English
+do {v} (referring to an earlier verb (pro-verb)) :: dōn
+do {v} (perform, execute) :: dōn
+do {v} (perform tasks) :: drēogan; drēogan
+do you believe in God {phrase} (do you believe in God?) :: ġelīefst þū on God?
+do you speak English {phrase} (do you speak English? (English specifically)) :: spricst þū Englisċ?
+do you speak English {phrase} (do you speak...? (fill with the name of the current foreign language)) :: spricst þū Englisċ?
+doe {n} (female deer) :: hind
+dog {n} (animal) :: hund {m}
+dolphin {n} (aquatic mammal) :: mereswin {n}
+domesticate {v} (to make domestic) :: temian
+domesticate {v} (to make fit for domestic life) :: temian
+domesticate {v} ((transitive) to adapt to live with humans) :: temian
+donkey {n} (a domestic animal, see also: ass) :: esol {m}
+door {n} (portal of entry into a building, room or vehicle) :: duru {f}
+dormitory {n} (room for sleeping) :: slǣpern {n}
+double-edged {adj} (a blade that is sharp on both edges) :: twieċġe, twieċġede
+doubt {v} (to lack confidence in) :: twēoġan
+doubt {n} (disbelief or uncertainty (about something)) :: twēo {m}
+dough {n} (mix of flour and other ingredients) :: dāh {m}, dāg {m}
+dove {n} (bird of the family Columbidae) :: culfre {f}, *dūfe {f}
+dragon {n} (mythical creature) :: draca, wyrm
+dream {n} (imaginary events seen while sleeping) :: swefn {n}
+dream {v} (see imaginary events while sleeping) :: mǣtan
+drink {v} (consume liquid through the mouth) :: drincan
+drink {n} (served beverage) :: drenc {m}, wǣt {n}
+drink {n} (type of beverage) :: drenc {m}, wǣt {n}
+drink {n} (served alcoholic beverage) :: drenc {m}, līþ {n}
+drink {n} (action of drinking) :: drync {m}
+drink {n} :: drync
+drinking-horn {n} (a drinking-vessel made from the horn of an animal) :: drenchorn {m}
+drone {n} (male bee) :: drān {f}
+dropsical {adj} (relating to water collecting in body cavities and tissues) :: wætersēoc
+dropsy {n} (swelling) :: wætersēocnes {f}, wæterādl {f}
+drown {v} (to be suffocated in fluid) :: ādrincan
+drown {v} (to deprive of life by immerson in liquid) :: ādrenċan
+drown {v} (to overwhelm in water) :: ādrenċan
+druid {n} (an order of priests) :: drȳ {m}
+drunk {adj} (intoxicated after drinking too much alcohol) :: druncen
+dry {adj} (free from liquid or moisture) :: dryġe
+duck {n} (aquatic bird of the family Anatidae) :: ened {f}
+duel {n} (combat between two persons) :: ānwīġ {n}
+dung beetle {n} (insect of the family Scarabaeidae) :: sċearnwifel {m}
+dungeon {n} (underground prison or vault) :: dung {f}, dimhūs {n}
+duty {n} (that which one is morally or legally obligated to do) :: pleoh {n}
+dwarf {n} (being from folklore, underground dwelling nature spirit) :: dweorg {m}
+dwell {v} (live, reside) :: būan
+each {determiner} (every) :: ǣġhwylċ, ġehwā, ǣlċ
+eagle {n} (any of several large carnivorous birds in the family Accipitridae) :: earn {m}
+ear {n} (organ of hearing) :: ēare {n}
+ear lobe {n} (a part of the ear) :: ēarlæppa {m}
+earl {n} (a British or Irish nobleman) :: eorl {m}
+earring {n} (piece of jewelry) :: ēarhring {m}
+earth {n} (soil) :: hrūse {f}
+earth {n} (any general rock-based material) :: hrūse {f}
+earth {n} (one of the four basic elements) :: hrūse {f}
+earth {n} (one of the five basic elements) :: hrūse {f}
+earthquake {n} (shaking of the surface of a planet) :: eorþbeofung {f}, eorþstyrung {f}
+earthworm {n} (worm (animal)) :: reġnwyrm {m}
+earwig {n} (the insect) :: ēarwiċġa
+easy {adj} (requiring little skill or effort) :: eaþe
+eat {v} (to ingest, see also: consume; ingest) :: etan
+eating {n} (the act of consuming food) :: ǣt {m}
+eclipse {n} (passage of a planetary object between others) :: āsprungennes {f}
+edema {n} (excessive accumulation of serum in tissue) :: wætersēocnes {f}, wæterādl {f}
+edit {n} (a change to the text of a document) :: adihtan
+eel {n} (any fish of the order Anguilliformes) :: ǣl {m}
+egg {n} (body housing an embryo) :: ǣġ {n}
+egg {n} :: ǣġ
+egoistical {adj} (caring about the gratification of one's own desires) :: selflice
+eight {num} (cardinal number 8) :: eahta, æhta [Anglian], ehta [West Saxon]
+eight {n} (The digit/figure 8) :: eahta
+eighty {num} (80) :: hundeahtatiġ
+either {conj} (introduces the first of two options) :: oþþe
+elbow {n} (joint between upper arm and forearm) :: elnboga {m}
+elder {adj} (greater than another in age or seniority) :: ealdor
+elephant {n} (mammal) :: elpend {m}
+elevate {v} (raise) :: āhebban
+eleventh {adj} (ordinal form of eleven, see also: 11th) :: endlefta
+eleventh {n} (something in the eleventh position) :: endlefta
+eleventh {n} (one of eleven equal parts of a whole) :: endlefta dǣl
+elf {n} (mythical, supernatural being) :: ælf
+embroidery {n} (ornamentation) :: blēocræft {m}
+eminent {adj} (of a person: distinguished, noteworthy) :: æþele
+emperor {n} (ruler of an empire) :: cāsere {m}
+empire {n} (political unit, having numerous or extensive territories) :: rīċe {n}
+empty {adj} (devoid of content) :: tōm; īdel
+enclose {v} (surround, fence in) :: tȳnan
+enclosure {n} (area partially or entirely enclosed by walls, fences or buildings) :: tūn  {m}
+enclosure {n} :: haga
+encompass {v} (surround) :: bebūgan
+endure {v} (to suffer) :: ādrēogan, drēogan, þrōwian, æfnan
+enemy {n} (someone who is hostile to, feels hatred towards, opposes the interests of, or intends injury to someone else) :: fēond {m}
+enmity {n} (hostile or unfriendly disposition) :: fǣhþ {f}
+ennoble {v} (To bestow with nobility, honour or grace) :: æþelian
+enter {v} (to go into (a room, etc.)) :: infaran
+entirely {adv} (to the full extent) :: ǣdre
+envy {n} (resentful desire of something possessed by another) :: ofest {f}, ofestnes {f}, æfestung {f}, anda {m}, hete {m}, niþ {m}
+equal {n} (person or thing of equal status to others) :: ġelīca {m}
+equality {n} (fact of being equal) :: efenlīcnes {f}
+equality {n} (mathematics: fact of having the same value) :: efenlīcnes {f}
+equality {n} (equal treatment of people irrespective of social or cultural differences) :: efenlīcnes {f}
+equinox {n} (intersection of the ecliptic with the celestial equator) :: efenniht {f}
+erase {v} (to remove markings or information) :: dilegian
+erect {v} (to put up by the fitting together of materials or parts) :: āhebban
+escape {v} (to get free) :: flēon, wiþfaran
+escape {n} (act of leaving a dangerous or unpleasant situation) :: flēam {m}
+eschew {v} (avoid, shun) :: ætflēon
+especially {adv} (particularly) :: swīþost
+-ess {suffix} (female suffix) :: -en {f}
+establish {v} (To found; to institute) :: aræran, asettan, astellan, befæstan, fæstan, gegrundweallian, gemægenian, gestaþolfæstian, onstellan, ræran, stalian, staþolfæstnian, staþolian
+estimate {v} (to calculate roughly) :: pinsian
+estrange {v} (cause to feel less close or friendly; alienate) :: āfremdan
+etc. {phrase} (and so on, see also: and so forth) :: and swā forþ
+eternal {adj} (lasting forever) :: ēċe
+eternity {n} (infinite time) :: ēcnes {f}, ǣwignes {f}
+eve {n} (day or night before) :: ǣfen {m}
+even {adv} (implying extreme example) :: furþum
+even {adv} (emphasising comparative) :: ġīet
+evening {n} (time of day between dusk and night) :: ǣfen
+evening star {n} (planet Venus seen in the evening) :: æfensteorra {m}
+every {determiner} (all of a countable group) :: ǣlċ
+everyone {pron} (every person) :: ǣlċ, ǣlċ mann, ġehwā
+everywhere {adv} (at all places) :: ofer eall, āhwǣr, ǣġhwǣr, ġehwǣr, hwǣr, from ~ ġehwanon, ǣġhwanan, to ~ ġehwider, ǣġhwider, āhwider, [nearly everywhere] welhwǣr, wel hwǣr, wel ġehwǣr
+evil {adj} (intending to harm) :: unriht
+evil {n} :: unriht
+ewe {n} (female sheep) :: ēowu {f}
+exalt {v} (to elevate in rank, status etc.) :: āhebban
+example {n} (something representative of a group) :: bȳsen {f}
+example {n} (something serving to explain or illustrate a rule) :: bȳsen {f}
+example {n} (something serving as a pattern of behaviour) :: bȳsen {f}
+excellent {adj} (of the highest quality) :: æþele
+exchange {v} (To trade or barter) :: wrixlan
+excite {v} (to arouse or bring out (eg feelings); to stimulate) :: onǣlan
+exile {n} :: wreċċa
+exist {v} (to be) :: wesan, bēon
+exit {n} (way out) :: ūtgang {m}
+expect {v} (to look for, look forward to, anticipate) :: wēnan
+expedition {n} :: fyrd [2, 3, 4], faru [2, 3]
+expensive {adj} (having a high price or cost) :: dīere
+experience {v} (to observe or undergo) :: ġebīdan
+explain {v} (report) :: ġereċċan
+exult {v} (rejoice) :: āhliehhan [poetic]
+eye {n} (organ) :: ēage {n}
+eye for an eye {n} (compensation for an injury) :: ēaġe for ēaġe
+eye for an eye, a tooth for a tooth {proverb} (compensation for an injury) :: ēaġe for ēaġe, tōþ for tōþ
+eyeball {n} (ball of the eye) :: ēaġæppel {m}
+eyebrow {n} (hair that grows over the bone ridge above the eye socket) :: oferbrū {f}
+eyelash {n} (hair growing on the edge of an eyelid) :: brū {f}
+eyelid {n} ((anatomy) a thin skin membrane that covers and moves over an eye) :: brǣw {m}
+face {n} (front part of head) :: ansīen {f}, andwlita {m}, nebb {n}
+fair {adj} (pretty or attractive) :: fæġer
+fair {adj} (just, equitable) :: rihtwīs
+fair {n} (celebration) :: ġēarmarket {n}
+fairness {n} (property of being beautiful) :: fæġernes {f}
+fairy {n} (mythical being) :: ælf, ælfen {f}
+faith {n} (feeling that something is true) :: ġelēafa {m}
+faith {n} (religious belief system) :: ġelēafa {m}
+fake {v} (to make a false display of) :: līċettan
+fall {n} (act of moving in gas or vacuum under the effect of gravity from a point to a lower point) :: hryre {m}, fiell
+fall {n} (loss of greatness or status) :: hryre {m}
+fall {v} (move to a lower position under the effect of gravity) :: drēosan, feallan
+fall {v} (be brought to earth or be overthrown) :: crincgan
+fallow {n} (ground left unseeded for a year) :: fealg
+false {adj} (untrue, not factual, wrong) :: lēas
+fame {n} (state of being famous) :: hlīsa {m}, tīr {m}
+family {n} (immediate family, e.g. parents and their children) :: hīred {m}
+family {n} (group of people related by blood, marriage, law, or custom) :: faru {f}, tēam, cnosl {n}, mægþ {f}
+famous {adj} (well known) :: hlīsful, ġefrǣġe
+famous {adj} :: mǣre
+fan {n} (hand-held device) :: fann {f}, windsċofl {f}
+farmer {n} (person who works the land and/or who keeps livestock) :: eorþling {m}, landbūend {m}, ġebūr {m},, æcerċeorl {m}, æcermann {m}
+fascination {n} (the act of fascinating, bewitching, or enchanting; enchantment; witchcraft) :: malsċrung {f}
+fat {n} (specialized animal tissue) :: rysel {m}
+fate {n} (that which predetermines events) :: wyrd {f}
+fate {n} (destiny) :: wyrd {f}
+father {n} (male parent) :: fæder {m}
+father-in-law {n} (one's spouse's father) :: swēor {m}
+faun {n} (a mythical creature) :: wuduwāsa
+fear {n} (uncountable: emotion caused by actual or perceived danger or threat) :: eġe {m}
+fear {n} (a phobia; sense of fear induced by something or someone) :: eġe {m}
+fear {n} (extreme veneration or awe) :: eġe {m}
+fear {n} :: eġe
+fear {v} (feel fear about (something)) :: ondrǣdan
+fearless {adj} (free from fear) :: unforht
+feather {n} (branching, hair-like structure that grows on the bodies of birds) :: feþer {f}
+fell {v} (to make something fall) :: fellan [Anglian], fiellan [West Saxon]
+felt {n} (cloth made of matted fibres of wool) :: felt {m}
+female {adj} (belonging to the sex that typically produces eggs, or the gender typically associated with it) :: wiflic
+fence {n} (barrier) :: heġe {m}
+fennel {n} (Foeniculum vulgare, the plant) :: finul {m}
+fern {n} (plant) :: fearn {n}
+fertile {adj} ((of land etc) capable of growing abundant crops) :: wæstmbǣre
+fertile {adj} ((biology) capable of reproducing) :: wæstmbǣre
+fertility {n} (the condition, or the degree of being fertile) :: wæstmbǣrnes {f}
+fetter {n} :: feter {f}, hæft {m}
+feud {n} :: fǣhþu {f}
+fever {n} (higher than normal body temperature) :: hriþ
+field {n} (land area free of woodland, cities, and towns; open country) :: feld {m}, wang {m}
+field {n} (wide, open space used to grow crops or to hold farm animals) :: feld {m}, æcer {m}
+field {n} (course of study or domain of knowledge or practice) :: stede {m}
+field {n} :: flōr
+fifteen {num} (cardinal number) :: fīftīene
+fig {n} (tree or shrub) :: fīc {m}, fīctrēow {n}, fīcbēam {m}
+fig {n} (fruit) :: fīc {m}, fīcæppel {m}
+fight {v} ((intransitive) to contend in physical conflict) :: feohtan
+fight {n} (occasion of fighting) :: ġefeoht {n}
+fight {n} (battle) :: ġefeoht {n}
+film {n} (thin layer) :: filmen {m}
+filth {n} (dirt) :: fylþ
+filthy {adj} (covered with filth; very dirty) :: adeliht
+fin {n} (appendage of a fish) :: finn {m}
+finch {n} (any bird of the family Fringillidae) :: finċ {m}
+finger {n} ((anatomy) extremity of the hand) :: finger {m}
+fingertip {n} (the end of the finger) :: fōreweard finger, ȳtmest finger
+finish {v} (to complete) :: ġeendian
+finish {v} (to come to an end) :: ġeendian
+fir {n} (conifer of the genus Abies) :: furh, æbs
+fire {n} (oxidation reaction) :: fȳr {n}, ǣled {m}, ād  {m}, al {n}
+fire {n} (instance of this chemical reaction) :: ǣled {m}
+firm {adj} (fixed (in opinions)) :: ǣfæst [in observing the law]
+first {adj} (numeral first, see also: 1st) :: forma, ǣrest
+fish {v} (intransitive: to try to catch fish) :: fiscian
+fish {n} (vertebrate animal) :: fisċ {m}
+fisher {n} (person who fishes) :: fisċere {m}
+fisherman {n} (person catching fish) :: fisċere {m}
+fishing {n} (act or sport of catching fish) :: fiscoþ {m}
+five {num} (five ) :: fif
+fivefold {adj} (in fives) :: fīffeald
+fix {v} (to mend or repair) :: ġebētan
+flag {n} (piece of cloth or often its representation) :: fana {m}
+flame {n} (visible part of fire) :: līeġ {m}
+flatulence {n} (state of having gas in digestive system) :: wind
+flax {n} (plant) :: fleax
+flee {v} (to run away; to escape) :: flēon, ætflēon
+flight {n} (act of flying) :: flyht {m}
+flight {n} (act of fleeing) :: flēam {m}
+flint {n} (hard fine-grained quartz which generates sparks when struck) :: flint {m}
+flood {n} (overflow of water) :: flede
+floor {n} (bottom part of a room) :: flōr, flet
+flour {n} (ground cereal grains) :: melu {n}
+flower {n} (reproductive structure in angiosperms) :: blōstm {m}, blōstma {m}
+foal {n} (young horse) :: fola {m}
+fog {n} (cloud that forms at a low altitude and obscures vision) :: mist {m}
+folding chair {n} (a light portable chair) :: fieldestōl {m}
+folk {n} (inhabitants of a region) :: folc
+follow {v} (to go or come after in physical space) :: folgian, fylgan, æfterfolgian
+foot {n} (part of animal’s body ) :: fōt {m}
+foot {n} (part of human body ) :: fōt {m}
+foot {n} (unit of measure ) :: fōt {m}
+foot {n} (bottom edge of a sail ) :: fōt {m}
+footstool {n} (a low stool) :: fōtsċamol {m}, sċamol {m}
+for nothing {adv} (for no reason) :: on īdel
+forbidden {adj} (not allowed) :: forboden
+force {v} (compel (someone to do something)) :: ġenīedan
+forefinger {n} (first finger next to the thumb) :: sċytefinger {m}
+forehead {n} (part of face above eyebrows) :: steorn {f}, fōrehēafod {n}, foranhēafod {n}, fōreweard hēafod {n}
+foreign {adj} (originating from or characteristic of a different country) :: elþēodiġ, ūtlendisc, ūtlende, fremede, elelænde, ellende, elelendisc
+foreign {adj} (belonging to a different organization) :: ūtlende, ūtlendisc, fremede, elelænde, ellende, elelendisc
+foreign country {n} (country of which one is not a citizen) :: ūtland {n}, eleland {n}, elland {n}
+foreign language {n} (any language other than that spoken by the people of a specific place) :: feorcumen {m}
+foreigner {n} (person in a foreign land) :: ūtlenda {m}, elþēodiġa {m}, elþēodiġe {f}, wealh {m}
+foreskin {n} (prepuce / foreskin) :: filmen {n}
+forest {n} (dense collection of trees) :: wudu {m}, holt {n}, weald {m}; Old French: bois {m}
+forget {v} :: forġietan 
+forgive {v} (transitive, to pardon) :: forġiefan
+fort {n} (fortified defensive structure stationed with troops) :: fæsten
+fortress {n} (fortified place) :: fæsten {n}
+forty {num} (the cardinal number occurring after thirty-nine) :: fēowertiġ
+found {v} (to begin building) :: astemnian, gegrundweallian
+foundation {n} (lowest and supporting part or member of a wall) :: grundweall {m}
+founder {n} (one who founds, establishes, and erects; one who lays a foundation; an author) :: staþoliend {m}
+four {num} (the cardinal number 4) :: feower
+fourteen {num} (cardinal number) :: fēowertīene
+fourteenth {adj} (ordinal form of the number fourteen, see also: 14th) :: fēowertēoþa
+fourteenth {n} (something in the fourteenth position) :: fēowertēoþa
+fourteenth {n} (one of fourteen equal parts of a whole) :: fēowertēoþa dǣl
+fox {n} (Vulpes) :: fox {m}
+foxglove {n} (plant of the genus Digitalis) :: fingerdocce
+foxhole {n} (fox's burrow) :: foxhol {n}
+fragrance {n} (pleasant smell or odour) :: æþelstenċ {m}, wyrtbrǣþ {m}
+free {adj} (not imprisoned) :: frēo, frēolic
+free {adj} (unconstrained) :: frēo
+free {adj} (without obligations) :: frēo
+free {v} (make free) :: frēoġan
+free time {n} (time that can be spent on one's own activities rather than work) :: ǣmethwīl {f}
+friend {n} (person whose company one enjoys) :: frēond {m}, wine {m}
+friendship {n} ((uncountable) condition of being friends) :: frēondsċipe {m}
+friendship {n} ((countable) friendly relationship) :: frēondsċipe {m}
+frightened {adj} (afraid, suffering from fear) :: acol
+fringe {n} (decorative border) :: fæs {n}, fnæs {n}, fnæd {n}
+frog {n} (amphibian) :: frosċ {m}, frocga {m}
+from now on {adv} (from now, indefinitely) :: heonan forþ
+frost {n} (cover of minute ice crystals) :: hrīm {m}
+frost {n} (cold weather that would cause frost) :: frost {m}
+froward {adj} (Disobedient, contrary, unmanageable) :: ranc
+frozen {adj} (having undergone freezing) :: ġefroren
+fruit {n} (part of plant) :: wæstm {m}, ofett {n}
+fruit {n} (food) :: wæstm {m}, ofett {n}
+fruit {n} (figuratively: positive end result or reward of labour or effort) :: wæstm {m}
+frying pan {n} (long-handled, shallow pan used for frying food) :: brǣdpanne {f}, panne {f}
+fugitive {n} (a person who is fleeing or escaping from something) :: flīema {m}
+full moon {n} (phase of moon when in opposition to sun) :: fulla mōna {m} 
+fully {adv} (to a full extent) :: ǣdre
+furious {adj} :: hātheort
+fury {n} (extreme anger) :: geris {n}, gewed {n}, reþscipe {m}, wedenheortnes {f}, wodþrag {f}, wuhhung {f}, grama {m}, hæst {f}, hatheort {n}, hathyge {m}, wedenheort {n}, wodness {f}, wodscipe {m}
+future {n} (the time ahead) :: tōweardnes {f}
+future {adj} (having to do with or occurring in the future) :: tōweard
+gander {n} (a male goose) :: ganra {m}
+gannet {n} (sea bird) :: ganot {m}
+garment {n} (single item of clothing) :: hræġl {n}, wǣd {f}
+gem {n} (precious stone) :: ġimm {m}
+generally {adv} (popularly or widely) :: ġewunelīċe
+generally {adv} (as a rule; usually) :: ġewunelīċe
+generation {n} :: cnēo {n} 
+genitive {adj} (of or pertaining to the case of possession) :: ġestrīenendlīċ, ġeāgniġendlīċ
+geometry {n} (branch of mathematics) :: eorþcræft {m}
+get {v} (to obtain) :: beġietan
+get {v} (to receive) :: underfōn
+get {v} (to become) :: weorþan
+get {v} (to cause to become) :: dōn
+get {v} (to cause to do) :: dōn, lǣtan, beġietan
+get {v} (colloquial: to understand) :: understandan, onġietan
+get {v} (colloquial: to be) :: weorþan
+get used {v} (to get accustomed (to)) :: ġewunian (tō)
+ghost {n} :: gāst , cargāst , dwimor, egesgrīma , dēofolscīn , gliderung, scinn, scinna, scinnhīw , grīma , becola, becole
+giant {n} (mythical human) :: ent {m}
+gift {n} (something given to another voluntarily, without charge) :: ġifu {f}
+gift {n} (a talent or natural ability) :: ġifu {f}
+gift {v} ((transitive) to give as a gift) :: gifian
+girl {n} (young female person) :: mæġden {n}, mæġþ {f}
+give {v} (transfer the possession of something to someone else) :: sellan, ġiefan, āgan
+give back {v} (return) :: āġiefan
+give birth {v} (produce new life) :: beran, cennan, hwelpian [of animals]
+glass {n} (substance) :: glæs {n}
+glide {v} (To move softly, smoothly, or effortlessly) :: glidan
+glorious {adj} (exhibiting attributes, qualities, or acts that are worthy of or receive glory) :: æþele
+glorious {adj} (excellent, wonderful) :: wundorful, æþele
+glory {n} (great beauty or splendour) :: ār, wuldor
+glory {n} (honour and valour) :: ār
+glove {n} (item of clothing) :: glōf {f}
+glow {v} (to give off light from heat or to emit light as if heated) :: glōwan
+glue {n} (sticky adhesive substance) :: līm {m}
+glue {v} (join with glue) :: ġelīman
+go {v} (to move through space (especially from one place to another) ) :: gān , wendan , wadan , faran , fēran 
+go {v} (to disappear ) :: wendan 
+go away {interj} :: gā onweġ!
+go out {v} (to leave, especially a building) :: āgān
+go to bed {v} (to lie down to sleep) :: tō bedde gān
+goat {n} (animal) :: gāt {f}
+god {n} :: god {m}
+gold {adj} (made of gold, golden) :: gylden
+gold {n} (element) :: gold {n}
+gold mine {n} (mine for gold) :: gyldenweċġ {m}
+good evening {n} (greeting said in the evening) :: gōdne ǣfen
+good morning {interj} (when seeing someone for the first time in the morning) :: gōdne morgen
+good night {phrase} (a farewell) :: gōde niht
+goose {n} (a grazing waterfowl of the family Anatidae) :: gōs
+gore {n} (thick blood) :: drēor {m}
+gory {adj} :: drēoriġ
+government {n} (body with the power to make and/or enforce laws) :: leodweard {f}, gerec {n}, anweald {m}, ealdordom {m}
+grace {n} :: ār, milts {f}
+graft {v} (to insert a graft in another tree) :: impian
+grain {n} :: corn [1,2,5]
+grammar {n} (rules for speaking and writing a language) :: stæfcræft {m}
+grammatical case {n} (mode of inflection of a word) :: fiell {m}, cāsus {m}, ġebīgednes {f}
+granddaughter {n} (daughter of someone’s child) :: nefene {f}, nift {f}
+grandfather {n} (grandfather (from either side)) :: ealdfæder {m}
+grandmother {n} (mother of someone's parent) :: ealdmōdor {f}
+grandson {n} (son of one's child) :: sunsunu {m}
+grape {n} (fruit) :: wīnberiġe {f}
+-grapher {suffix} (someone who writes about a specified subject) :: -wrītere
+grasp {v} (to grip) :: āgrāpian
+grasshopper {n} (an insect of the order Orthoptera) :: gærshoppa {m}, gærstapa {m}
+grave {n} (excavation for burial) :: græf {n}
+graveyard {n} (tract of land in which the dead are buried) :: leġerstōw {f}
+gray {adj} (having a color somewhere between white and black, as the ash of an ember) :: græg, hasu, fealu
+great {adj} (very big, large scale) :: miċel
+green {adj} (having green as its colour) :: grene
+grey {adj} (having a color somewhere between white and black, as the ash of an ember) :: grǣġ, hasu
+greyhound {n} (lean breed of dog used in hunting and racing) :: grīġhund {m}
+grief {n} (sadness) :: caru {f}
+grim {adj} (dismal and gloomy, cold and forbidding) :: grimm
+grim {adj} (rigid and unrelenting) :: grimm
+grim {adj} (ghastly or sinister) :: grimm
+ground {n} (surface of the Earth) :: eorþe {f}
+ground {n} (soil, earth) :: eorþe {f}
+ground {n} (bottom of a body of water) :: grund {m}
+ground {n} (basis, foundation, groundwork) :: grund {m}
+group {n} (number of things or persons being in some relation to each other) :: hēap {m}
+grow {v} ((intransitive) to become bigger) :: weaxan
+grow {v} ((intransitive) to appear or sprout) :: grōwan, weaxan
+grow {v} :: lēodan [2]
+grow up {v} (to mature and become an adult) :: geweaxan
+growth {n} (increase in size) :: æþelu {f} {n}
+grudge {n} (deep seated animosity) :: æfþanc {m}
+grunt {v} (of a person: to make a grunt or grunts) :: grunnian, grunnettan
+grunt {v} (of a pig: to make a grunt or grunts) :: grunnian, grunnettan
+guard {v} (to protect from some offence) :: weardian
+guardian {n} (guard or watcher) :: weard {m}
+gudgeon {n} (Fish, Gobio gobio) :: blǣġe {f}
+guest {n} (recipient of hospitality) :: ġiest {m}, cuma {m}
+guest {n} (patron, customer) :: ġiest {m}, cuma {m}
+guilt {n} (responsibility for wrongdoing) :: sċyld {f}, gylt {m}
+guilty {adj} (responsible for a dishonest act) :: scyldig
+guilty {adj} (judged to have committed a crime) :: scyldig
+gull {n} (seabird) :: mǣw {m}
+gum {n} (sticky substance exuded by certain plants) :: teoru {n}, trēowteoru {n}
+habit {n} (an action done on a regular basis) :: þēaw {m}
+hail {n} (balls of ice) :: hæġl {m}
+hair {n} (a pigmented keratinaceous growth on the human head) :: hǣr {n}
+hair {n} (the collection or mass of filaments growing from the skin of humans and animals) :: feax {n} [hair of the head], hǣr {n}
+hairnet {n} (net designed to keep hair up) :: feaxnett {n}
+hairy {adj} (of a person) :: rūh
+half-hour {n} (period) :: healf tīd {f}
+halve {v} (to reduce to half of original) :: hielfan
+halve {v} (to divide in two equal parts) :: hielfan, twidǣlan
+ham {n} (region back of the knee joint) :: hamm {f}
+hand {n} (part of the fore limb) :: hand {f}
+hand {n} (pointer of an analogue/analog clock) :: pīl {m}
+handbook {n} (a book of reference) :: handbōc {f}
+handcuff {n} (ring of a locking fetter for the hand) :: handcosp {m}
+handle {n} (part of an object held in the hand when used or moved) :: hæft
+handle {v} (touch; feel or hold with the hand) :: āgrāpian
+hang {v} (to be or remain suspended) :: āhōn
+hang {v} (to be executed using gallows) :: āhōn
+happen {v} (to occur) :: ġelimpan, weorþan, ġebyrian
+happiness {n} :: ēad {n}
+happy {adj} (contented, joyous) :: blīþe
+happy {adj} (fortunate, lucky) :: ġesǣliġ
+hard {adj} (resistant to pressure) :: heard
+hard {adj} (requiring a lot of effort to do or understand) :: earfoþe
+hardly {adv} (barely, only just) :: unēaþe
+hardship {n} (difficulty or trouble) :: earfeþe {n}
+hare {n} (animal) :: hara {m}
+hark {v} (to listen attentively) :: hwæt
+harm {n} (injury; hurt; damage) :: hearm
+hart {n} (male deer) :: heorot
+harvest {n} :: hærfest {m}
+hat {n} (a head covering) :: hætt {m}
+hate {v} (to dislike intensely) :: hatian
+hateful {adj} (evoking hatred) :: āfor
+hatred {n} (strong aversion) :: hete {m}
+have {v} (to possess) :: habban
+have {v} (auxiliary used in forming the perfect and the past perfect tenses) :: habban
+have to {v} (obligation) :: sċulan
+hawk {n} (predatory bird of Accipitridae) :: hafoc {m}
+hay {n} (grass cut and dried for use as animal fodder) :: hīeġ {n}
+hazel {n} (tree / shrub) :: hæsl {m}
+he {pron} (personal pronoun "he") :: hē, sē
+head {n} (part of the body) :: hēafod {n}, hafela {m}
+headdress {n} (a decorative covering or ornament worn on the head) :: hēafodclāþ {n}
+headland {n} (bit of coastal land that juts into the sea) :: headfod
+headlong {adv} (with the head first or down) :: neowol
+headlong {adj} (plunging downwards head foremost) :: neowol
+hear {v} (to perceive sounds through the ear) :: ġehīeran
+hear {v} (to perceive with the ear) :: ġehīeran
+hearing {n} (sense) :: hlyst {f}
+heart {n} (an organ) :: heorte {f}
+heart {n} (emotions or kindness) :: heorte {f}
+heartache {n} (very sincere and difficult emotional problems or stress) :: ælfsogoþa {m}
+hearth {n} (floor of fireplace) :: heorþ {m}
+heat {n} (thermal energy) :: hāt, wearm
+heavy {adj} (having great weight) :: hefiġ, pīs, swǣr
+hedgehog {n} (animal) :: iġil {m}, hattefagol {m}
+heel {n} (anatomy: part of the foot) :: fiersn {f}
+hell {prop} (abode for the condemned) :: hell {f}
+helmet {n} (protective head covering) :: helm {m}
+help {v} (transitive: provide assistance to (someone or something)) :: helpan
+hem {n} (border of an article of clothing doubled back and stitched together) :: fæs {n}, fnæs {n}, fnæd {n}
+hemisphere {n} (half of the Earth) :: healftrendel {m}
+hemisphere {n} (any half-sphere) :: healftrendel {m}
+hemp {n} (Cannabis sativa) :: henep {m}
+hen {n} (female chicken) :: henn {f}
+hen {n} (female bird) :: cwēnfugol {m}
+herb {n} (plant used to flavour food) :: wyrt
+herd {n} (any collection of animals gathered or travelling in a company) :: heord {f}
+here {adv} (in, on, or at this place) :: hēr
+here {adv} (to this place) :: hider, hēr
+here {n} :: hēr
+hermaphrodite {n} (individual or organism having both male and female gonads) :: bǣddel
+hero {n} (person of great bravery) :: hæleþ {m}, hæleð {m}, beorn {m}
+heron {n} (bird) :: hrāgra {m}
+hiccup {n} (spasm of the diaphragm) :: sogoþa {m}, ælfsogoþa {m}
+hide {v} ((transitive)) :: hȳdan, mīþan, helan
+hide {v} ((intransitive)) :: hȳdan, mīþan
+hight {v} (be called) :: hātan
+hill {n} (elevated location) :: hyll
+him {pron} (dative / indirect object) :: him
+him {pron} (accusative / direct object) :: hine
+hind {n} (female deer) :: hind
+hinder {v} (to delay or impede movement) :: hindrian
+hinge {n} (device for the pivoting of a door) :: heorra {m}
+hip {n} (joint) :: hype {m}
+hippopotamus {n} (large African mammal) :: nicor {m}
+hit {n} (blow, punch) :: sleġe {m}
+hither {adv} (to here) :: hider
+hoard {n} (hidden supply) :: hord {n}
+holly {n} (any of various shrubs or small trees of the genus Ilex) :: holen {m}
+holy {adj} (dedicated to a religious purpose) :: hāliġ
+holy {adj} (revered in a religion) :: hāliġ
+holy {adj} :: hāliġ
+homage {n} (in feudalism, the formal oath of a vassal to his or her lord) :: manrǽden {f}
+home {n} :: eard [1, 2, 3, 4, 5], hām [1]
+homeland {n} (country which one regards as home) :: ēþel, eard
+homeland {n} (traditional territory of an ethnic group) :: ǣþel {m}
+honey {n} (sweet substance produced by bees) :: huniġ {n}
+honor {v} (think of, respect highly) :: frēoġan
+honorable {adj} (worthy of respect) :: ārfæst
+hoof {n} (tip of a toe of ungulates) :: hōf {m}
+hope {n} (belief that something wished for can happen) :: hyht {m}, hopa {m}
+hope {n} (person or thing that is a source of hope) :: hyht {m}, hopa {m}
+hope {n} :: hopa
+hope {v} (to want something to happen, with expectation that it might) :: hopian
+horn {n} (growth on the heads of certain animals) :: horn
+horrible {adj} (causing horror, terrible) :: agrisenlic, angrislic, deorc, efesig, efeslic, grislic, gryrelic, hetelic, laþlic, ongryrelic, unhiere, wraþ, anþræclic, frecne
+horse {n} (members of the species Equus ferus) :: hors {n}, eoh {n}, hengest, mearh, wicg {n}
+horseman {n} (man who rides a horse) :: ridda {m}
+horseman {n} (soldier on horseback) :: ridda {m}
+hospitable {adj} (cordial and generous towards guests) :: cumlīþe, ġiestlīþe
+hospital {n} (large medical facility) :: lǣċehūs {n}
+hospitality {n} (act or service of welcoming, receiving, hosting, or entertaining guests) :: cumlīþnes, ġiestlīþnes
+hostage {n} (person given as a pledge or security) :: ġīsl {m}
+hostility {n} :: fǣhþ {f}
+hot {adj} (having a high temperature) :: hāt, wearm
+hotel {n} (establishment providing accommodation) :: gasthus {n}
+house {n} (human abode) :: hūs {n}, hof {n}, ærn {n}, stoc {n}
+house {n} (archetypal structure of a human abode) :: hus {n}, ærn {n}
+house sparrow {n} (Passer domesticus) :: spearwa {m}
+housefire {n} (large fire in a house) :: hūsbryne {m}
+household {n} (those living in the same residence) :: hīrēd {m}
+how {adv} (to what degree) :: hū
+how {adv} (in what manner) :: hū
+how {adv} (in what state) :: hū
+how {adv} (used as a modifier to indicate surprise, delight, or other strong feelings) :: hū
+how are you {phrase} (greeting) :: hū færst þū?
+how many {determiner} (what number) :: hū fela
+how much {determiner} (what quantity) :: hū miċel
+how much do I owe you {phrase} (how much do I owe you?) :: hū miċel sċeal iċ þē?
+how old are you {phrase} (what is your age in years) :: hū eald eart þū?
+howl {n} (protracted, mournful cry of a dog or a wolf) :: ġeþēot {n}
+howl {v} (To utter a loud, protracted, mournful sound or cry, as dogs and wolves often do) :: þēotan
+hue {n} (color or shade of color; tint; dye) :: hīew, hiw
+hug {v} (embrace) :: clyppan, ymbclyppan
+human {adj} (of or belonging to the species Homo sapiens) :: mennisċ
+human {adj} (having the nature or attributes of a human being) :: mennisċ
+humane {adj} (with regard for the health and well-being of another) :: mennisċlīċ
+humanity {n} (human beings as a group) :: mancynn {n}
+humanity {n} (human condition) :: mennisċnes {f}
+humanity {n} (quality of being benevolent) :: mennisċlīcnes {f}
+hump {n} (deformity of the human back) :: hofor {m}
+hump {n} (rounded fleshy mass as in camel's back) :: hofor {m}
+hundred {num} (cardinal number 100) :: hundtēontiġ, hund, hundred
+hunger {n} (need for food) :: hungor {m}
+hungry {adj} (affected by hunger; desirous of food) :: hungriġ [hungry], hyngran [to be hungry]
+hunt {v} (to chase down prey) :: huntian
+hunt {n} (the act of hunting, shooting) :: huntoþ {m}, huntung {f}
+hunt {n} (hunting expedition) :: huntoþ {m}
+hunting {n} (chasing and killing animals for sport or to use its parts) :: huntoþ {m}
+hurt {v} (to cause physical pain and/or injury) :: wierdan
+hurt {v} (to cause emotional pain) :: ābelgan
+husband {n} (male partner in marriage) :: wer {m}, bonda {m}
+hyena {n} (mammal) :: nihtgenġe {f}
+hypocrisy {n} (claim, pretense, or false representation of holding beliefs, feelings, or virtues that one does not actually possess) :: līċettung {f}, līċċetung {f}, hīwung {f}
+hypocrite {n} (person practising hypocrisy) :: līċettere {m}, līċċetere {m}, hīwere {m}
+ice {n} (water in frozen form) :: īs {n}
+ice-cold {adj} (as cold as ice) :: isceald
+ichneumon {n} (Herpestes ichneumon) :: næderbīta {m}
+idiom {n} (idiomatic expression) :: āgensprǣċ {f}, ġecyndesprǣċ {f}
+idolatry {n} (worship of idols) :: wīġweorþung {f}
+if need be {adv} (if necessary) :: ġif þearf biþ
+if only {conj} (signifies a wish) :: ēalā ġif
+ignite {v} (to set fire to, to light) :: onǣlan
+ignorance {n} (condition of being uninformed or uneducated) :: nytennes {f}
+ill {adj} (in poor health, suffering from a disease) :: seoc, ādliġ
+illness {n} (an instance of a disease or poor health) :: ādl {f}
+illness {n} :: adl, leġer
+imitate {v} (to follow as a model) :: ġeefenlǣċan
+imitation {n} (act of imitating) :: hyrung
+immediately {adv} (in an immediate manner) :: ǣdre
+immortal {adj} (not susceptible to death) :: undēadlīċ
+immortality {n} (condition of not being susceptible to death) :: undēadlīcnes {f}
+imperfect {adj} (not perfect) :: unfulfremed
+imperfection {n} (state of being imperfect) :: unfulfremednes {f}
+imperfection {n} (something that makes something else less than perfect) :: unfulfremednes {f}
+imperial {adj} (related to an empire) :: cāserlīċ
+important {adj} (having relevant and crucial value) :: hefiġ
+impossible {adj} (not able to be done) :: unmihtlīċ
+imprison {v} (put in prison) :: hæftan, ġefæstnian
+improve {v} (to make something better) :: æþelian
+in {prep} (contained by) :: on
+in {prep} (surrounded by) :: on
+in {prep} (part, member of) :: on
+in {prep} (pertaining to) :: on
+in {prep} (after a period of time) :: on
+in {prep} (within a certain elapsed time) :: on
+in {prep} (into) :: on, intō
+in {prep} (during) :: on
+in {prep} (a state) :: on
+in {prep} (language, script, or tone) :: on
+in {adv} (indoors; at home or the office and available for conversation) :: inne
+in {adv} (moving to the interior) :: inn
+in vain {adv} (without success) :: on īdel
+incest {n} (sexual relations between close relatives) :: sibbleger, mǣġhǣmed
+incite {v} (to rouse, stir up or excite) :: bǣdan
+incomparable {adj} (beyond comparison) :: unwiþmetendlīċ
+increase {v} (become larger) :: wēaxan
+increase {v} (make larger) :: īecan
+increase {n} (increased amount) :: ēaca {m}, æþelu
+independence {n} :: selfdom
+indigenous {adj} (born or engendered in, native to a land or region) :: inlendisc, inlende
+indoors {adv} (in or into a building) :: inne [in]; inn [into]
+inevitable {adj} (impossible to avoid or prevent) :: unforbugendlīċ
+inexpensive {adj} (low in price) :: undīere
+infamous {adj} (having a bad reputation) :: unhlīsful, sċandlīċ
+infamous {adj} (disgraceful) :: unhlīsful, sċandlīċ
+infamy {n} (the state of being infamous) :: unhlīsa {m}, sċand {f}
+infertility {n} (condition of being infertile - soil, etc) :: unwæstmbǣrnes {f}
+infertility {n} (inability to conceive - people and animals) :: unwæstmbǣrnes {f}
+infinite {adj} (boundless, endless) :: endelēas
+infinity {n} (endlessness, unlimitedness, absence of end or limit) :: endelēasnes {f}
+information {n} (communicable knowledge) :: ġefrǣġe {n}, āscung {f}
+inhabit {v} :: būan
+inhabitant {n} (Someone or thing who lives in a place) :: būend
+inheritance {n} (that which a person is entitled to inherit) :: yrfe {m}
+inhospitable {adj} (Not offering shelter) :: uncumlīþe, unġiestlīþe
+inhospitality {n} (lack of hospitality) :: uncumlīþnes {?}, unġiestlīþnes {?}
+inhuman {adj} (of or pertaining to inhumanity) :: unmennisċlīċ
+inhumane {adj} (cruel and savage, not humane) :: unmennisċlīċ
+inhumanity {n} (lack of compassion) :: *unmennisċlīcnes {f}
+injure {v} (to wound or cause physical harm) :: wierdan
+injury {n} (damage or violation) :: wund {f}, æfwyrdla {m}
+injustice {n} (absence of justice) :: unrihtwīsnes {f}
+injustice {n} (violation of the rights of another) :: unrihtwīsnes {f}
+ink {n} (coloured fluid used for writing) :: blæc {n}
+innocence {n} (absence of responsibility for a crime) :: unsċyld {f}
+innocence {n} (lack of ability or intention to harm or damage) :: unsċeþþiġnes {f}
+innocent {adj} (pure, free from sin, untainted) :: unsċyldiġ, bilewit, unsċeþþiġ
+innocent {adj} (not legally responsible for a wrongful act) :: unsċyldiġ
+innocent {adj} (naive, artless) :: craftlēas
+insane {adj} (exhibiting unsoundness or disorder of mind) :: wōd
+insanity {n} (state of being insane) :: wōdnes {f}
+insect {n} (arthropod of class Insecta) :: ċeorfdēor {n}
+insipid {adj} (unappetizingly flavorless) :: ǣmelle
+insomnia {n} (sleeping disorder) :: slǣplēast {f}
+inspect {v} (examine critically, scrutinize) :: inscēawian, smēagan
+inspection {n} (the act of examining something, often closely) :: inscēawung {f}, smēagung {f}
+inspector {n} (person employed to inspect something) :: inscēawere {m}, smēagend {m}
+instantly {adv} (at once) :: ǣdre
+institute {n} (organization founded to promote a cause) :: asetnes {f}, insetnes {f}
+instrumental case {n} (case to express agency or means) :: tollic casus
+intelligence {n} (capacity of mind) :: orþanc {m}
+inter- {prefix} (among, between) :: betwēon-, betwux-, middel-
+intercede {v} (to plea on someone else's behalf) :: ǣrendian
+intercourse {n} (communication, conversation) :: ġemāna {m}
+intercourse {n} (sexual intercourse) :: hǣmed {n}, hǣmedlāc {n}
+interpreter {n} (one who interprets speech) :: wealhstod {m}
+interrogative {adj} (asking or denoting a question) :: āxiġendlīċ
+intersection {n} (junction of two or more paths, etc) :: ġelǣte {n}
+introduction {n} (initial section of a book or article which introduces subject material) :: fōresæġdnes {f}
+invade {v} (to enter by force in order to conquer) :: swogan, geondswogan
+invasion {n} (military action) :: infaru {f}
+invent {v} (design a new process or mechanism) :: āhyċġan
+invincible {adj} (impossible to defeat, destroy or kill) :: unoferswīþendlīċ
+inviolate {adj} :: unġewemmed, unwemme
+invisibility {n} (the state of being invisible) :: unġesewenlīcnes {f}
+invisible {adj} (unable to be seen) :: unġesewenlīċ
+invitation {n} (act of inviting) :: laðung {f}
+invite {v} (ask for the presence or participation of someone) :: inlaðian, laðian
+invocation {n} (act or form of calling for the assistance or presence of some superior being) :: inċīeġung {f}
+iron {n} (chemical element Fe) :: īsern {n}
+island {n} (area of land completely surrounded by water) :: īeġ {f}, īeġland {n}
+it {pron} (subject — inanimate thing) :: hit, þæt
+it {pron} (object) :: hit, þæt
+itch {n} (a sensation felt on an area of the skin that causes a person or animal to want to scratch) :: giċċe {f}
+itch {v} (to feel the need to scratch) :: giċċan
+ivory {n} (material) :: elpendbān {n}
+ivy {n} (plant) :: īfiġ {n}
+jail {n} (place for short-term confinement) :: cweartern {n}, carcern {n}
+jewel {n} :: siġel {n}
+jeweler {n} (a person whose job is making, repairing or selling jewelry) :: ġimwyrhta {m}
+join {v} (to combine more than one item into one; to put together) :: gadrian, gelæcan
+join {v} (to come together; to meet) :: fegan
+joke {v} (do for amusement) :: gamenian
+journey {n} (trip, a voyage) :: sīþ {m}, faru {f}, fær {n}, færeld {n}
+journey {v} (to travel, to make a trip or voyage) :: sīþian
+joy {n} (feeling of happiness) :: wynn {f}, drēam {m}, ġefēa {m}, glēo {n}
+judge {n} (public judicial official) :: demend {m}, domere {m}, dema {m}
+judge {v} (to sit in judgment on, pass sentence on) :: ādēman
+judicial {adj} (of or relating to a court of law) :: dōmlīċ
+jug {n} (serving vessel) :: ċēac {m}
+jump {v} :: hlēapan
+jump {v} (cause oneself to leave an elevated location and fall downward) :: hlēapan
+jump {n} :: hlīep {m}
+jump {n} (instance of causing oneself to fall from an elevated location) :: hlīep {m}
+just {adj} (morally fair, righteous) :: rihtwīs
+justice {n} (state of being just or fair) :: rihtwīsnes {f}
+justice {n} (fairness, especially with regard to punishment) :: rihtwīsnes {f}
+keel {n} (beam along the underside of a ship’s hull) :: cēol
+kernel {n} (central part of a nut) :: cyrnel {m}
+kettle {n} (vessel for boiling a liquid or cooking food) :: ċietel {m}
+key {n} (device designed to open and close a lock) :: cǣġ {f}
+kick {v} (strike with or raise the foot or leg) :: spurnan
+kidney {n} (an organ in the body) :: ǣdre {f}
+kill {v} (to put to death) :: ofslēan
+kill {n} (act of killing) :: ofsléan
+killing {n} :: cwalu {f}
+kindle {v} (to start (a fire)) :: ǣlan, onǣlan
+kindle {v} (to arouse) :: onǣlan
+king {n} (a male of a royal family who is the supreme ruler of his nation) :: cyning {m}
+kingdom {n} (realm having as supreme ruler a king and/or queen) :: cyningdōm  {m}, cyningrīċe {n}
+kingdom {n} :: rīce {n}
+kingfisher {n} (any of various birds of the suborder Alcedines) :: īsearn {m}, fisċere {m}
+kirtle {n} (knee-length tunic) :: cyrtel
+kiss {v} (to touch with the lips) :: cyssan
+kiss {n} (touch with the lips) :: coss {m}
+kiss me {phrase} (kiss me) :: cyssan meċ
+kiss my ass {interj} (go away) :: *cyss mīnne ears
+kitchen {n} (room) :: cycene {f}
+kite {n} (bird of prey of the family Accipitridae) :: glida {m}
+knee {n} (joint in the middle of the leg and area around it) :: cnēow {n}
+knife {n} (utensil or tool designed for cutting) :: seax {n}
+knight {n} (warrior, especially of the Middle Ages) :: ridda {m}
+knot {n} (looping) :: cnotta {m}
+know {v} (be certain or sure about (something)) :: witan
+know {v} (be acquainted or familiar with) :: cunnan
+know {v} (have knowledge of) :: witan
+know {v} (understand (a subject)) :: cunnan
+know {v} (have sexual relations with) :: witan
+know {v} (be informed about) :: witan
+knuckle {n} (joint of the finger) :: cnucel {m}
+laborious {adj} (requiring much physical effort) :: earfoþe
+labour {n} (work) :: earfoþe, earfeþe
+labour {n} (giving birth) :: earfoþe {n}
+labour {v} (to work) :: swincan, ġeswincan
+lady {n} (mistress of a household) :: hlæfdige {f}
+lady {n} (woman of breeding and authority) :: drihtlice {f}, ides {f}, freo {f}, hlæfdige {f}
+lady {n} (wife of a lord) :: drihtlice {f}, ides {f}, freo {f}, hlæfdige {f}
+lake {n} (body of water) :: lagu {m}, mere {m}
+lamb {n} (young sheep) :: ēan
+lancet {n} (surgical instrument) :: ǣdreseax {n}
+land {n} (part of Earth that is not covered by oceans or other bodies of water) :: land {n}
+landlord {n} (person who owns and rents land such as a house, apartment, or condo) :: landhlāford {m}
+landowner {n} (a person who owns land) :: landāgend
+language {n} (body of words used as a form of communication) :: ġereord {n}, sprǣċ {f}
+large {adj} (of greater size, see also: big) :: miċel
+lark {n} (bird) :: lāwerce {f}
+last night {n} (previous evening or night) :: geostron niht
+late {adj} (near the end of a period of time) :: læt
+late {adj} (near the end of the day) :: læt
+late {adj} (associated with the end of a period) :: læt
+late {adj} (not arriving until after an expected time) :: læt
+late {adv} (proximate in time) :: late
+laugh {v} (show mirth by peculiar movement of the muscles of the face and emission of sounds) :: hliehhan
+laugh {v} (make an object of laughter or ridicule) :: āhliehhan
+laugh {v} :: hlæhhan, hliehhan
+laughter {n} (sound (as) of laughing) :: hleahtor {m}
+law {n} (body of rules established in a community by its authorities) :: dōm, ǣ {f}
+law {n} (any rule that must or should be obeyed) :: dōm, ǣ {f}
+lawful {adj} (conforming to or recognised by law or rules) :: ǣwlīċ
+lawgiver {n} (one who provides laws to a society) :: ǣlǣdend {m}, ǣsellend {m}
+lay {v} (to place something down in a position of rest) :: lecgan, āleċġan
+lay {adj} (non-clergy) :: læwed
+lazy {adj} (unwilling to work) :: slāw, slæc
+lead {n} (chemical element) :: lēad {n}
+leaf {n} (part of a plant) :: lēaf {n}, blæd {n}
+leap {v} :: hlēapan
+leap {n} :: hlīep {m}
+learn {v} (to come to know; to become informed of; to find out) :: ġeāscian
+leather {n} (material produced by tanning animal skin) :: leþer {n}
+leave {v} (to cause to remain as available, not take away, refrain from depleting) :: lǣtan
+leave {v} (to depart from, end one's connection or affiliation with) :: forlǣtan
+leave {v} (to depart (intransitive)) :: fēran
+leave {v} :: lǣfan
+leavings {n} (that which is left) :: laf
+leek {n} (vegetable) :: lēac {n}
+left {adj} (the west side of the body when one is facing north) :: winestra
+leg {n} (lower limb from groin to ankle) :: scanca {m}
+legal {adj} (allowed or prescribed by law) :: ǣwlīċ
+legally {adv} (as permitted by law) :: ǣwlīċe
+legislative {adj} (having the power to make laws) :: ǣlagol
+legislator {n} (who creates or enacts laws) :: ǣlǣdend {m}
+leisure {n} (freedom provided) :: æmta {m}
+leisure {n} (time free) :: æmethwīl {f}
+length {n} (distance along the longest dimension) :: lengu, lengþu, leng
+letter {n} (letter of the alphabet) :: stæf {m}, bōcstæf {m}
+letter {n} (written message) :: ġewrit {n}, ǣrendġewrit {n}
+lettuce {n} (an edible plant, Lactuca) :: leahtric
+libidinous {adj} (having lustful desires) :: gālfull, gālliċ
+library {n} (institution which holds books etc.) :: bōchūs {n}
+library {n} (collection of books) :: bōchōrd
+lichen {n} (symbiotic association of algae and fungi) :: ragu {f}
+lick {n} (small watercourse or ephemeral stream) :: lǣċ, lǣċe
+lick {v} (to stroke with the tongue) :: liccian
+lie {v} (be in horizontal position) :: liċġan
+lie {v} (be situated) :: liċġan
+life {n} (the state of being alive) :: līf {n}
+lift {v} (to raise or rise) :: hebban
+lift {v} (to steal) :: stelan
+light {v} (to start (a fire)) :: ǣlan
+lighthouse {n} (building containing a light to warn or guide ships) :: fȳrtorr {m}
+lightning {n} (flash of light) :: līġet {n}
+limb {n} (major appendage of human or animal) :: liþ {m}, lim {n}
+limit {n} (boundary) :: ġemǣre {n}
+linchpin {n} (securing pin) :: lynis {m}
+linden {n} (tree) :: lind {f}
+linguistics {n} (scientific study of language) :: spræccræft {m}
+lion {n} (big cat Panthera leo) :: lēo {f} {m}
+lip {n} (fleshy protrusion framing the mouth) :: weolor {m} {f}, lippa {m}
+liquid {n} (substance that is liquid) :: wæt {n}
+listen {v} (to pay attention to a sound) :: hlystan, ġehīeran
+listen {v} (to expect or wait for a sound) :: hlosnian
+listen {v} (to accept advice or obey instruction) :: ġehīeran, ġehīersumian
+literal {adj} (exactly as stated; read or understood without additional interpretation) :: stæflīċ
+literal {adj} (following the letter or exact words, not taking liberties) :: stæflīċ
+literal {adj} (consisting of, or expressed by, letters) :: stæflīċ
+little {adj} (small in size) :: lȳtel
+little {adv} (not much) :: lyt
+little boy {n} (a diminutive male child) :: cnafa {m}, cniht {m}
+little finger {n} (outermost and smallest finger of the hand) :: lȳtel finger {m}
+little girl {n} (a female child) :: mæġþ {f}, mæġdenċild {n}
+live {v} (be alive) :: libban
+live {v} (have permanent residence) :: wunian, libban
+live {adj} (having life) :: cwic
+liver {n} (organ of the body) :: lifer {f}
+livestock {n} (farm animals) :: ǣht {f}
+living room {n} (room in a private house) :: hēahclēofa {m}
+lizard {n} (reptile) :: āþexe {f}
+load {n} (burden) :: hlæst {n}
+lobe {n} (any projection or division, especially one of a somewhat rounded form) :: læppa {m}
+lobe {n} (division of the liver) :: liferlæppa {m}
+local {adj} (of a nearby location) :: stōwlīċ
+locally {adv} (with respect to place) :: stōwlīċe
+lock {n} (something used for fastening) :: loc {n}
+locust {n} (type of grasshopper) :: gærshoppa {m}, gærstapa {m}
+-logy {suffix} (branch of learning) :: -cræft {m}
+loin {n} (part of the body) :: lenden {n}
+loner {n} (one who lacks or avoids company) :: āngenġa {m}
+look {v} (to try to see) :: lōcian, gorian
+look for {v} (search; seek) :: sēċan
+look like {v} (seem, appear) :: þyncan
+look like {v} (be similar in appearance, resemble) :: gelician
+loon {n} (bird of order Gaviiformes) :: sċealfor {f}
+lord {n} (master of a household) :: hlāford {m}
+lord {n} (property owner) :: hlāford {m}
+loudly {adv} (in a loud manner) :: hlúde, hlúdswége
+louse {n} (insect) :: lūs {f}
+love {n} (strong affection) :: lufu {f}
+love {v} (have a strong affection for) :: lufian
+love {v} (be strongly inclined towards doing) :: lufian
+love {v} (care about; will good for) :: lufian
+lovely {adj} (Beautiful; charming; very pleasing in form, looks, tone, or manner.) :: lufiendlic, lufigendlic, leoflic
+lover {n} (one who loves another person) :: lufiend {m}
+low {adj} (in a position comparatively close to the ground) :: niþerlīċ
+lucky {adj} (of people, having good fortune) :: ġesǣliġ
+lumberjack {n} (person who fells trees) :: wuduhēawere {m}
+lunacy {n} (state of being mad) :: mōnaþsēocnes {f}
+lunar {adj} (of, pertaining to, or resembling the Moon) :: mōnelīċ, mōnaþlīċ
+lunar eclipse {n} (when the Earth casts its shadow over the Moon) :: mōnan āsprungennes {f}
+lung {n} (organ that extracts oxygen from the air) :: lungen {f}
+lust {n} :: gál {n}, gálscipe {m}
+lyre {n} (stringed musical instrument) :: hearpe
+machine {n} (mechanical or electrical device) :: searu {f}
+mad {adj} (insane (adj.)) :: wōd
+mad {adj} (angry) :: ierre
+madness {n} (insanity) :: wōdnes {f}
+magician {n} :: wiċċa {m}
+magnanimous {adj} (noble and generous in spirit) :: miċelmōd
+maiden {n} (unmarried young female) :: mǣġþ {f}, mǣġden {n}, mǣġdenċild {n}
+make {v} (to cause to be) :: dōn
+make {v} (to cause to do) :: dōn
+make {v} (to force to do) :: ġenīedan
+make fun of {v} (tease, ridicule) :: bismerian, tō gamene dōn
+malaria {n} (disease) :: unlyft {f}
+malevolence {n} (hostile feeling and attitude) :: yfelwillendnes {f}
+malevolent {adj} (having or displaying ill will; wishing harm on others) :: yfelwillende
+mallow {n} (any of a group of plants in several genera of the taxonomic family Malvaceae) :: cottuc {m}, mealwe {f}
+malt {n} (sprouted grain used in brewing) :: mealt {n}
+man {n} (adult male human) :: wer {m}
+man {n} (human) :: mann {m}
+manatee {n} (any of several plant-eating marine mammals, of family Trichechidae) :: sǣcū, manatī
+mankind {n} (human race) :: mancynn {n}, eormencynn {n}, gumcynn {n}
+manly {adj} (having the characteristics of a man) :: werlic
+manual {n} (handbook or booklet that instructs) :: handbōc {f}
+maple {n} (tree of the Acer genus) :: hlin,hlyn
+marble {n} (crystalline limestone) :: marmstān {m}
+march {n} :: faru [1]
+march {n} (border region) :: mearc {f}
+march {n} (region at a frontier governed by a marquess) :: mearc {f}
+mare {n} (female horse) :: mīere {f}
+marjoram {n} (plant) :: cyninges wyrt {f}
+mark {n} (indication for reference or measurement) :: mǣl
+marquess {n} (title of nobility) :: eorl {m}
+marriage {n} (state of being married) :: hǣmedsċipe {m}, ǣ {f}, samwist {f}
+marriage {n} (union of two people) :: ǣ {f}
+marriage {n} (wedding) :: ǣ {f}
+marrow {n} (substance inside bones) :: mearg {n}
+marry {v} (to take a husband or wife) :: weddian, hǣman
+marry {v} (to be joined in marriage) :: beǣwnian
+marry {v} (to unite in wedlock) :: ǣwnian
+marsh {n} (area of low, wet land) :: mersc, merisc
+marsh mallow {n} (Althaea officinalis) :: merscmealwe, hoc
+marten {n} (mammal) :: mearþ {m}
+masculine {adj} (of the male sex; biologically male, not female; manly) :: werlīċ
+masculine {adj} (belonging to males; appropriated to, or used by, males) :: werlīċ
+masculine {adj} (having male qualities, not feminine or effeminate) :: werlīċ
+masculine {adj} (grammar: being of the masculine class, being inflected in the masculine manner) :: werlīċ
+mast {n} (the fruit of forest-trees) :: ǣcern {n}
+mastiff {n} (mastiff) :: ryþþa {m}, roþhund {m}
+mat {n} (foot wiping device or floor covering) :: meatte {f}
+maternal uncle {n} (brother of one's mother) :: ēam {m}
+mathematics {n} (field of study) :: rīmcræft
+may {v} (have permission to) :: magan, mōtan
+maybe {adv} (indicating a lack of certainty) :: weald þēah, wēnunga
+mayflower {n} (plant that flowers in May, see also: hawthorn; trailing arbutus) :: mægþe
+me {pron} :: mē
+mead {n} (alcoholic drink) :: medu {m}
+meadow {n} (field or pasture) :: mǣd {f}
+meal {n} (food that is prepared and eaten) :: mǣl {n}
+meal {n} (coarse-ground edible part of various grains) :: melu
+mean {v} (to intend; plan on doing) :: þenċan, willan
+mean {v} (to convey, indicate) :: mǣnan, ġetācnian
+mean {v} (to signify) :: mǣnan, ġetācnian
+mean {v} (to have conviction in what one says) :: mǣnan
+meaning {n} (definition or connotation of a word) :: ġetācnung {f}, andġiet {n}
+measure {n} (size ascertained by measuring) :: mǣþ {f}, ġemet {n}
+measure {v} (ascertain the quantity of a unit) :: metan
+meat {n} (animal flesh used as food) :: flǣsċ {n}
+medicine {n} (substance which promotes healing) :: lǣċedōm {m}, lācnung {f}
+medicine {n} (treatment or cure) :: lǣċedōm {m}, lācnung {f}
+medicine {n} (field of study) :: lǣċedōm {m}, lǣċecræft {m}
+medicine {n} (profession) :: lǣċedōm {m}, lǣċecræft {m}
+melancholic {adj} (filled with or affected by melancholy) :: drēoriġ
+memory {n} (ability to recall) :: ġemynd {f} {n}
+menses {n} (menstrual flow) :: mōnaþblōd  {n}
+mention {n} (a speaking or notice of anything, usually in a brief or cursory manner) :: ymbsprǣc {n}
+mercy {n} :: milts {f}
+message {n} (communication, concept or information conveyed) :: ærende {n}, ærendboc {f}, ærendgewrit {n}, ærendspræc {f}
+messenger {n} (one who brings messages) :: ǣrendwreca {m}
+metrical foot {n} (basic unit of verse) :: fōt {m}
+mew {n} (gull or seagull) :: mǣw
+microcosm {n} (human nature or body as representative of the wider universe) :: se lǣssa middangeard {m}
+microcosm {n} (smaller system as representative of a larger one) :: se lǣssa middangeard {m}
+midden {n} (dungheap) :: mixen {f}
+middle {n} (centre, midpoint) :: middel; midlen
+middle {n} (part between beginning and end) :: middel
+middle finger {n} (finger between the forefinger and the ring finger) :: middelfinger {m}
+midnight {n} (middle of the night) :: midniht, middaneaht
+might {n} (personal power) :: afol
+might {n} (physical strength) :: afol
+mild {adj} (gentle; pleasant; kind; soft) :: wēþe
+milk {v} (to express milk from mammal) :: melcan, meolcian
+milk {n} (liquid) :: meolc {f}
+mind {n} (ability for rational thought) :: mōd {n}
+mindful {adj} (bearing in mind) :: ġemyndiġ
+mine {n} (excavation from which ore is extracted) :: ore {f}
+mingle {v} :: mengan
+minister {n} (politician who heads a ministry) :: þeġen
+mint {n} (money-producing building or institution) :: mynetsmiþþe {f}
+mint {v} (to reproduce coins) :: mynetian
+mint {n} (plant) :: minte
+miracle {n} (wonderful event attributed to supernatural powers) :: wundor {n}
+miracle {n} (a fortunate outcome that prevails despite overwhelming odds against it) :: wundor {n}
+miracle {n} (an awesome and exceptional example of something) :: wundor {n}
+mirror {n} (smooth reflecting surface) :: sċēawere {m}
+miserable {adj} (in a state of misery) :: earm
+mistletoe {n} (any of several hemiparasitic evergreen plants of the order Santalales) :: misteltān {m}, mistel {m}
+mistress {n} (woman of authority) :: hlǣfdīġe {f}
+mix {v} (stir two or more substances together) :: menġan
+modest {adj} (not bragging or boasting about oneself or one's achievements) :: gedrēoh
+mole {n} (dark spot on the skin) :: māl {n}
+mole {n} (burrowing insectivore) :: wandeweorpe {f}, wand {f}, *moldeweorpe {f}
+moment {n} (very brief period of time) :: bearhtmhwīl {f}, ēagan bearhtm {m}, ēagan beorht {n}
+monastery {n} (building for monks) :: mynster
+money {n} (means of exchange and measure of value) :: feoh {n}
+money {n} :: sceat
+monkey {n} (primate) :: apa {m}
+monster {n} (terrifying dangerous creature) :: þyrs {m}, fīfel {n}
+month {n} (period into which a year is divided) :: mōnaþ {m}
+moo {n} (characteristic sound made by a cow or bull) :: ġehlōw {n}
+moo {v} (to make a lowing sound) :: hlōwan
+moon {n} (largest natural satellite of planet Earth) :: mōna {m}
+moonlight {n} (light reflected from the moon) :: mōnan lēoht {n}
+moonrise {n} (The time of day or night when the moon begins to rise over the horizon) :: mōnan upgang {m}
+morning {n} (part of the day between dawn and midday) :: morgen {m}
+morning gift {n} (gift given by husband to wife upon first morning of marriage) :: morgenġifu {f}, morgenġiefu
+morning star {n} (planet Venus as seen around dawn) :: ēarendel
+mortal {adj} (susceptible to death) :: dēadlīċ
+mortal {adj} (causing death; deadly; fatal; killing) :: dēadlīċ
+mortality {n} (condition of being susceptible to death) :: dēadlīcnes {f}
+mosquito {n} (small flying insect of the family Culicidae, known for biting and sucking blood) :: myċġ {m}
+mosquito net {n} (fine net used to protect against mosquitos) :: myċġnett {n}
+moss {n} (plants of the division Bryophyta) :: mos {n}
+mother {n} (female (human) who parents a child, gives birth to a baby, or is pregnant) :: mōdor {f}
+mother tongue {n} (one's native tongue) :: mōdorsprǣc {f}
+mother tongue {n} :: mōdorsprǣc {f}
+mother-in-law {n} (spouse’s mother) :: sweġer {f}
+motion {n} (state of progression from one place to another) :: styrung {f}
+mountain {n} (large mass of earth and rock) :: beorg {m}, dūn {f}, munt {m}
+mouse {n} (rodent of the genus Mus) :: mūs
+mousetrap {n} (device for killing mice) :: mūsfealle {f}
+moustache {n} (hair on upper lip) :: cenep {m}
+mouth {n} (the opening of a creature through which food is ingested) :: mūþ {m}
+mouth {n} :: muð {m}
+move {v} (to change place or posture; to go) :: styrian
+move {v} (to cause to change place or posture; to set in motion) :: styrian
+move {v} (to excite to action) :: styrian
+move {v} (to arouse the feelings or passions of) :: styrian
+movement {n} (physical motion) :: styrung {f}
+mow {v} (to cut down) :: māwan
+mud {n} (mixture of soil and water) :: fen {m}, gyru {f}
+mulberry {n} (the tree) :: mōrbēam {m}
+mulberry {n} (the fruit) :: mōrberiġe {f}
+mule {n} (offspring of male donkey and female horse) :: mūl {m}
+mulled wine {n} (wine with spices served hot) :: weall {n}, gesoden win {n}
+mullet {n} (fish of the family Mugilidae (grey mullets)) :: mēċefisc {m}
+multiply {v} (increase the amount, degree or number of) :: ġemaniġfealdian, ġemanigfieldan
+multiply {v} (transitive: perform multiplication on (a number)) :: gemanigfieldan, gemanigfealdian
+murder {n} (an act of deliberate killing) :: morþor {n}
+murderer {n} (person who commits murder) :: bana {m}
+museum {n} (building or institution) :: māþmhūs {n}
+mushroom {n} (fruiting body of a fungus) :: swamm {m}
+music {n} (sound, organized in time in a melodious way) :: drēam {m}, sōncræft {m}
+music {n} :: drēam {m} 
+musician {n} (person who performs or writes music) :: dreāmere {m}
+mussel {n} (any small edible bivalve shellfish, see also: clam; oyster; mollusc) :: muscelle {f}
+must {v} (be required to) :: sċulan
+mute {adj} (not having the power of speech) :: dumb
+mute {n} (person unable to speak) :: dumb
+muteness {n} (characteristic of being mute) :: dumbnes {f}
+mutilate {v} (To physically harm as to impair use) :: hamelian
+mutism {n} (psychological disorder) :: dumbnes {f}
+my {determiner} (belonging to me) :: mīn
+myrrh {n} (dried sap of the myrrha tree) :: myrra
+mystery {n} (something secret or unexplainable) :: ġerȳne {n}
+mystery {n} :: searorūn
+nail {n} (on fingers and toes) :: næġl {m}
+nail {n} (spike-shaped metal fastener used for joining wood or similar materials) :: næġl
+naked {adj} (not wearing any clothes) :: nacod
+naked {adj} :: nacod, bær
+name {n} (word or phrase indicating a particular person, place, class or thing) :: nama {m}
+narwhal {n} (Arctic cetacean) :: nēohwæl {m}
+native {adj} (belonging to one by birth) :: þēodisc
+native {adj} (characteristic of or relating to people inhabiting a region from the beginning) :: inlende, inlendisc
+native {adj} (characteristic of or existing by virtue of geographic origin) :: inlende, inlendisc
+native {n} (person who is native to a place) :: inlenda {m}
+natural {adj} (relating to nature) :: ġecyndelīċ
+nature {n} (the natural world) :: ġecynd {f}
+nature {n} (essential characteristics) :: ġecynd {f}
+nature {n} (primitive state of being) :: ġecynd {f}
+nature {n} (everything related to biological and geographical states) :: ġecynd {f}
+nausea {n} (feeling of physical unwellness, usually with the desire to vomit) :: wlǣtta {m}, wlātung {f}
+near {adj} (physically close) :: nēah
+near {adv} (at or towards a position close in space or time) :: nēah, ġehende
+near {prep} (in close proximity to) :: nēah
+necessary {adj} (needed, required) :: behoflic, neodþearflic, niedbehæfdlic, niedbehefe, niedbehof, niedbehoflic, niedbeþearf, niedful, niedlic, niedþearf, niedþearflic, oferneod, þearflic
+neck {n} (part of body connecting the head and the trunk) :: heals {m}, swīera {m}
+need {n} (something required) :: þarf
+need {v} (to have an absolute requirement for) :: þurfan
+need {v} (to be obliged to) :: motan
+needle {n} (implement for sewing etc.) :: nǣdl {f}
+neglect {v} (disregard) :: āġīemelēasian
+neigh {v} ((of a horse) to make its cry) :: hnǣġan
+neighbour {n} (a person living on adjacent or nearby land) :: nēahġebūr {m}, nēahbūend {m}
+nephew {n} (fraternal or sororal nephew, see also: fraternal nephew; sororal nephew) :: nefa {m}
+-ness {suffix} (appended to adjectives to form nouns meaning "the state of being...", "the quality of being...", or "the measure of being...") :: -nes, -nis
+nest {n} (bird-built structure) :: nest {n}
+nest {n} (place for depositing eggs) :: nest {n}
+net {n} (mesh of string, cord or rope) :: net {n}
+never {adv} (at no time) :: næfre
+new {adj} (recently made or created) :: niwe
+niece {n} (fraternal or sororal niece, see also: fraternal niece; sororal niece) :: nift {f}
+night {n} (period between sunset and sunrise) :: niht {f}
+nightingale {n} (bird) :: nihtegale {f}
+nightmare {n} (demon) :: mare {f}, *nihtmare {f}
+nightmare {n} (dream) :: *nihtmare {f}, ælfādl {f}
+nightshade {n} (plant of genus Solanum) :: hundesberle
+nine {num} (cardinal number) :: nigon
+ninety {num} (90) :: hundnigontiġ
+ninety-nine {num} (cardinal number 99) :: nigon and hundnigontiġ
+ninety-one {num} (cardinal number ninety-one) :: ān and hundnigontig
+nipple {n} (projection of mammary gland) :: delu {f}
+no {determiner} (not any) :: nān
+no {particle} (used to show disagreement or negation) :: nese
+no {particle} (used to show agreement with a negative question (in some languages this response is the usual word for "yes")) :: nese
+no doubt {adv} (without a doubt) :: būtan twēon
+no one {pron} (not even a single person) :: nān mann {m}
+nobility {n} (noble or privileged social class) :: æþelnes {f}, æþelu {f} {n}
+nobility {n} (the quality of being noble) :: æþelnes {f}
+noble {n} (aristocrat) :: ǣþel {m}
+noble {adj} (of or relating to the nobility; distinguished from the masses by birth) :: æþele
+noise {n} (various sounds, usually unwanted) :: ġehlȳd {n}
+nominative {adj} (being in the nominative case) :: nemniġendlīċ
+nominative case {n} (case used to indicate the subject) :: nemniġendlīċ fiell {m}
+nones {n} (9th hour after sunrise) :: nōn {n}, nōntīd {f}, nōntīma {m}
+nones {n} (afternoon liturgical service) :: nōn {n}, nōnsang {m}
+noon {n} (midday) :: middæġ {m}
+normal {adj} (according to norms or rules) :: ġewunelīċ
+normal {adj} (usual, ordinary) :: ġewunelīċ
+nose {n} (protuberance on the face) :: nosu
+nose {n} :: nosu {f}
+nostril {n} (either of the two orifices located on the nose) :: nosþȳrel {n}
+not {adv} (negates meaning of verb) :: ne (used before the finite verb)
+not {conj} (And not) :: nā
+notice {v} (to remark upon) :: ġīeman
+notice {v} (to become aware of) :: ġīeman
+notorious {adj} (known widely and infamously) :: ǣber
+noun {n} (grammatical category (broad sense)) :: nama {m}
+nourish {v} (to feed and cause to grow) :: alan
+now {adv} (at the present time) :: nū
+nowadays {adv} :: nūhwīlum
+nowhere {adv} (in no place) :: nāhwǣr
+nowhere {adv} (to no place) :: nāhwider, nāhwǣr
+nude {adj} (without clothing or other covering) :: nacod
+nudity {n} (the state of being without clothing on the body) :: nacodnes {f}
+number {n} (abstract entity) :: rīm {n}, tæl {n}, gerīm {n}
+numerous {adj} (Indefinitely large numerically) :: getælfull
+nun {n} (member of a Christian religious community of women) :: nunne {f}, nunfæmne {f}
+nut {n} (hard-shelled fruit) :: hnutu {f}
+nymph {n} (mythology: water, forest or mountain spirit) :: ælfen {f}, beorgælfen [mountain], feldlælfen [field], mūntælfen [mountain], sǣælfen [sea], wæterælfen [water]
+oak {n} (tree or shrub of the genus Quercus) :: āc {f}
+oak {n} (wood) :: āc {f}
+oak {adj} (made of oak wood) :: ǣċen
+oath {n} (solemn pledge) :: āþ {m}
+obedience {n} (quality of being obedient) :: ġehīersumnes {f}
+obedient {adj} (willing to comply with commands) :: ġehīersum
+obey {v} (to do as ordered by) :: ġehīeran, ġehīersumian
+obey {v} (to do as one is told) :: ġehīeran, ġehīersumian
+object {n} (thing) :: þing {n}
+occupy {v} (reside in) :: būan, weardian
+occupy {v} (hold a position) :: weardian
+ocean {n} (one of the large bodies of water) :: gārseċġ {m}, mere {m}, sǣ {m} {f}, hwælweġ {m}
+offend {v} (to hurt the feelings) :: ābelgan, ǣbylġan
+offend {v} (to transgress or violate a law or moral requirement) :: ǣswician
+offer {v} (propose) :: bēodan
+offspring {n} :: ofspring, tēam
+often {adv} (frequently, many times) :: oft
+-oid {suffix} (suffix meaning similar but not the same) :: -hīwe, -hīwed, -hīwede
+oil {n} (liquid fat) :: ele {m}
+old {adj} (of an object, concept, etc: having existed for a relatively long period of time) :: eald, gamol
+old {adj} (of a living being: having lived for relatively many years) :: eald, gamol
+old {adj} (former) :: gēo, īu
+olive {n} (fruit) :: eleberġe {f}
+olive tree {n} (tree that produces olives) :: elebēam {m}
+omnipotence {n} (unlimited power) :: ælmiht {f}
+omnipotent {adj} (having unlimited power, force or authority) :: ælmihtiġ
+on foot {prep} (walking, jogging, running) :: on fōtum
+on the run {prep} (fleeing) :: on flēame
+once {adv} (one and only one time) :: ǣne
+once {adv} (formerly) :: ǣne, ǣr, hwīlum
+once upon a time {adv} (traditional beginning of children’s stories, especially fairy tales) :: ǣr, ġēara, ġēardagum, fyrn, ġefyrn
+one {num} (cardinal number 1) :: ān
+one and a half {num} (one and a half) :: ōþer healf 
+one hundred and one {num} (one hundred plus one, see also: one hundred one) :: an and hundtēontiġ
+one-eyed {adj} (having only a single eye) :: ānīeġe
+one-handed {adv} (having only one hand) :: ānhende
+one-handed {adv} (using only one hand) :: ānhende
+optative {n} (optative) :: ġewȳsċendlīċ
+or {conj} (conjunction) :: oþþe
+orange {n} (colour) :: geoluread, æppelfealu
+order {n} (arrangement, disposition) :: léodgeþincð {f}
+order {v} (to issue a command) :: ġebannan, hātan
+ordinary {adj} (normal, routine) :: ġewunelīċ
+ore {n} (rock that contains materials that can be economically extracted and processed) :: ora {m}
+oread {n} (mythology: minor mountain deity) :: beorgælfen
+origin {n} :: frymþu {f}
+ornamental {adj} (serving to ornament) :: gefrætwod, glengful
+osprey {n} (bird of prey) :: herefong {m}
+ostrich {n} (large flightless bird) :: strūta {m}
+otter {n} (mammal) :: otor {m}
+out of {prep} (from the inside to the outside of) :: butan (+ dat.), of (+ dat.), ūt, ūt of
+outdoors {adv} (in the open air) :: ūte [stative]; ūt [allative]
+outlaw {n} (a fugitive from the law) :: ūtlaga {m}
+outlaw {v} (to declare illegal) :: ūtlagian
+outlaw {v} (to place a ban on) :: ūtlagian
+outlawed {adj} (an act) :: ūtlah
+outlawed {adj} (a person) :: ūtlah {m} {f}
+outlawry {n} (declaration removing someone from protection of law) :: ūtlagu {f}
+outside {n} (outer surface) :: ūthealf {f}
+outside {adv} (outdoors) :: [where] ūte, [where to] ūt
+oven {n} (chamber used for baking or heating) :: ofn {m}
+overheat {v} (to heat excessively) :: forhǣtan
+overheat {v} (to become excessively hot) :: forhǣtan
+overnight {adv} (throughout the night) :: ofer niht
+overnight {adv} (during a single night) :: ofer niht
+owe {v} (to be under an obligation) :: sċulan
+owl {n} (bird) :: ūle {f}
+own {adj} (belonging to (determiner)) :: āgen
+own {v} (have rightful possession of) :: āgan
+own {v} :: āgan
+owner {n} (one who owns) :: āgend {m}
+ownership {n} (legal status) :: āgenung {f}
+oyster {n} (mollusk, see also: clam; mollusc; mussel) :: ostre {f}
+pacify {v} (bring peace, ending fighting) :: stillan
+page {n} (one side of a leaf of a book) :: leaf {n}, tramet {m}
+pain {n} (ache or bodily suffering) :: sār {n}
+pain {n} (suffering or anguish, especially mental) :: sār {n}
+paint {v} (apply paint to) :: mētan, fǣġan
+painter {n} (artist) :: mētere {m}
+painting {n} (an illustration or artwork using paint) :: mēting {f}
+palace {n} (large, lavish residence) :: palent {m}, hēahheall {f}, salor {m}
+palate {n} (roof of the mouth) :: gōma {m}
+palm {n} (inner, concave part of hand) :: handbred {n}
+pan {n} (flat vessel used for cooking, see also: frying pan) :: panne {f}
+pantry {n} (storage room) :: meteclēofa {m}
+pants {n} (garment covering the body from the waist downwards) :: hosan {f-p}, brēċ {f-p}
+paper {n} (sheet material) :: leaf {n}, carte {f}
+paradise {n} (heaven) :: neorxnawang {m}
+paradise {n} (very pleasant place) :: neorxnawang {m}
+parent {n} (person from whom one is descended) :: ealdor {m}
+parsley {n} (plant Petroselinum crispum) :: petersiliġe {f}
+part {n} (fraction of a whole ) :: part
+participant {n} (one who participates) :: dǣlnimend {m}
+parturition {n} (act of giving birth) :: tēam
+pass {v} (move or be moved from one place to another) :: lēoran
+pass {v} (to go past) :: lēoran
+pass {v} (die) :: gelēoran
+pass {v} (happen) :: weorþan, belimpan
+pass {v} (elapse) :: āgān
+pass {v} (go from one person to another) :: gesellan
+pass {v} (to continue) :: bīdan
+passion {n} (any great emotion) :: þolung {f}, weamet {f}, ontendnes {f}, mihtmod {n}, bryne {m}
+passionate {adj} (fired with intense feeling) :: hātheort, grambære, geallig, iersigendlic
+password {n} (word used to gain admittance) :: lēafnesword {n}
+past {n} ((grammar) past tense) :: forþġewiten
+past {adj} (grammar: expressing action that has already happened) :: forþġewiten
+pasture {n} (land on which cattle can be kept for feeding) :: winn {f}, lǣs {f}, feohland {n}
+pasture {v} (to herd animals into a pasture) :: lǣswian
+paternal uncle {n} (brother of one's father) :: fædera {m}
+patience {n} (quality of being patient) :: ġeþyld
+patient {adj} (not losing one's temper while waiting) :: ġeþyldiġ
+patriarch {n} (male leader) :: hēahfæder {m}
+paved {adj} (covered in pavement) :: stānfāh
+pay {v} :: ġieldan 
+pay back {v} (to repay) :: ġieldan, forġieldan
+pay for {v} (exchange for) :: gieldan
+pay for {v} (held accountable for) :: ġebētan
+peace {n} (tranquility, quiet, harmony; absence of violence) :: smyltnes {f}, stilnes {f}, friþ {n}
+peace {n} (state of mind) :: sibb {f}, smyltnes {f}
+peace {n} (harmony; lack of conflict in personal relations) :: seht {m} {f}, ġeþwǣrnes {f}
+peace {n} (state of being free from war) :: friþ {n}, griþ {n}
+peaceful {adj} (not at war or disturbed by strife or turmoil) :: friþsum
+peach {n} (tree) :: persoctrēow  {n}
+peach {n} (fruit) :: persoc {m}
+peacock {n} (pheasant of one of the genera Pavo and Afropavo) :: pāwa {m}
+pear {n} (fruit) :: peru {f}
+pear {n} (tree) :: piriġe {f}
+pear tree {n} (a tree of the genus Pyrus) :: pyrige
+pearl {n} (rounded shelly concretion produced by certain mollusks) :: meregrot {n}
+peck {v} (to strike or pierce with the beak or similar) :: pycan
+pee {n} :: miċġa {m}, miċġe {f}, migoþa {m}, hland {n}
+pee {v} :: mīgan
+peevish {adj} (constantly complaining) :: gnorn
+pen {n} (writing tool) :: feþer {f}
+penetrate {v} (enter into) :: ġeondfaran
+penis {n} :: teors
+people {n} (a body of human beings; a group of two or more persons) :: menn {m-p}
+people {n} (a group of persons forming or belonging to a particular nation etc.) :: folc {n}, lēode {f-p}
+people {n} (a person's ancestors, relatives or family) :: cynn {n}
+perceive {v} (to understand) :: onġietan
+perfect {adj} (fitting its definition precisely) :: fulfremed
+perfect {adj} (having all of its parts in harmony with a common purpose) :: fulfremed
+perfect {adj} (without fault or mistake) :: fulfremed
+perfection {n} (being perfect) :: fulfremednes {f}
+perform {v} (to do something) :: æfnan
+perfume {n} (pleasant smell) :: æþelstenċ {m}, wyrtbrǣþ {m}
+perfume {n} (substance providing a pleasant smell) :: wyrtġemang {n}
+perhaps {adv} (indicating a lack of certainty) :: weald þēah
+perish {v} :: forweorþan
+permanent {adj} (without end) :: heahfæst, unateorigendlic, ungewitendlic, unlæne
+permission {n} (authorisation) :: lēafnes {f}
+person {n} (individual) :: mann {m}
+person {n} (specifically a human being, see also: human; human being; man) :: mann {m}
+person {n} (Christianity: any one of the three hypostases of the God) :: hād {m}
+person {n} (grammar: linguistic category) :: hād {m}
+pheasant {n} (bird of family Phasianidae, often hunted for food) :: wōrhana {m}
+philosopher {n} (person devoted to studying philosophy) :: ūþwita {m}, philosoph {m}
+philosophical {adj} (of or pertaining to philosophy) :: ūþwitlīċ
+philosophize {v} (ponder or reason out philosophically) :: ūþwitian
+philosophy {n} (the pursuit of wisdom) :: ūþwitegung {f}
+philosophy {n} (academic discipline) :: ūþwitegung {f}
+physical {adj} (having to do with the body) :: līchamlīċ
+physical {adj} (having to do with the material world) :: līchamlīċ
+physical {adj} (involving bodily force) :: līchamlīċ
+physically {adv} (in a physical manner) :: līchamlīċe
+physician {n} (medical doctor) :: lǣċe {m}
+pick up {v} (to lift; to grasp and raise) :: hebban, āhebban
+pick up {v} (to restart or resume) :: fōn
+pick up {v} (to collect an object, especially in passing) :: ġeniman
+pick up {v} (to collect a passenger) :: ġeniman
+pick up {v} (to learn, to grasp; to begin to understand) :: onfōn, befōn
+pick up {v} (to receive (a signal)) :: onfōn
+pick up {v} (to notice, detect or discern) :: gȳman, hāwian
+pick up {v} (to pay for) :: gieldan
+piece {n} (part of a larger whole) :: styċċe
+piece {n} (single item belonging to a class of similar items) :: styċċe {n}
+piecemeal {adv} (piece by piece) :: brytmǣlum, styċċemǣlum
+pig {n} (mammal of genus Sus) :: swīn {n}
+pigeon {n} (bird of the dove and pigeon family Columbidae) :: culfre {f}, *dūfe {f} [cf. woman’s attested name: Dūfe, “Dove”]
+piglet {n} (young pig) :: fearh {m}
+pigsty {n} (enclosure where pigs are kept) :: hlose
+pillow {n} (soft cushion used to support the head in bed) :: bolster {m}
+pine {n} (tree of the genus Pinus) :: pīntrēow {n}, furhwudu {m}
+pious {adj} (of or pertaining to piety) :: ǣfæst
+pious {adj} :: hāliġ
+pipe {n} (wind instrument) :: hwistle {f}, pīpe {f}
+pipe {n} (rigid tube) :: þēote {f}, pīpe {f}
+pirate {n} (one who plunders at sea) :: sǣþēof {m}
+piss {n} (urine) :: miċġa {m}, miċġe {f}, migoþa {m}, hland {n}
+piss {v} :: mīgan
+place {n} (location, position) :: stōw {f}, stede {m}, steall {m} {n}
+place {v} (to put in a specific location) :: lōgian, stellan
+plague {n} (an epidemic or pandemic caused by any pestilence) :: cwild {m}, wōlnes {f}
+plague {n} (widespread affliction, calamity) :: cwild {m}
+plane {n} (a tool) :: sceafa {m}
+planet {n} (each of the seven major bodies which move relative to the fixed stars in the night sky) :: tungol {m}
+plant {n} (organism capable of photosynthesis) :: plante {f}
+plant {v} (place in soil or other substrate in order that it may live and grow) :: plantian
+plate {n} (flat dish) :: disċ {m}
+platform {n} :: yppe {f}
+play {v} (act in a manner such that one has fun) :: lācan, gamenian, plegan, spilian
+play {v} (produce music using a musical instrument (transitive sense), affecting a noun) :: lācan, gliwian
+play {v} (produce music using a musical instrument (intransitive sense, not affecting a noun)) :: lācan
+plead {v} (to present an argument) :: ǣrendian
+pleasant {adj} (giving pleasure; pleasing in manner) :: bliþelic, cweme, fæger, gefealic, gemede, geswæslic, glædlic, heore, hold, ieþgeorn, ieþe, hyhtful, hyhtlic, leoflic, liciendlic, liþe, lufsum, lufteme, luftymlic, lufwende, lustbære, lustsumlic, myrge, mirige, tæse, wynlic, wynsum, wynsumlic, weþe, gal, gewunsum, gewunsumlic, leoftæle, licwyrþe, swæ, geryde, geswæ, slio, ipgeorn
+pleasure {n} (a state of being pleased) :: drēam {m}
+plectrum {n} (music: small piece for plucking strings) :: næġl {m}
+plum {n} (fruit of Prunus domestica) :: plūme {f}
+plum {n} (tree) :: plūme {f}, plūmtrēow {n}
+plum {n} :: plūme {f}
+plural {n} (word in plural form) :: maniġfeald
+poem {n} (literary piece written in verse) :: lēoþ {n}
+poet {n} (person who writes poems) :: sċop {m}
+poetic {adj} (relating to poetry) :: sċoplīċ, lēoþlīċ
+poetic {adj} (characteristic of poets) :: sċoplīċ, lēoþlīċ
+poison {n} (substance harmful to a living organism) :: ātor {n}
+poison {v} (to use poison to kill or paralyse) :: ǣtrian
+poisonous {adj} (containing sufficient poison to be dangerous) :: ǣtren, ǣtriġ
+policeman {n} (a member of a police force) :: burhweard {m}, tēoþungmann {m}
+poor {adj} (with little or no possessions or money) :: earm
+poor {adj} (of low quality) :: earm
+poor {adj} (used to express pity) :: earm
+pope {n} (head of the Roman Catholic Church) :: pāpa {m}
+popular {adj} (of or pertaining to the common people) :: þeodisc
+population {n} (all people living within a political or geographical boundary) :: landwaru {f}, leodræ {f}, þeodscipe {m}, eorþwaru {f}
+porch {n} (a covered and enclosed entrance to a building) :: forehūs
+pore {n} (a tiny opening in the skin) :: swātþyrel {n}, līcþēote {f}
+pork {n} (meat of a pig) :: swīn {n}, swīnes flǣsċ {n}
+porpoise {n} (cetacean) :: mereswin {n}
+porridge {n} (breakfast cereal dish, see also: oatmeal) :: brīw {m}
+port {n} (dock or harbour) :: hæfen {f}
+possess {v} (to have; to have ownership of) :: āgan, āgnian
+possession {n} (something that is owned) :: ǣht {f}, āgenung {f}
+possession {n} (ownership; taking, holding, keeping something as one's own) :: ǣht {f}
+possessive {adj} (grammar: indicating possession) :: ġeāgniġendlīċ
+possessor {n} (One who possesses) :: āgendfrēa [lord]
+possible {adj} (able but not certain to happen) :: mihtlīċ
+pouch {n} (small bag) :: ceod
+pour {v} (to cause to flow in a stream) :: ġēotan
+poverty {n} (quality or state of being poor) :: iermþ {f}, næft {f}
+power {n} (physical force or strength) :: afol
+praise {v} (to give praise to) :: herian
+pray {v} (to petition a higher being) :: ġebiddan, friġnan
+prayer {n} :: ġebed 
+preach {v} (give a sermon) :: predician
+preacher {n} (one who preaches) :: predicere {m}
+predecessor {n} (one who precedes) :: fōregenġa {m}
+preeminence {n} (status of being preeminent) :: æþelu {f} {n}
+preface {n} (introduction before the main text) :: fōresæġdnes {f}
+prefer {v} (to favor) :: foreberan, foresettan
+pregnancy {n} (condition) :: bearnēacnung {f}
+pregnant {adj} (carrying developing offspring within the body) :: bearnēacen
+prepare {v} (to make ready for a specific future purpose) :: æfnan
+preposition {n} (grammar: a type of word like "of, from, for, by") :: fōresetnes {f}
+present {adj} (pertaining to the current time) :: andweard
+present {n} (current time) :: andweardnes {f}
+previous {adj} (prior) :: forestapol
+previously {adv} (at an earlier time) :: furþum
+priest {n} (clergyman (clergywoman, clergyperson)) :: prēost {m}, ǣweweard {m}, ciricþingere {m}, clǣnsere {m}, ealdwita {m}, gebedmann {m}, heargweard {m}, hlȳtere {m}, sācerd {m} {f}, þingere {m}, wēofodþegn {m}, hīredprēost {m} [regular]
+prime {n} (first hour after dawn) :: prīmtīd, prīm
+prime {n} (Christianity: the liturgical service of the first hour of daylight) :: prīmsang, prīm
+prime {n} (earliest stage) :: fruma {m}
+prime number {n} (natural number) :: frumtæl
+prince {n} (male ruler or head of a principality) :: æþeling {m}
+prison {n} (place of long-term confinement for those convicted of serious crimes) :: cweartern {n}, carcern {n}
+prisoner {n} (person incarcerated in a prison) :: rǣpling {m}
+prisoner {n} :: hæft
+proclaim {v} (to state excitedly, verbosely and candidly) :: ābēodan
+produce {v} (to make or manufacture) :: forþbringan, forþberan, ācennan, forþlǣdan
+produce {n} (that which is produced) :: æþelu {f} {n}
+progress {n} (advancement to a more developed state) :: forþgang {m}
+promise {n} (vow) :: hāt
+promise {v} (to commit to something) :: ġehātan
+prone {adj} (lying face downward; prostrate) :: neowol
+pronoun {n} (type of noun) :: bīnama {m}
+proper noun {n} (the name of a particular person, place, organization or other individual entity) :: āgen nama {m}
+property {n} (something owned) :: āgenung {f}
+property {n} :: æht {?}
+proposition {n} (idea or plan offered) :: fōresetnes {f}
+proprietor {n} (owner) :: āgendfrēa [lord]
+prosper {v} (to be successful) :: þeon
+prostitute {n} (a person having sex for profit) :: portcwene {f}, myltestre {f}, hore {f}
+protect {v} (to keep safe) :: mundian, amundian, scieldan, ascildan, awerian, bewerian, weardian, beweardian, beorgan, gebeorgan, bebeorgan, belucan, beswapan, ealgian, gealgian, beþeccan, forþeccan, mundbyrdan, ymbtrymman, helian, forhelian
+proud {adj} (possessed of a due sense of what one is worth or deserves) :: heahheort
+proud {adj} (having a too high opinion of oneself; arrogant, supercilious) :: orgellīċ, ofermodig, heahheort
+pub {n} (public house) :: ealuhūs {n}
+punishment {n} :: wīte {n}
+pupil {n} (the hole in the middle of the iris of the eye) :: sēo {f}
+puppy {n} (young dog) :: hwelp {m}
+pure {adj} (free of flaws or imperfections) :: clǣne
+pure {adj} (free of foreign material or pollutants) :: clǣne
+pure {adj} (free of immoral behavior or qualities; clean) :: clǣne
+purity {n} (the state of being pure) :: hlūtorness {f}, unwemness {f}, sȳferness {f}
+purple {n} (colour) :: bleoread, godwebben, basu
+purple {adj} (colour) :: basu, basureadan, weolucbasu
+pursue {v} (to follow urgently) :: æfterfolgian
+push {v} (to apply a force to something so that it moves away) :: scūfan
+put {v} (to place something somewhere) :: dōn, leċġan, settan, stellan
+put on {v} (to don clothing) :: dōn on
+put out {v} (place outside or eject) :: ūtian, geūtian
+pyre {n} (funeral pile) :: ād {m}
+quail {n} (any of several small game birds) :: ersċhenn {f}, edisċhenn {f}
+quake {v} (tremble or shake) :: āgrīsan
+quality {n} (level of excellence) :: hwelcnes {f}
+quality {n} (differentiating property or attribute) :: hwelcnes {f}
+quarrel {v} :: sacan
+queen {n} (female monarch) :: cwēn {f}, cyninge {f}
+queen {n} (wife of a king) :: cwēn {f}
+queen bee {n} (reproductive female bee) :: bēomōdor {f}
+question {n} (sentence, phrase or word) :: fræġn {n}, āscung {f}
+quickly {adv} (rapidly, fast) :: hrædlīċe
+quicksand {n} (type of sand) :: cwecesand {n}, sandgeweorp {n}, sandrid {n}
+quiet {n} (absence of movement) :: ǣmetta {m}
+quite {adv} (to the greatest extent; completely) :: eall
+quite {adv} (in a fully justified sense; truly) :: eall
+quiver {n} (arrow container) :: cocer, bogefōdder
+rabbit {n} (mammal) :: hāra {m}
+radius {n} (bone (human)) :: hresel
+rain {n} (condensed water from a cloud) :: reġn {m}
+rain {n} :: reġn
+rain {v} (of rain: to fall from the sky) :: riġnan
+rainbow {n} (multicoloured arch in the sky) :: reġnboga {m}
+raise {v} (to cause to rise) :: āhebban
+raise {v} :: hebban 
+rape {n} (act of forcing sexual activity) :: unrihthǣmed
+rare {adj} (very uncommon) :: selden, seldlic
+raspberry {n} (plant) :: hindbrēr {m}
+raspberry {n} (fruit) :: hindberiġe {f}
+rat {n} (rodent) :: rætt {m}
+rational {adj} (capable of reasoning) :: ġesċeādwīs
+rational {adj} (reasonable; not absurd) :: ġesċeādwīs
+raven {n} (bird) :: hræfn {m}
+razor {n} (shaving knife) :: scearseax {n}
+re- {prefix} (again) :: ed-, aġēn
+read {v} (look at and interpret letters or other information) :: rǣdan
+real {adj} (true, genuine, not merely nominal) :: sōþ
+really {adv} (actually) :: sōþe, sōþes
+realm {n} (territory or state) :: rīċe {n}, cynedōm {m}
+recently {adv} (in the recent past) :: nīwan
+recur {v} (to happen again) :: aġēnġeċyrran
+red {adj} (having red as its colour) :: rēad
+red deer {n} (Cervus elaphus) :: heort
+reflect {v} (to bend back from a surface) :: glitnian
+refugee {n} (person seeking political asylum) :: flīema {m}
+regret {v} (feel sorry about some past thing) :: hrēowan
+regret {n} (instance of such an emotion) :: hrēow {f}
+reindeer {n} (Rangifer tarandus) :: hrān {m}
+rejoice {v} (be happy) :: āhliehhan [poetic]
+rejoice {v} :: ġefēon
+religion {n} (system of beliefs dealing with soul, deity and/or life after death) :: ġelēafa {m}, ǣfæstnes {f}
+religious {adj} (concerning religion) :: ǣfæst
+remember {v} (to recall from one's memory) :: ġemunan
+remission {n} (pardon of a sin) :: forġifnes {f}
+remorse {n} (feeling of regret or sadness for doing wrong or sinning) :: hrēow {f}
+remove {v} (to take away) :: āniman, ālīesan
+repair {v} (to restore to good working order) :: ġebētan
+repeat {v} (do or say again) :: æftercweþan, edlæcan, eftgian
+reply {v} :: oncweþan
+reply {n} (written or spoken response) :: ġeġncwide {m}
+residence {n} (place where one lives) :: wunung {f}
+resistance {n} (act of resisting) :: anbyrdnes {f}, andwig {n}
+resound {v} (to sound again) :: ābrastlian
+resound {v} ((intransitive) to reverberate with sound or noise) :: āhlēoþrian
+respite {n} (brief interval of rest or relief) :: ǣmethwīl {f}
+rest {n} (peace, freedom from trouble, tranquility) :: ǣmetta {m}
+retain {v} (to keep in possession or use) :: æthabban
+return {v} (to give something back to its original holder or owner) :: āġiefan
+reveal {v} (to uncover) :: ætīewan
+revenge {n} (retaliatory action) :: wracu {f}
+revoke {v} (to cancel or invalidate by withdrawing or reversing) :: æftercweþan
+rib {n} (curved bone) :: ribb {n}
+right {adj} (of direction, opposite of left) :: swīþra
+right now {adv} (at this precise moment) :: nū rihte
+ring {n} (circumscribing object) :: hring {m}
+ring {n} (round piece of (precious) metal worn around the finger) :: hring {m}, bēag {m}
+ring finger {n} (finger between the middle finger and little finger) :: hringfinger {m}
+rise {v} (to move upwards) :: rīsan
+rise {v} (of a celestial body: to appear to move from behind the horizon) :: gān upp
+rise {v} (to assume an upright position after lying down or sitting) :: ārīsan
+rise {v} (to get up) :: ārīsan
+rise {v} (to be resurrected) :: ārīsan
+rise {n} (action of moving upwards) :: rīsan {?}
+river {n} (large stream which drains a landmass) :: ēa {f}
+robin {n} (Erithacus rubecula) :: rudduc {m}
+rock {n} (natural mineral aggregate) :: stān {m}
+rock {n} (large stone or boulder) :: carr {m}, clifstān {m}
+roll {v} (to cause to revolve) :: wieltan
+romantic {adj} (fantastic, idealistic) :: gedwimorlīc
+romantic {adj} (concerned with, or conducive to, romance and love) :: lufsum
+roof {n} (the cover at the top of a building) :: hrōf {m}, þæc {n}
+roof {n} (the upper part of a cavity) :: hrōf {m}
+roof tile {n} (tile covering a roof) :: þæctiġele {f}
+rook {n} (bird) :: hrōc {m}
+room {n} (space) :: rūm
+room {n} (division in a building) :: rūm
+roomy {adj} (spacious) :: rūm, ġēap
+rooster {n} (male chicken; male gallinaceous bird) :: hana {m}
+root {n} (part of a plant) :: wyrtruma {m}, wyrtwala {m}
+rope {n} (thick, strong string) :: sāl {m}, sīma {m}
+rotation {n} (act of turning around a centre) :: ymbhwyrft {m}, wendung {f}
+round {adj} (circular or cylindrical) :: sinewealt
+round {adj} (spherical) :: sinewealt
+royal {adj} (of or relating to a monarch or their family) :: cynelīċ
+rubber {n} (pliable material derived from the sap of the rubber tree) :: teoru {n}, trēowteoru {n}
+rubber {n} (someone or something which rubs) :: strīcere {m}
+ruin {n} (the state of being a ruin, destroyed or decayed) :: hryre {m}
+ruin {n} (something which leads to serious troubles) :: hryre {m}
+rule {n} (regulation) :: regol {m}
+rule {v} (to regulate, be in charge of, make decisions for, reign over) :: wealdan
+ruler {n} (measuring or drawing device) :: regol {m}, regolsticca {m}
+rush {v} (to flow or move forward rapidly or noisily) :: ætspringan
+rye {n} (the grass Secale cereale or its grains as food) :: ryġe {m}
+rye bread {n} (type of bread) :: ryġebrēad, ryġehlāf
+sacred {adj} (made holy) :: hāliġ
+sacrifice {v} (to offer as a gift to a deity) :: offrian, blōtan
+sacrifice {v} (to give away something valuable in order to gain something else of value) :: āġiefan
+sacrifice {v} :: blōtan
+sacrifice {n} (something sacrificed) :: blōt, ġeblōt, lāc {n}
+sad {adj} (feeling sorrow) :: drēoriġ
+safe {adj} (not in danger) :: geborgen, gebeorglic, gefriþsum, gehealdfæst, gehieldelic, gesund, hæle, onwealg
+sage {n} (Salvia officinalis) :: salfige {f}
+sail {n} (a piece of fabric attached to a boat) :: seġl {n}
+sail {v} (to ride in a boat, especially sailboat) :: siġlan
+saint {n} (person proclaimed as saint) :: hālga {m}, sanct {m}
+saint {n} :: sanct {m}, before a proper name, sanctus {m}, sancta {f}
+salmon {n} (fish) :: leax {m}
+salt {adj} (salty) :: sealt
+salt {adj} :: sealt
+salt {v} (to add salt to) :: sieltan
+salt {v} :: sealtan, sieltan
+salt {n} (sodium chloride) :: sealt {n}
+salt {n} :: sealt {n}
+sand {n} (finely ground rock) :: sand {m}
+sanderling {n} (Calidris alba) :: sand-yrðling 
+satanic {adj} (relating to Satan) :: dēofollīċ
+satisfy {v} (to meet needs, to fulfill) :: cweman, gesedan, sadian, weldon, fyllan, afyllan
+sausage {n} (a food made of minced meat packed into a tubular casing) :: gehæcca {m}, mearhhæccel {n}
+save {v} (to help someone to survive, or rescue someone) :: nerian
+say {v} (to pronounce) :: secgan
+scab {n} (incrustation over a wound) :: sċeabb {m}
+scale {n} (keratin pieces covering the skin of certain animals) :: sċiell {f}
+scalp {v} (to remove part of the head) :: hættian, behættian
+scalpel {n} (small straight knife) :: ǣdreseax {n}
+scaly {adj} (covered or abounding with scales) :: scilig, scorfed
+scar {n} (permanent mark on the skin) :: dolg
+sceptre {n} (ornamental staff) :: cyneġierd {f}
+school {n} (an institution dedicated to teaching and learning) :: scōl {f}
+science {n} (collective discipline of learning acquired through the scientific method) :: boccræft {m}, lar {f}, woruldwisdom {m}
+scissors {n} (tool used for cutting) :: sċēar {f}, sċēara {f-p}
+scope {n} (breadth, depth or reach of a subject; a domain) :: stede {m}
+scorn {v} (to feel contempt or disdain for something or somebody) :: ǣwan
+scorpion {n} (any of various arachnids of the order Scorpiones) :: þrōwend {m}
+scream {n} (loud exclamation) :: hrēam {m}
+scream {v} (to make the sound of a scream) :: hrīeman
+scribe {n} (one who writes; a draughtsman) :: wrītere {m}, bōcere {m}
+scripture {n} (any sacred writing or book) :: ǣ {f}
+scrutinize {v} (to examine with great care) :: sceawian
+sea {n} (body of water) :: sǣ {m}, mere {m}, lagu {m}, holm {m}
+seabed {n} (floor or bottom of the sea or ocean) :: sǣgrund {m}
+seagull {n} (bird of the family Laridae) :: mǣw {m}
+seal {n} (pinniped) :: seolh {m}
+seam {n} (folded back and stitched piece of fabric) :: sēam {m}
+seamstress {n} (a woman who sews clothes professionally) :: sēamestre {f}
+second {adj} (second (numeral), see also: 2nd) :: ōþer
+second {adj} (that comes after the first) :: ōþer
+secret {n} (knowledge that is hidden) :: dīeġelnes {f}
+secret {adj} (being or kept hidden.) :: dīeġel
+see {v} (perceive with the eyes) :: ġesēon
+seed {n} (fertilized grain) :: sǣd {n}
+seek {v} (to try to find) :: sēċan, nēosian
+seize {v} (grab) :: niman
+sell {v} :: bebycgan, beċēapian
+send {v} (make something go somewhere) :: sendan, ǣrendwreċċan [a message]
+send word {v} (notify via a delivered message) :: ǣrendian
+sentence {n} (judicial order for punishment, conviction) :: dōm {m}
+sentence {n} (grammatically complete series of words consisting of a subject and predicate) :: cwide {m}
+sentence {v} (declare a sentence on a convicted person) :: dēman
+separate {v} (to disunite, disconnect) :: tōdǣlan, ġetwǣfan
+separate {v} (to cause to be separate) :: tōdǣlan, ġetwǣfan
+sepulchre {n} (burial chamber) :: moldern
+servant {n} :: þeġen {m} 
+set {v} (of a heavenly body: to disappear below the horizon) :: tō setle gān, on setl gān
+set fire {v} (to light using fire) :: onǣlan
+seven {num} (cardinal number 7) :: seofon
+sevenfold {adj} (multiplied by seven (adjective)) :: seofonfeald
+seventy {num} (cardinal number) :: hundseofontiġ
+sex {n} (act of sexual intercourse) :: hǣmed, leġertēam, wīfġemāna
+sext {n} (midday Christian service) :: middægsang
+sexual intercourse {n} (sexual interaction) :: hǣmed, leġertēam, wīfġemāna
+shad {n} (fishes of the herring family) :: sceadd
+shade {n} (darkness where light is blocked) :: sceadu {f}
+shade {v} (to shield from light) :: sceadwian
+shadow {n} (dark image projected onto a surface) :: sceaduwe
+shake {v} (transitive: to cause to move) :: cweċċan, āhrēran
+shake {v} (intransitive: to move from side to side) :: cwacian
+shake one's head {v} (move one's head from side to side) :: hēafod cweċċan
+shall {v} (indicating the simple future tense) :: sculan
+shame {n} (uncomfortable or painful feeling) :: sċamu {f}
+shame {n} (reproach incurred or suffered; dishonour; ignominy; derision) :: ǣwisċ {f}
+shameless {adj} (having no shame) :: ǣwisċ
+share {v} (to give) :: dǣlan
+share {v} (to have in common) :: dǣlan
+share {v} (to divide and distribute) :: dǣlan, ġedǣlan
+share {v} :: dǣlan
+she {pron} (person) :: hēo, sēo
+she-cat {n} (female cat) :: catte {f}
+sheep {n} (animal) :: scēap {n}
+shell {n} (hard calcareous or chitinous external covering of many invertebrates) :: sċiell {f}
+shepherd {n} (a person who tends sheep) :: sċēaphierde {m}
+shepherd {n} (someone who watches over or guides) :: hierde {m}
+shield {n} (armor) :: sċield {m}
+shin {n} (front part of the leg below the knee) :: sċinu {f}
+shinbone {n} (inner bone of the hind limb below the knee) :: sċinbān {n}
+ship {n} (large water vessel) :: sċip {n}
+shipbuilder {n} (person) :: sċipwyrhta {m}
+shipwreck {n} (An event where a ship sinks or runs aground.) :: forlidennes {f}, sċipġebroc {n}
+shipwreck {v} (to wreck a vessel) :: forlīþan
+shipwrecked {adj} (stranded as a result of a shipwreck) :: forliden
+shipwright {n} (person) :: sċipwyrhta {m}
+shirt {n} (article of clothing) :: hemeþe {n}
+shoe {n} (protective covering for the foot) :: scōh {m}
+shoemaker {n} (a person who makes shoes) :: sċōhwyrhta {m}, sċōhƿyrhta {m}
+shooter {n} (person) :: sċytta {m}
+shore {n} (land adjoining a large body of water) :: strand {n}, streamweall {m}, waroþ {n}
+short {adj} (having a small distance between ends or edges) :: sċort
+should {v} (expressing obligation) :: sċulan
+shoulder {n} (joint between arm and torso) :: sċuldra {m}, eaxl {f}
+shout {n} (a loud burst of voice) :: hrēam {m}
+shout {v} (to utter a sudden and loud outcry) :: hrīeman
+show {v} (to display) :: ætīewan
+shrub {n} (woody plant) :: scrybb
+shudder {v} (to shake nervously, as if from fear) :: āgrīsan
+shut {v} ((transitive) to close) :: scyttan
+side {n} (bounding straight edge of an object) :: sīde {f}
+side {n} (portion of the human torso generally covered by the arms) :: sīde {f}
+sign {n} (visible indication) :: tācn {n}
+sign of the cross {n} (gesture) :: rōde tācen {n}
+silence {n} (lack of any sound) :: swīġe {f}, stilnes {f}
+silent {adj} (free from sound or noise; absolutely still; perfectly quiet) :: swīgian [verb "to be silent"]
+silkworm {n} (caterpillar) :: seolcwyrm {m}
+silver {n} (metal) :: seolfor {n}
+simultaneous {adj} (occurring at the same time) :: samod 
+sin {v} (to commit a sin) :: syngian, sċyldigian
+sin {n} (violation of religious law) :: synn {f}, sċyld {f}
+sin {n} (misdeed) :: synn {f}
+sing {v} (to produce harmonious sounds with one’s voice) :: singan, āgalan
+singer {n} (person who sings) :: sangere {m}
+singer {n} (female person who sings) :: sangestre {f}
+singular {adj} (grammar: referring to only one thing) :: ānfeald
+sink {v} (descend into liquid, etc) :: ādrincan [of ships]
+sister {n} (woman or girl having the same parents) :: sweoster {f}, sweostor {f}
+sister-in-law {n} (brother's wife) :: brōþorwīf {n}
+sit up {v} (to rise to a sitting position) :: āsittan
+sit up {v} (to sit erect) :: āsittan
+six {num} (cardinal number) :: siex
+sixth {adj} (ordinal form of the number six, see also: 6th) :: siexta
+sixty {num} (cardinal number) :: siextiġ
+size {n} (dimensions or magnitude of a thing) :: grietu {f}, micelnes {f}
+skim milk {n} (milk with removed cream) :: þynne meolc {f}
+skin {n} (outer protective of the body of a person or animal) :: hȳd {f}
+skirt {n} (clothing) :: scyrte {f}
+skirt {n} (part of dress) :: læppa {m}
+skull {n} (bones of the head: cranium and mandible) :: hēafodpanne {f}, hēafodbān {n}
+sky {n} (atmosphere above a point) :: heofon {m}, lyft  {f}
+sky {n} (specific view, condition) :: lyft
+sky {n} (heaven) :: heofon {m}
+slave {n} (person owned by another) :: þēow {m}, wealh {m}
+slave {n} :: hæft {?}
+slavery {n} (condition of servitude endured by a slave) :: þeowdom {?}
+sleep {v} (to rest in state of reduced consciousness) :: sƿefan
+sleep {n} (state of reduced consciousness) :: slǣp
+sleeplessness {n} (property of being sleepless) :: slǣplēast {f}
+sleeve {n} (part of a garment that covers the arm) :: slīef {f}
+sleeveless {adj} (of a garment, having no sleeves) :: slīeflēas
+slipper {n} (low shoe slipped on and off easily) :: slīepesċōh {m}
+slipper {n} (low shoe usually worn indoors) :: slīepesċōh {m}
+slough {n} (the skin shed by a snake or other reptile) :: insmoh {m}
+slow {adj} (not quick in motion) :: læt
+slowly {adv} (at a slow pace) :: late
+slug {n} (gastropod) :: sneġel {m} (snail or slug)
+small {adj} (not large) :: lȳtel
+smell {n} (sensation) :: stenċ {m}
+smell {n} (sense of smell) :: stenċ {m}
+smell {v} (sense with nose) :: ġestincan
+smell {v} (to have a particular smell, whether good or bad; if descriptive, followed by "like" or "of") :: stincan
+smile {v} (to have a smile on one's face) :: smearcian
+snack {n} (a light meal) :: nōngereord {n}, nōnmete {m} [midafternoon meal]
+snag {n} (problem or difficulty) :: wirn/wearn {f}, hremmung {f}
+snail {n} (any animal of the class Gastropoda having a shell) :: sneġel {m} (snail or slug), ġehūsod sneġel {m} (snail specifically)
+snake {n} (legless reptile) :: nædre {f}
+snapdragon {n} (any plant of the genus Antirrhinum) :: hundeshéafod
+snell {adj} (active, brisk) :: snell
+snow {n} (precipitation) :: snāw {m}
+snow {v} (have snow fall from the sky) :: snīwan
+snowstorm {n} (bad weather involving blowing winds and snow) :: hrīþ
+so {adv} (very) :: swā
+so {adv} (to a particular extent) :: swā
+so {adv} (in a particular manner) :: swā
+soap {n} (substance) :: sāpe {f}
+sober {adj} (not drunk) :: undruncen
+sober {adj} (moderate) :: gedrēoh, sȳfre
+solar {adj} (of or pertaining to the sun) :: sunlīċ
+solar eclipse {n} (when the Moon passes between the Earth and the sun) :: sunnan āsprungennes {f}
+sole {n} (bottom of the foot) :: fōtwielm {m}
+solitude {n} (state of being alone) :: ānād {n}
+solstice {n} (point where the earth stands at the extreme of its ellipsis around the sun) :: midsumor {m}, sunstede {m}, sungihte {n}
+somebody {pron} (some unspecified person) :: sum mann, sum
+someday {adv} (sometime; at some time in the future) :: sume dæġe
+somehow {adv} (in one way or another; in some way not yet known or designated) :: āwiht, in ōþer wīsan
+someone {pron} (some person) :: sum mann, sum
+something {pron} (unspecified object) :: sum þing
+sometimes {adv} (on certain occasions, but not always) :: hwīlum
+somewhere {adv} (in some place) :: āhwǣr, gehwǣr, hwǣr, hwǣrhwega, hwǣrhugu, hwǣrhwugu, forhwega; ~ about hūhwega, hūhugu, forhwega; from ~ āhwanon; ~ or other nāthwǣr; from ~ or other nāthwanon
+somewhere {adv} (to some place) :: āhwider, nāthwider
+son {n} :: sunu {n}, bearn {m}, eafora {m}
+song {n} (music with words) :: drēam
+song thrush {n} (song thrush) :: þrostle {f}
+son-in-law {n} (son-in-law) :: āþum {m}
+soon {adv} (within a short time) :: hraþe
+sooner or later {adv} (set phrase; eventually) :: ǣr oþþe lator
+soot {n} (fine black or dull brown particles) :: sōt {n}
+soothsayer {n} (one who predicts the future) :: spæwīfe {f}
+sore {adj} (causing pain) :: wund
+sorrel {n} (plant) :: sūre {f}
+sorrow {n} (unhappiness) :: sorg {f}, caru {f}
+sorrow {n} (instance or cause of unhappiness) :: sorg {f}, caru {f}
+sorrowful {adj} (full of sorrow) :: ċeariġ, ġeōmor
+sound {n} (sensation perceived by the ear) :: swēġ {m}, wōm {m}, hlȳd {n}
+sound {n} (vibration capable of causing this) :: swēġ {m}
+sound {v} (to produce a sound) :: āhlēoþrian
+sound {n} (long narrow inlet) :: sund {n}
+sour {adj} (having an acidic, sharp or tangy taste) :: āfor, sūr
+sourness {n} (quality or condition) :: sūrnes {f}
+sow {n} (female pig) :: sū {f}, sugu {f}
+sow {v} (disperse seeds) :: sāwan
+sparrow {n} (bird of the family Passeridae) :: spearwa {m}
+speak {v} (to communicate with one's voice using words) :: sprecan, specan
+spear {n} (long stick with a sharp tip) :: æsċholt {n} [poetic]
+spear {n} :: spere {n }
+speed {n} (rapidity) :: ofost {f}
+spend {v} (to consume, to use up (time)) :: āspendan, brūcan
+sphere {n} (mathematics: regular three-dimensional object) :: trendel {m}
+sphere {n} (spherical physical object) :: trendel {m}
+sphere {n} (region in which something or someone is active) :: stede {m}
+spice {n} (plant matter used to season or flavour food) :: wyrt {f}
+spider {n} (arthropod) :: ātorcoppe {f}
+spindle {n} (rod in spinning and winding thread) :: spinel/spindel {f}, inspinn {n}
+spine {n} (backbone) :: hryċġbān {n}
+spirit {n} (soul) :: gāst {m}
+spirit {n} (supernatural being) :: gāst {m}
+spiritual {adj} (of or pertaining to the spirit or the soul) :: gāstlīċ
+spiritually {adv} (in a manner affecting the spirit) :: gāstlīċe
+spit {v} (to evacuate (saliva or another substance) from the mouth, etc.) :: spǣtan
+spit {n} (saliva) :: spātl {n}
+spleen {n} (organ) :: milte {f}
+split {v} (divide along a more or less straight line) :: clēofan
+spoon {n} (scooped utensil for eating (or serving)) :: spon
+spring {n} (season between winter and summer in temperate climates) :: lencten {m}
+sprite {n} (an elf; a fairy; a goblin) :: ælf {m}
+spurt {n} (brief gush) :: ætspringan
+spy {n} (person who secretly watches) :: sċēawere {m}
+square {n} (tool) :: rihtebred
+square {n} (open space in a town) :: cēapstōw {f}, tēge {m}
+square {adj} (shaped like a square) :: fēowerecge, fēowerecgede, fēowerscȳte, fiþerscȳte
+squint {v} (to look with, or have eyes that are turned in different directions) :: *sċīelan
+squirrel {n} (rodent) :: ācweorna {m}
+stale {adj} (having lost its freshness) :: ealdbacen
+stalk {v} (to approach slowly and quietly in order not to be discovered when getting closer) :: bestealcian, bestelan
+stallion {n} (uncastrated male horse) :: hengest {m}
+stand {v} (to support oneself on the feet in an erect position) :: standan, ætstandan
+stand {v} (to rise to one’s feet) :: ætstandan
+stand {v} (to remain motionless) :: ætstandan
+stand {v} (to undergo; withstand; hold up) :: ætstandan
+standard {adj} (falling within an accepted range) :: fæst
+standard {n} (a flag or ensign) :: cumbol {n}, segn {n}, fana {m}
+star {n} (luminous celestial body) :: steorra {m}, tungol {n}
+starling {n} (bird) :: stær {m}
+start {v} (to begin) :: onġinnan
+state {n} (any sovereign polity) :: cynewise {f}
+statue {n} (three-dimensional work of art) :: anlīcnes {f}
+stay {v} (to remain in a particular place) :: wunian, belīfan
+stay {v} :: wunian, ābīdan 
+steal {v} (to illegally take possession of) :: stelan
+steam {n} (water vapor) :: stēam {m}
+steed {n} (stallion) :: wicg {n}
+steel {n} (metal produced from iron) :: stīele {n}
+steel {adj} (made of steel) :: stīelen
+step {n} (pace) :: stæpe {m}
+step {n} (one of a set of rests in a stair or ladder) :: stæpe {m}
+step {n} (footstep) :: stæpe {m}
+step {n} (manner of walking) :: stæpe {m}
+stepchild {n} (the child of one's spouse from his or her previous partner) :: stēopċild {n}, stēopbearn {n}
+stepdaughter {n} (daughter of one's spouse and not of oneself) :: stēopdohtor {f}
+stepfather {n} (husband of one's biological mother, other than one's biological father) :: stēopfæder {m}
+stepmother {n} (wife of one's biological father, not one's biological mother) :: stēopmōdor {f}
+stepson {n} (son of one's spouse and not of oneself) :: stēopsunu {m}
+sterility {n} (state of being sterile) :: unwæstmbǣrnes {f}
+still {adj} (not moving, calm) :: stille
+still {adv} (up to a time, as in the preceding time) :: ġīet
+still {adv} (to an even greater degree) :: ġīet
+stock {n} (store of goods for sale) :: stocc
+stomach {n} (digestive organ) :: maga {m}, wamb {f}, būc {m}
+stone {n} (substance) :: stān {m}
+stone {v} (To pelt with stones) :: stǣnan , hǣnan , ġehǣnan 
+stone {adj} (constructed of stone) :: stǣnen
+stook {n} (pile or bundle) :: hrēac {m}
+stool {n} (a seat) :: sċamol {m}
+stork {n} (large wading bird of the family Ciconiidae) :: storc {m}
+strand {v} (to run aground) :: [transitive] āsettan, [intransitive] āsittan
+strand {v} (to leave someone in a difficult situation) :: forlǣtan
+stranded {adj} (of a vessel) :: āseten
+strangle {v} (to kill someone by strangulation) :: āwyrġan
+straw {n} (dried stalks considered collectively) :: strēaw {n}
+strawberry {n} (fruit) :: strēawberiġe {f}, eorþberiġe {f}
+strawberry {n} (plant) :: strēawberiġe {f}
+strawberry {n} :: strēaw-berige
+street {n} (paved part of road in a village or a town) :: stræt {f}
+stretch {v} (lengthen by pulling) :: þennan
+stretch {v} (pull tight) :: þennan
+strike {v} :: hnossian [2]
+stronghold {n} (place built to withstand attack) :: fæsten {n}
+struggle {v} (to strive, to labour in difficulty, to fight) :: winnan
+student {n} (person who studies a subject) :: geongra {m}
+stupid {adj} (lacking in intelligence) :: dwæ, dwæs, dwæslic, gedwæs, dysig, dyslic, medwis, samwis, sott, stunt, stuntlic, ungewitlic, unwittig, ungeræd
+sub- {prefix} (under, beneath) :: under-
+sub- {prefix} (subsidiary, secondary) :: under-
+subside {v} (to fall into a state of calm; to settle down; to become tranquil; to abate) :: swaþrian
+subterranean {adj} (below ground, under the earth, underground) :: eorþen
+suburb {n} (area on the periphery of a city or large town) :: underburg {f}
+successful {adj} (resulting in success) :: forþgenge
+successor {n} (person or thing that immediately follows another) :: æfterfylgend {m}, æftergenga {m}
+suffer {v} (undergo hardship) :: þrōwian, drēogan
+suffer {v} (become worse) :: ādrēogan, drēogan, þrōwian, æfnan
+sufficient {adj} (adequate to wants) :: fulhealden {m}
+suicide {n} (instance of killing oneself) :: āgensliht {m}, selfcwalu {f}
+suicide {n} (person who has killed himself/herself, is killing (is attempting/has attempted to kill) himself/herself) :: āgenslaga, selfcwala {m}
+suitor {n} (wooer) :: wōgere {m}
+sulfur {n} (element) :: swefl {m}
+summer {n} (hottest season) :: sumor {m}
+summit {n} (peak, top of mountain) :: copp {m}
+summon {v} :: bannan
+sun {prop} (the star around which the Earth revolves, see also: Sun) :: sunne {f}
+sun {n} (a star, especially when seen as the centre of any single solar system) :: sunne {f}
+sun {n} :: sunne, sunna
+sunburn {n} (burn) :: sunbryne {m}
+sundial {n} (device noting the time of day by the position of a shadow) :: sōlmerca {m}, dæġmǣl
+sunlight {n} (electromagnetic radiation given off by the sun) :: sunnan lēoma {m}, sunnan lēoht {n}
+sunny {adj} (weather, day) :: *sunniġ
+sunrise {n} (time of day) :: sunnan upgang {m}
+sunrise {n} (sky changing color) :: sunnan upgang {m}
+sunset {n} (time of day) :: sunnan setlgang {m}
+sunset {n} :: sunnansetlgang {m}
+sunshine {n} (direct rays of the sun) :: sunnan sċīma {m}
+superlative {n} (form of adjective expressing "most") :: oferstīgendlīċ
+superlative {adj} (of or pertaining to a superlative) :: oferstīgendlīċ
+superstition {n} (a belief that events may be influenced by one's behaviour in some magical or mystical way) :: æfgælþ {f}
+superstitious {adj} (susceptible to superstitions) :: æfgydel
+supervision {n} (the act or instance of supervising) :: nytt {f}
+sure {adj} (certain in one's knowledge or belief) :: ġewiss
+surface {n} (up-side of a flat object) :: bred {n}
+surrender {v} (intransitive or reflexive: to give oneself up into the power of another) :: ālīefan
+surround {v} (to encircle something or simultaneously extend in all directions) :: ymbfaran, besellan
+surround {v} :: bebūgan
+survive {v} (person: continue to live) :: alibban, aspedan, gedigan, nesan, oferlibban, belæfan
+susceptibility {n} (the condition of being susceptible) :: underfangelnes {f}
+suspend {v} (To hang freely) :: āhōn
+swallow {n} (bird) :: swealwe {f}
+swan {n} (waterfowl of the genus Cygnus) :: swan {m}, ielfete {f}
+sweat {n} (fluid that exits the body through pores) :: swāt {m} {n}
+sweat {v} (to emit sweat) :: swǣtan
+sweep {v} (to clean using a broom or brush) :: swāpan
+sweet flag {n} (Acorus calamus) :: bēowyrt {f}
+sweetly {adv} (in a sweet or pleasant manner) :: swōte
+swig {v} (to drink (usually by gulping)) :: oferdrincan
+swimming {n} (human activity of moving oneself through water) :: sund {n}
+swimming {n} (a giddy sensation) :: swima {m}
+swineherd {n} (person who herds and tends swine, keeper of swine/pigs) :: swīnhierde {m}
+sword {n} (weapon) :: sweord {n}, bil {n}, mēċe {m}, secg {m}
+table {n} (item of furniture) :: bēod {m}
+tablecloth {n} (a cloth used to cover and protect a table, especially for a dining table) :: bēodclāþ {m}
+tail {n} (appendage of an animal) :: tæġl {m}, steort {m}
+tailor {n} (person who makes, repairs, or alters clothing as profession) :: sēamere {m}, sēamestre {f}
+take {v} (to grab with the hands) :: niman
+take off {v} (to remove) :: dōn of
+talk {v} (to communicate by speech) :: sprecan
+tame {adj} (not wild) :: tam
+tame {v} (to make something tame) :: temian
+target {n} (butt or mark to shoot at) :: miercels {m}
+teach {v} (to pass on knowledge) :: lǣran, tǣċan
+teacher {n} (person who teaches) :: lārēow {m}
+tear {n} (drop of clear salty liquid from the eyes) :: tēar {m}
+tear {v} (to produce tears) :: tīeran
+tell {v} (to pass information) :: secgan
+temple {n} (place of worship, see also: church; mosque; synagogue) :: tempel
+temple {n} (region of skull) :: þunwange {f}
+temporal hour {n} (variable time unit) :: tīd
+temptation {n} (act of tempting) :: costnung {f}
+ten {num} (the cardinal number occurring after 9 and before 11) :: tīen, tēn
+tendon {n} (tough band of inelastic fibrous tissue that connects a muscle with its bony attachment) :: sinu {f}
+tent {n} (portable lodge) :: teld {n}
+terce {n} (third hour of daylight) :: undern {m}, undernmæl, underntid, underntima
+terce {n} (Christian service during this hour) :: undernsang, underntid
+terrify {v} :: eġesian
+territory {n} (large tract of land) :: ēþel {m}, æhteland {n}, land {n}, landrice {n}
+terror {n} :: eġe
+testament {n} (part of the Bible) :: ægesetnes {f}, cyþnes {f}
+testicle {n} (male sex gland) :: bealluc {m}
+that {conj} :: þæt
+that {determiner} (what is being indicated) :: se, sēo, þæt
+that {pron} (that thing) :: se {m}, sēo {f}, þæt {n}
+that {pron} (which) :: þe
+the {article} (article) :: sē
+the {adv} :: þȳ
+theme {n} (subject of a talk or an artistic piece) :: andtimber {n}
+then {adv} (at that time) :: þā
+then {adv} (soon afterward) :: þā
+then {adv} (next in order) :: þā
+then {adv} (in that case) :: þā
+there {adv} (in or at that place) :: þēr
+therefore {adv} :: þæs, þȳ 
+they {pron} (third-person plural pronoun) :: hīe {p}
+thick {adj} (relatively great in extent from one surface to another) :: þicce
+thigh {n} (upper leg) :: þēoh {n}
+thin {adj} (having little thickness or extent from one surface to its opposite) :: þynne
+thin {adj} (very narrow in all diameters; having a cross section that is small in all directions) :: þynne
+thin {adj} (having little body fat or flesh; slim; slender; lean; gaunt) :: þynne
+thing {n} (that which is considered to exist as a separate entity, object, quality or concept) :: þing {n}
+third {adj} (the ordinal form of the cardinal number three, see also: 3rd) :: þridda
+thirsty {adj} (needing to drink) :: þurstiġ [thirsty], þyrstan [to be thirsty]
+thirteen {num} (the cardinal number occurring after twelve and before fourteen) :: þrēotīene
+thirteenth {adj} (ordinal form of thirteen, see also: 13th) :: þrēottēoþa
+thirteenth {n} (something in the thirteenth position) :: þrēottēoþa
+thirteenth {n} (one of thirteen equal parts of a whole) :: þrēottēoþa dǣl
+thirty {num} (cardinal number) :: þrītiġ
+this {determiner} :: þes {m}, þēos {f}, þis {n}
+this {pron} (The thing, item, etc. being indicated) :: þes {m}, þēos {f}, þis {n}
+thou {pron} (singular nominative form of you) :: þū
+thought {n} (form created in the mind) :: ġeþōht {m}, þōht {m}
+thought {n} (process) :: ġeþōht {m}
+thousand {num} (cardinal number 1000) :: þūsend
+thread {n} (long, thin and flexible form of material) :: þrǣd
+three {num} (cardinal number 3) :: þrī
+thrice {adv} (three times) :: þreowa
+throat {n} (front part of the neck) :: þrote {f}
+throat {n} (gullet or windpipe) :: wāsend {m} {f}
+throne {n} (ornate seat) :: ġifstōl {m}, setl {n}, bregustol {m}, cynestol {m}, gumstol {m}, ealdorstol {m}
+throw {v} (to cause an object to move rapidly through the air) :: weorpan
+throw {n} (flight of a thrown object) :: wyrp {m}
+throw {n} (a distance travelled) :: wyrp {m}
+thumb {n} (digit) :: þūma {m}
+thunder {n} (sound caused by lightning) :: þunor {m}
+tickle {v} (to touch in a manner that causes tingling sensation) :: ċitelian, tinclian
+tickle {v} (to feel as if being tickled) :: ċitelian, tinclian
+tie {v} (to attach or fasten with string) :: bindan, tīeġan, cnyttan
+tile {n} (mostly rectangular shaped sheet of ceramic or fired clay to cover surfaces) :: tiġele {f}
+timber {n} (trees considered as a source of wood) :: timber {n}
+timber {n} (wood that has been cut ready for construction) :: timber {n}
+time {n} :: mǣl
+tin {n} (element) :: tin {n}
+tine {n} (prong) :: tind {m}
+tired {adj} (in need of rest or sleep) :: mēþe
+toad {n} (amphibian similar to a frog) :: tosca, tāxe
+today {adv} (on the current day) :: tōdæġ
+toe {n} (each of the five digits on the end of the foot) :: tā {f}
+together {adv} (at the same time, in the same place) :: ætgædere
+together {adv} (into one place) :: ætsamne
+tolerate {v} (something difficult) :: ābīdan
+toll {n} :: toll {n}
+tomorrow {adv} (on the day after the present day) :: tomorgen
+tomorrow {n} (the day after the present day) :: morgen {m}
+tongue {n} (organ) :: tunge {f}
+too {adv} (likewise) :: ēac
+too {adv} (more than enough; as too much) :: tō, ofer-
+tooth {n} (biological tooth) :: tōþ {m}
+toothpick {n} (stick for removing food residue from the area between the teeth) :: tōþgār {m}, tōþsticca {m}
+topic {n} (subject; theme) :: andtimber {n}
+torch {n} (stick with flame at one end) :: [poetic] cēn {m}, fæcele {f}
+tormentor {n} (someone who torments) :: pīnere {m}
+tornado {n} (violent windstorm) :: þoden {m}
+tortoise {n} (land-dwelling reptile) :: [tortoise or turtle] byrdling {m}, landbyrdling {m}
+torture {n} (intentional causing of somebody's experiencing agony) :: clæmnes {f}, tintreg {n}, witnung {f}, pinung {f}
+torture {v} (to intentionally inflict unnecessary pain or suffering on helpless victims) :: gecwealmbæran, tintregian, witnian, pinian
+torturer {n} (one who tortures) :: pīnere {m}
+touch {v} (make physical contact with) :: ahrinan, atillan, æthrinan, ahrepian, felan
+touch {n} (act of touching) :: æthrine {m}, handhrine {m}, hrepung {f}, hrine {m}, hrinenes {f}, hrining {f}, onhrine {m}
+touch {n} (sense of perception by physical contact) :: grapung {f}, hrepung {f}, hrine {m}
+tower {n} (structure) :: stīepel {m}, torr {m}
+tower over {v} (to be considerably taller than) :: hlifian
+town {n} (settlement) :: andefera, burg
+traitor {n} (one who violates allegiance and betrays one's country) :: lǣwa {m}, swica {m}
+traitor {n} (a betrayer) :: lǣwa {m}, swica {m}
+tranquillity {n} (the state of being tranquil) :: ǣmetta {m}
+translate {v} (to change text from one language to another) :: āwendan, þeodan, geþeodan, trahtnian, tæcan, cierran, gecierran
+translator {n} (someone who translates) :: wealhstod {m}
+trap {n} (device designed to catch or kill animals) :: fealle {f}
+trap {n} (trick or arrangement designed to catch someone in a more general sense) :: fealle {f}
+travel {v} (be on a journey) :: sīþian, wadan, faran, fēran
+treasure {n} (collection of valuable things) :: sceatt
+tree {proverb} (large woody plant) :: trēow {n}, bēam {m}, wudu {m}
+tremble {v} (to shake) :: bifian
+tribe {n} (group of people) :: þēod
+trickery {n} (underhanded behavior) :: fleard {n}
+trip {n} (stumble or misstep) :: ætspurnung {f}
+trip {n} (act of tripping someone) :: scremmung {f}
+trip {v} (to cause to stumble) :: screncan, scremman
+trip {v} (to activate or set in motion) :: stēpan
+trip {v} (to make a trip) :: feran
+trough {n} (a long, narrow, open container for feeding animals) :: trog {m}
+trout {n} (fish) :: sceōta {m}, forn {f}
+truck {n} (vehicle designed for carrying cargo) :: hlæstwæġn
+true {adj} (concurring with a given set of facts) :: sōþ
+true {adj} (Genuine) :: sōþ
+true {adj} (Legitimate) :: sōþ
+trumpet {n} (brass instrument) :: bīeme {f}
+try {v} (to attempt) :: onġinnan
+turn {v} (change the direction or orientation of (something)) :: wendan, hweorfan
+turn {v} (become) :: wendan, hweorfan
+turn {v} :: wendan, hweorfan
+turtle {n} (land or marine reptile with a shell) :: byrdling {m}
+turtle dove {n} (bird in the genus Streptopelia) :: turtle {f}, turtla {m} [male]
+twelfty {num} (one hundred twenty) :: hundtwelftiġ
+twentieth {adj} (ordinal form of twenty, see also: 20th) :: twēntigoþa
+twentieth {n} (ordinal object) :: twēntigoþa
+twentieth {n} (portion of whole) :: twēntigoþa dǣl
+twenty {num} (cardinal number) :: twentig
+twenty-first {adj} (the ordinal form of the number twenty-one) :: ān and twēntigoþa
+twenty-first {n} (ordinal) :: ān and twēntigoþa
+twenty-first {n} (portion of a whole) :: ān and twēntigoþa dǣl
+twenty-one {num} (cardinal number) :: ān and twēntiġ
+twenty-three {num} (twenty-three) :: þrēo and twēntiġ
+twenty-two {num} (twenty-two) :: twā and twēntiġ
+twice {adv} (two times) :: tweowa
+twilight {n} (evening twilight) :: ǣfenglōm
+twin {n} (either of two people who shared the same uterus, or of two similar or closely related objects) :: ġetwisa {m}, ġetwin {m}
+two {num} (numerical value) :: twēġen {m}, twā {f} {n}
+twofold {adj} (double) :: twāfeald
+udder {n} (organ formed of the mammary glands of female quadruped mammals) :: ūder {n}
+unafraid {adj} (not afraid, fearless) :: unforht
+unarmed {adj} (defenceless and lacking a weapon) :: unġewǣpnod, wǣpnlēas
+unarmed {adj} (not carrying arms) :: unġewǣpnod
+unblessed {adj} (not blessed) :: unsǣliġ
+uncle {n} (brother (or brother-in-law) of someone’s parent) :: fædera {m} [paternal], ēam {m} [maternal]
+undeniable {adj} (irrefutable, or impossible to deny) :: unligne
+undergo {v} (to suffer or endure) :: drēogan
+understand {v} (to grasp the meaning of) :: understandan, onġietan
+understand {v} (to impute meaning to) :: understandan, onġietan
+understand {v} :: onġietan 
+understanding {n} (mental process of comprehension, assimilation of knowledge, subjective by its nature) :: witt {n}
+undertaker {n} (funeral director) :: byrgend {m}, byrgere {m}
+unfair {adj} (not fair) :: unrihtwīs
+unfamiliar {adj} (not familiar) :: uncūþ
+unforeseen {adj} (not foreseen) :: unfōrescēawod
+unhappy {adj} (not happy; sad) :: wansǣliġ
+unicorn {n} (mythical beast) :: ānhorn {m}
+unique {adj} (one of a kind) :: ænlic, anfeald, anfealdlic, an
+unite {v} ((transitive) to bring together as one) :: ġeānian, ānlǣċan, fēġan, gadrian, ġesamnian, ġelōgian, ġemengan
+united {adj} (joined into a single entity) :: ġemǣne
+unity {n} (state of being one or undivided) :: ānnes {f}
+universe {n} (the Universe) :: heofon and eorþe, eall ġesceaft {m}
+unjust {adj} (not fair, just or right) :: unrihtwīs
+unless {conj} (except on a specified condition) :: būtan
+unlock {v} (to undo or open a lock) :: onlūcan
+unmarried {adj} (having no husband or wife) :: ǣmettig
+unprecedented {adj} (never before seen or done, without precedent) :: unfōrescēawod
+unripe {adj} (not ripe) :: unrīpe
+until {prep} (up to the time of) :: oþ
+until {prep} :: oþ
+until {conj} (up to the time that) :: oþ þæt
+until {conj} :: oþ, oþþæt
+unusual {adj} (not usual) :: unġewunelīċ
+unwearied {adj} (not wearied) :: ungeswenced
+upset {v} (make (a person) angry, distressed or unhappy) :: drēfan
+urge {v} :: manian
+urinate {v} :: mīgan
+urine {n} :: miċġa {m}, miċġe {f}, migoþa {m}, hland {n}
+us {pron} (objective case of "we") :: ūs
+use {v} (employ, apply) :: benotian, brycian, gebrycian, neotan, brucan, gebrycgan, gebrycsian
+useful {adj} (having a practical or beneficial use) :: nytlīċ
+useless {adj} (without use or possibility to be used) :: unnytlīċ
+usual {adj} (most commonly occurring) :: ġewunelīċ
+usually {adv} (most of the time) :: ġewunelīċe
+usurp {v} (seize power) :: āgnettan
+usury {n} (practice of lending money at illegal or unfair rates) :: wōcor {f}, feohgafol {n}
+utter {v} :: āseċġan
+valley {n} (elongated depression between hills or mountains) :: dæl {n}, denu {f}
+value {n} :: weorþ
+vein {n} (blood vessel transporting blood towards the heart) :: ǣdre {f}
+venom {n} (poison carried by animal) :: ātor {n}
+venomous {adj} (pertaining to or containing venom) :: ǣtriġ
+verb {n} ((grammar) a word that indicates an action, event, or a state) :: word {n}
+very {adv} (to a high degree) :: swīþe
+victim {n} (a living being slain and offered as a sacrifice) :: onsægednes {f}, tiber {n}
+victory {n} (an instance of having won a competition or battle) :: siġe {m}
+vigilant {adj} (watchful) :: wacol
+vile {adj} (morally low) :: earg
+village {n} (a rural habitation of size between a hamlet and a town) :: þorp {n}, wīċ {f}
+vine {n} (climbing plant that produces grapes) :: wīntrēow {n}
+vinegar {n} (condiment) :: æċed {n}
+vineyard {n} (grape plantation) :: wīngeard {m}
+vinyard {n} (vinyard) :: wīngeard {m}
+violent {adj} (involving extreme force or motion) :: stræc, stearc
+violent {adj} (involving physical conflict) :: grimlic, hæst, swiþlic
+violet {n} (plant) :: æppellēaf
+virgin {n} (person who has never had sexual intercourse) :: fǣmne {f} [referring to a woman], fæmenhadesmon {m} [referring to a woman], mæġdenman {m} [referring to a woman], mæġþman {m} [referring to a woman]
+virginity {n} (state or characteristic of being a virgin) :: fǣmnhād {m}
+visible {adj} (able to be seen) :: ġesewenlīċ
+vixen {n} (female fox) :: fyxen {f}
+voice {n} (sound uttered by the mouth) :: stefn {f}
+void {adj} (containing nothing) :: wēste; ǣmettig; tōm
+void {adj} (not producing any effect; ineffectual; vain) :: wēste
+void {n} (An empty space; a vacuum) :: ġelǣr
+vomit {v} (to regurgitate the contents of a stomach) :: spīwan
+vomit {n} (regurgitated former contents of a stomach) :: spiweþa {m}
+vulva {n} (collectively the external female sexual organs) :: mæġþblæd {n}
+wainwright {n} (maker of wagons) :: wæġnwyrhta {m}
+wait {v} (delay until some event) :: bīdan, ġebīdan
+wake up {v} (to (become) awake) :: āwacan
+wake up {v} (to awaken (someone else)) :: āweċċan
+walk {v} (to move on the feet) :: gān, gangan
+wall {n} (defensive rampart) :: weall {m}
+wall {n} (structure built for defense surrounding an area) :: weall {m}
+wall {n} (substantial structure acting as side or division in a building) :: weall {m}
+wallet {n} (case for keeping money) :: scēatcodd {m}
+walnut {n} (nut) :: wealhhnutu {f}
+walrus {n} (large Arctic marine mammal) :: horshƿæl {m}, horshwæl {m}
+wander {v} (to move without purpose or destination) :: scrīþan
+wander {v} (to go somewhere indirectly) :: scrīþan
+wanderer {n} (one who wanders) :: wandrere {m}
+want {v} (desire) :: willan
+war {n} (conflict involving organized use of arms) :: ġefeoht {n}
+war leader {n} (person who leads a people in war, see also: war chief; commander) :: heretoga
+warfare {n} (the waging of war or armed conflict against an enemy) :: campdōm {m}, gūþcræft {f}
+warrior {n} :: secg, beorn
+wart {n} (type of growth occurring on the skin) :: wearte {f}
+wary {adj} :: ċeariġ
+wash {v} (to clean with water) :: þwēan, wascan
+wasp {n} (insect) :: wæps {f}
+waste {v} (to squander) :: forspillan
+watchful {adj} (observant, vigilant and aware) :: wacol
+water {n} (clear liquid H₂O) :: wæter {n}
+water meadow {n} (low-lying area of grassland subject to seasonal flooding) :: hamm, halh, ing
+wave {n} (moving disturbance, undulation) :: ȳþ {f} , wǣġ {m} 
+wax {n} (oily, water-resistant substance) :: weax {n}
+wax tablet {n} (tablet covered with wax) :: ǣstel {m}
+way {n} (road, direction, path) :: ƿeg {m}, weġ {m}
+way {n} (method or manner) :: wīse {f}
+way too {adv} :: swīþe 
+we {pron} (the speakers, or the speaker(s) and other person(s) not being addressed (exclusive we: he or she or they and I)) :: [dual] wit, wē {p}
+weak {adj} (lacking in force or ability) :: wāc, tȳdre
+wealth {n} (riches; valuable material possessions) :: wela {m}
+weapon {n} (instrument of attack or defense in combat) :: wǣpn {n}
+wear {v} (to have on (clothes)) :: beran
+weary {v} (to make weary) :: ǣþryttan
+weasel {n} (least weasel, Mustela nivalis) :: wesle
+weather {n} (state of the atmosphere) :: weder {n}
+weaver {n} (one who weaves) :: Ƿebbeſtre
+wed {v} (to join in matrimony) :: ǣwnian
+wedding {n} (marriage ceremony) :: ǣ {f}
+wedge {n} (simple machine) :: wecg
+wee hours {n} :: hancrēd
+weight {n} (force due to gravity) :: ġewiht {n}
+weight {n} (object to make something heavier) :: ġewiht {n}
+weight {n} (standardized measuring weight) :: ġewiht {n}
+wet {adj} (made of liquid or moisture) :: wǣt
+wet {adj} (of an object: covered with or impregnated with liquid) :: wǣt
+whale {n} (large sea mammal) :: hwæl {m}, hronfisc {m}
+whaler {n} (person who hunts whales) :: hwælhunta {m}
+whaling {n} (practice of hunting whales) :: hwælhuntoþ {m}
+what {pron} (what? (interrogative pronoun)) :: hwæt
+wheat {n} (grain) :: hwæte {m}
+wheel {n} (a circular device facilitating movement or transportation) :: hwēoġol {n}, hwēoġl {n}, hwēol {p}
+whelp {n} (young of a mammal) :: hwelp {m}
+whelp {v} ((animals) to give birth) :: hwelpian
+when {adv} (at what time, as a direct question) :: hwenne, hwonne, hwænne
+when {conj} (at what time) :: þā
+when {conj} (at such time as) :: þā
+when {conj} (as soon as) :: þā
+when {conj} (at a time in the past) :: þā
+whence {adv} (from where; from which place or source) :: hwanon
+where {adv} (at or in what place) :: hwǣr
+where {adv} (to what place) :: hwæder
+where are you {phrase} (where are you?) :: hwǣr eart þū?
+where are you from {phrase} (in which country or region were you born or raised) :: hwanon eart þū?
+whetstone {n} (stone used to hone tools) :: hwetstān {m}
+which {determiner} ((interrogative) what, of those mentioned or implied) :: hwelċ
+while {n} (uncertain duration of time, a period of time) :: hwīl {f}
+while {conj} (during the same time that) :: þā hwīle þe
+whirlwind {n} (a violent windstorm of limited extent characterised by an inward spiral motion of the air) :: þoden {m}
+white {adj} (bright and colourless) :: hwīt
+who {pron} (who? (interrogative pronoun)) :: hwā
+who {pron} (who (relative pronoun)) :: þe
+who are you {phrase} (who are you?) :: hwæt eart þū?
+who watches the watchers {phrase} (concern about whether the law is enforced on those who enforce the law) :: hwā sċēawaþ þā sċēaweras
+whore {n} :: myltestre {f}, hore {f}
+whose {determiner} (of whom (interrogative)) :: hwæs
+wide {adj} (having a large physical extent from side to side) :: wīd, sīd
+widow {n} (woman whose spouse has died) :: widuwe {f}
+wife {n} (married woman) :: wīf {n}, mæġþ {f}, cwēn {f}
+wild {adj} (not domesticated or tamed) :: wōd
+wild animal {n} (animal living in a natural, undomesticated state) :: wilddēor {n}
+wildfire {n} (rapidly spreading fire) :: wilde fȳr {n}
+will {v} (indicating future action) :: Use the present tense; [more rarely] willan, sċulan
+willow {n} (tree) :: wīþiġ {m}
+win {v} (transitive: achieve victory in) :: winnan
+winch {n} (machine) :: wince {f}
+wind {n} (movement of air) :: wind
+wind {n} (flatus) :: wind
+windmill {n} (machine) :: *windmylen {f}
+windmill {n} (structure) :: *windmylen {f}
+window {n} (opening for light and air) :: ēagþyrel {n}, ēagduru {f}
+wine {n} (alcoholic beverage made from grapes) :: wīn {n}
+wineskin {n} (bag for holding wine) :: wīnbelg {m}
+wing {n} (part of an animal) :: fiþere {n}
+wink {v} (to blink with only one eye as a message, signal, or suggestion) :: wincian
+winter {n} (fourth season, marked by short days and lowest temperatures) :: winter {m}
+wipe {v} (remove surface substance) :: wīpian
+wise {adj} (showing good judgement) :: snotor, wīs
+wise man {n} (wise man) :: wita {m}
+wish {v} (to hope for an outcome) :: willan
+witch {n} (person who uses magic) :: hægtesse {f}, wiċċe {f}
+with {prep} (in the company of) :: mid
+withdraw {v} (pull back) :: oftēon
+withdraw {v} (take back) :: oftēon
+withdraw {v} (remove, stop providing) :: oftēon
+withhold {v} (to keep an object) :: æthealdan
+withstand {v} (to resist) :: wiþstandan
+wolf {n} (animal) :: wulf {m}
+woman {n} (adult female person) :: wīf {n}
+womb {n} (uterus) :: innoþ {m}, cwiþ {m}, hrif {n}, ċildhama {m}
+wonder {n} (something that causes amazement or awe, a marvel) :: wundor {n}
+wonder {v} (to be affected with surprise) :: wundrian
+wonder {v} (to ponder about something) :: wundrian
+wonderful {adj} (excellent, extremely impressive) :: wundorlic
+wood {n} (substance) :: holt {n}
+wood {n} :: wudu 
+wood pigeon {n} (Columba palumbus) :: wuduculfre {f}
+wood sorrel {n} :: ġēaces sūre {f}
+woodcock {n} (wading bird in the genus Scolopax) :: wuducoc {m}
+wooden {adj} (made of wood) :: trīwen
+woodpecker {n} (bird in Picinae) :: fina {m}, *spiht {m}
+wooer {n} (someone who woos or courts) :: wōgere {m}
+woolen {adj} (made of wool) :: wyllen
+work {n} (labour, employment, occupation, job) :: weorc {n}
+worker {n} (person who performs labor) :: wyrhta {m}
+world {n} (human collective existence) :: weorold {f}
+world {n} :: woruld, middanġeard
+wort {n} (liquid extract) :: wyrt {f}, ealoþwyrt {f}
+wound {n} (injury) :: benn, wund
+wound {v} (hurt or injure) :: wundian
+wren {n} (bird of family Troglodytidae) :: wrenna {m}
+wrist {n} (wrist) :: wríst {f}
+write {v} (to form letters, etc.) :: wrītan
+writer {n} (person who writes; an author) :: wrītere
+wrong {adj} (incorrect) :: unriht, wrang
+wrong {adj} (immoral) :: unriht, wrang
+wrong {adj} (improper) :: unriht, wrang
+wrong {n} (something immoral) :: unriht {n}
+yarn {n} (fiber strand for knitting or weaving) :: ġearn {n}
+yarrow {n} (any of several pungent Eurasian and North American herbs, of the genus Achillea) :: ġearwe {f}
+yawn {v} (open the mouth and take a deep breath) :: ġinian, gānian
+yawn {n} (the action of yawning) :: ġinung {f}, gānung {f}
+year {n} (time it takes for the Earth to complete one revolution around the Sun) :: ġēar {n}
+yell {v} (shout (verb)) :: hrīeman, ġiellan
+yellow {adj} (having yellow as its colour) :: ġeolu
+yellow {n} (colour) :: ġeolo
+yes {particle} (word used to indicate agreement or acceptance) :: ġēa, ġēse
+yes {interj} :: gea
+yesterday {adv} (on the day before today) :: geostran
+yew {n} (tree or shrub of the genus Taxus) :: īw {m}
+yield {n} (quantity of something produced) :: æþelu {f} {n}
+yogurt {n} (a milk-based product thickened by a bacterium-aided curdling process) :: meolcbrīw
+yoke {n} (wooden bar) :: ġeoc {n}
+yolk {n} (yellow of egg) :: ġeoloca {m}
+you {pron} (object pronoun: the group being addressed) :: ēow [plural]; inc [dual]
+you {pron} (object pronoun: the person being addressed) :: þē
+you {pron} (subject pronoun: the group being addressed) :: ġē [plural], ġit [dual]
+you {pron} (subject pronoun: the person being addressed) :: þū
+you {pron} (one) :: man
+you {determiner} :: þū
+young {adj} (in the early part of life or growth) :: geong
+your {determiner} (belonging to you (singular; one owner)) :: þīn {s}
+your {determiner} (belonging to you (plural; more owners)) :: inċer {d}, ēower {p}
+yours {pron} :: þīn, inċer [dual], ēower {p}
+zedoary {n} (Curcuma zedoaria) :: sideware {f}
+zero {num} (cardinal number before 1, denoting nothing) :: nōwiht
+Öland {prop} (island) :: Eowland {n}
